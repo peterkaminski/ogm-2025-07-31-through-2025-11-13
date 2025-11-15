@@ -1,0 +1,2538 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.290
+Alex Kladitis: Comedian teachers can show you
+
+2
+00:00:04.040 --> 00:00:10.160
+Alex Kladitis: how to become funny. Are there any such people? I don't know. If there are, then maybe an AI could be
+
+3
+00:00:11.020 --> 00:00:14.030
+Alex Kladitis: engineered to do that. We'll work on that, Jerry.
+
+4
+00:00:14.210 --> 00:00:30.380
+Jerry Michalski: Excellent. You have tripped into the OGM weekly call for October 2nd, 2025. Alex was wondering if AI might be able to coach him to be a funnier person, because he's normally very analytic, and that got us going on some fun stuff.
+
+5
+00:00:33.130 --> 00:00:40.370
+Jerry Michalski: So we'll wait a little bit until more people show up before we're diving into our topics for the day, but how is everybody?
+
+6
+00:00:41.540 --> 00:00:43.189
+Jerry Michalski: Surviving the apocalypse?
+
+7
+00:00:48.490 --> 00:00:53.200
+Alex Kladitis: Can I explain something about the apocalypse? Because I believe it's…
+
+8
+00:00:53.200 --> 00:00:56.670
+Jerry Michalski: Of course, is this a funny interjection, or is this a serious interjection?
+
+9
+00:00:56.670 --> 00:00:59.820
+Alex Kladitis: This is funny, actually, but only because it happened, not because I thought it up.
+
+10
+00:00:59.820 --> 00:01:01.360
+Jerry Michalski: It's working alright.
+
+11
+00:01:01.360 --> 00:01:02.220
+Alex Kladitis: sent me.
+
+12
+00:01:02.420 --> 00:01:07.910
+Alex Kladitis: We have some… gold in a certain bank place, or whatever. Anyway.
+
+13
+00:01:08.140 --> 00:01:13.860
+Alex Kladitis: So, my wife sent me a text, look at the value of gold, this gone up to… whatever, you know.
+
+14
+00:01:14.210 --> 00:01:18.250
+Alex Kladitis: So I, I replied, I said, oh my god, we're about to have a war.
+
+15
+00:01:18.470 --> 00:01:20.539
+Alex Kladitis: That's why the gold price shot up.
+
+16
+00:01:21.170 --> 00:01:22.940
+Alex Kladitis: And she said, she goes back.
+
+17
+00:01:23.790 --> 00:01:25.709
+Alex Kladitis: We're about to spend a lot.
+
+18
+00:01:28.140 --> 00:01:30.110
+Alex Kladitis: I'm gonna spend it.
+
+19
+00:01:30.300 --> 00:01:32.369
+Jerry Michalski: Analytical versus funny?
+
+20
+00:01:32.370 --> 00:01:33.780
+Alex Kladitis: You know, I went to the…
+
+21
+00:01:33.780 --> 00:01:35.620
+Jerry Michalski: Good, though, see? See? That worked.
+
+22
+00:01:37.180 --> 00:01:41.249
+Jerry Michalski: And two different ways of seeing what happens when the price of your asset spikes.
+
+23
+00:01:42.090 --> 00:01:42.600
+Alex Kladitis: Exactly.
+
+24
+00:01:42.600 --> 00:01:46.230
+Jerry Michalski: Oh my god, the world is coming to the end? Oh my god, we need to spend this.
+
+25
+00:01:48.200 --> 00:01:50.440
+Jerry Michalski: I like it. Hi, Stacey.
+
+26
+00:01:52.390 --> 00:01:55.789
+Jerry Michalski: I'm just going around seeing just how people are feeling this morning.
+
+27
+00:01:56.040 --> 00:02:01.340
+Jerry Michalski: I see your dog is chewing on the pillow or something behind you. The pillow is wobbling.
+
+28
+00:02:01.880 --> 00:02:04.580
+Stacey Druss: Yes, and he's now wearing a diaper.
+
+29
+00:02:05.070 --> 00:02:06.180
+Jerry Michalski: Oh, no!
+
+30
+00:02:06.180 --> 00:02:10.099
+Stacey Druss: And I look like this, so put it all together.
+
+31
+00:02:10.100 --> 00:02:13.239
+Jerry Michalski: Man, okay, so you just checked in really quick there, wasn't…
+
+32
+00:02:13.240 --> 00:02:14.649
+Stacey Druss: Yeah, there we go.
+
+33
+00:02:17.130 --> 00:02:18.150
+John Warinner: Cool.
+
+34
+00:02:19.580 --> 00:02:25.059
+Jerry Michalski: As I said in the, in the invite, sent, late last night.
+
+35
+00:02:25.980 --> 00:02:38.629
+Jerry Michalski: Today is a check-in call, but I'm also really interested in looking at OGM a bit, and I'm hoping more people join us on the call to do so, because I'd love some… a variety of opinions about what's up.
+
+36
+00:02:39.960 --> 00:02:45.380
+Jerry Michalski: But would love… Just feedback right now on what,
+
+37
+00:02:45.500 --> 00:02:48.190
+Jerry Michalski: But let's just jump in the middle of this thing.
+
+38
+00:02:48.560 --> 00:02:58.039
+Jerry Michalski: And, what's… what's working and not working about OGM calls and… List and things like that.
+
+39
+00:03:00.540 --> 00:03:03.510
+Stacey Druss: Can you just repeat what you said in the letter? Because I didn't see it.
+
+40
+00:03:03.860 --> 00:03:09.880
+Jerry Michalski: Yeah, so I just… I basically said it's a… today's a check-in call, given our normal rhythms, the first Thursday of the month.
+
+41
+00:03:10.070 --> 00:03:27.140
+Jerry Michalski: But also, we're overdue for feedback on OGM itself, and there's been… I've been getting some emails from different people saying, hey, what about this, what about that? And I'd love to just open that up and, you know, talk about it as a group, as us.
+
+42
+00:03:27.290 --> 00:03:28.530
+Jerry Michalski: Sean?
+
+43
+00:03:29.980 --> 00:03:33.920
+John Warinner: Yeah, good morning. So, I…
+
+44
+00:03:34.080 --> 00:03:37.000
+John Warinner: I'm aware of these Thursday morning calls.
+
+45
+00:03:37.570 --> 00:03:57.539
+John Warinner: I'm aware that there are some other calls that occur, but I have no idea, like, when they are, or where the map is that tells me, like, what those are, that type of thing. I'm, aware of Plex now, and I'm part of the team that's stepping in and helping
+
+46
+00:03:58.240 --> 00:04:05.389
+John Warinner: I'm failing in my responsibility coming out of the gate, but… but I'm committed, and I'm,
+
+47
+00:04:05.580 --> 00:04:11.279
+John Warinner: becoming aware of what Plex is and the community that it serves.
+
+48
+00:04:11.730 --> 00:04:22.920
+John Warinner: beyond that, I have zero understanding of, like, the, whatever, CSC Mattermost,
+
+49
+00:04:23.870 --> 00:04:31.689
+John Warinner: you know, whether there are Slack channels, whether they're… I know that there are these other forms of communication.
+
+50
+00:04:31.980 --> 00:04:42.630
+John Warinner: But I think, as my comment suggests, I have… I have no kind of conception of what they are, how they interrelate, and so as a…
+
+51
+00:04:43.320 --> 00:04:47.639
+John Warinner: emerging, Plex Contributor.
+
+52
+00:04:48.270 --> 00:04:57.089
+John Warinner: that wants to serve the community by having what I post there be relevant to things, other things that are going on.
+
+53
+00:04:57.210 --> 00:05:00.279
+John Warinner: I have this kinda low-level…
+
+54
+00:05:00.630 --> 00:05:07.029
+John Warinner: anxiety that… that, like, I don't know what's going on, and so, like, am I really…
+
+55
+00:05:07.510 --> 00:05:09.910
+John Warinner: Am I really, like, well…
+
+56
+00:05:10.230 --> 00:05:20.130
+John Warinner: qualified or positioned or whatever to add value, you know, like, as a commentator on the community. Anyway, so that's my… my comment.
+
+57
+00:05:20.420 --> 00:05:21.770
+Jerry Michalski: Oh, totally, John.
+
+58
+00:05:21.790 --> 00:05:45.930
+Jerry Michalski: So I can… I can put you at ease, because a lot of what you just described sort of has gone away, is going away. You appear to be on the two things that are sort of in the… standing in the middle of OGM, which is the OGM mailing list on the Google group, and I'm sure you're on that, because I see that on that periodically, and these Thursday calls. There used to be 3-4 other standing calls a week.
+
+59
+00:05:46.110 --> 00:06:10.859
+Jerry Michalski: And I don't know, six, seven months ago, I stepped out of them because I realized that those calls were spinning me up, and I was losing, like, half a day on each one, and I needed to refocus my time. And I don't know that any of those calls have survived. And Klaus, are Neobooks still meeting? I know that… I know that Eric Rangel had sort of led some of them, but I don't know that they're still up.
+
+60
+00:06:10.860 --> 00:06:12.030
+Jerry Michalski: That they're still going?
+
+61
+00:06:12.530 --> 00:06:21.500
+Klaus Mager: No, Jose was, talking about, starting a group, but then nothing happened that I'm aware of.
+
+62
+00:06:21.910 --> 00:06:32.080
+Jerry Michalski: Okay, and, the free jury's brain call hasn't… hasn't reconstituted in any way, so there was… there were a couple, a couple other calls, and there was a, there was a wiki page up.
+
+63
+00:06:32.120 --> 00:06:45.549
+Jerry Michalski: which I can share with you, which I should actually change now, because those calls don't exist anymore. And then, Pete has very kindly hosted the Mattermost server for us. Mattermost is the Slack open source alternative.
+
+64
+00:06:45.550 --> 00:06:55.229
+Jerry Michalski: or competitor, or something like that. And Pete very kindly was hosting a Mattermost instance for us and for several other communities that are kind of neighbors of ours.
+
+65
+00:06:55.230 --> 00:07:02.809
+Jerry Michalski: And the traffic has been really low on that, so he's deprecating that right about now. Pete, I don't know what your schedule is, or if you want to talk about that.
+
+66
+00:07:02.810 --> 00:07:22.090
+Jerry Michalski: But, we're kind of… we won't have that channel, and I'll add that he also had stood up a discourse channel, not Discord. It's sort of a pain in the social media business that these platforms are so similarly named and relatively different from each other. But Pete had also stood up a discourse
+
+67
+00:07:22.090 --> 00:07:22.960
+Jerry Michalski: forum.
+
+68
+00:07:23.110 --> 00:07:31.069
+Jerry Michalski: Which we used for a while, and then that also tapered off, so that got archived a year, year and a half ago? Sometime back.
+
+69
+00:07:31.170 --> 00:07:34.329
+Jerry Michalski: But I don't know, Pete, if you want to, talk about those.
+
+70
+00:07:35.230 --> 00:07:43.940
+Pete Kaminski: Yeah, maybe I'll jump in a bit. I don't have to go over a lot of it, although I'm happy to ask some questions. John, a good heuristic
+
+71
+00:07:45.680 --> 00:07:48.940
+Pete Kaminski: And kind of the way that I thought of plaques.
+
+72
+00:07:49.270 --> 00:08:04.709
+Pete Kaminski: back in the day, is you can just start talking about what you know, and hope that people will correct you when you get it wrong, or add when you've got it incomplete, or something like that. So, you don't have to feel super,
+
+73
+00:08:05.270 --> 00:08:15.599
+Pete Kaminski: defensive or, you know, self-whatever, about not knowing things, because if you just start talking, you know, if the community is strong enough.
+
+74
+00:08:15.660 --> 00:08:34.139
+Pete Kaminski: You'll get plenty of people going, you know, hey, that's not right, or do you know about this? I have to say, as Dre said, we used to have many more conversations going on, and we now have many fewer, it's more diffuse.
+
+75
+00:08:34.460 --> 00:08:48.159
+Pete Kaminski: I know of a signal group that calls itself an OGM signal group. I think most people don't know about it, and it's not meant to be a general, like, everybody from OGM should be there, so…
+
+76
+00:08:48.440 --> 00:09:01.020
+Pete Kaminski: Fellowship of the Link is another thing that is kind of hanging on. I haven't been to calls for a long time, and I don't think we've been successful at doing them every time, but they still go on a little bit.
+
+77
+00:09:01.020 --> 00:09:16.529
+Pete Kaminski: It was yesterday that I posted in that group, hey, by the way, Manamos is going away, we should reconvene someplace, and I suggested Signal, Matrix, or Discord, and got two answers within 24 hours, saying, yeah, Signal or Discord is fine.
+
+78
+00:09:16.770 --> 00:09:27.230
+Pete Kaminski: Massive Wiki, is rehoming itself on, on Matrix. There's…
+
+79
+00:09:27.510 --> 00:09:35.080
+Pete Kaminski: So… so maybe another way to say it is there are refugees in different places, and…
+
+80
+00:09:35.480 --> 00:09:49.829
+Pete Kaminski: somebody like John could go… go around and, you know, kind of ask, you know, hey, where are you hanging out? and then post that in something like the plaques or the list, and… and kind of help as we…
+
+81
+00:09:49.830 --> 00:10:05.070
+Pete Kaminski: you know, diffuse a little bit, to… to stay in touch a little bit better than we… we could otherwise. The big replacements, I think, for Mattermost are Discord and Signal, and…
+
+82
+00:10:05.280 --> 00:10:11.429
+Pete Kaminski: matrix, each of them has their pluses and minuses, and none of them
+
+83
+00:10:12.280 --> 00:10:25.849
+Pete Kaminski: we're… we're in a weird place now where, Mattermost is technically kind of the best that we could do, and we're not using it, so we're not going to use it. We don't get to use it, because I'm going to shut it down.
+
+84
+00:10:25.880 --> 00:10:40.289
+Pete Kaminski: every other thing is more, you know, either more commercial or more distributed, less, like, more decentralized, smaller. And that's the way of the world right now. It's just the way it is.
+
+85
+00:10:41.420 --> 00:10:42.300
+John Warinner: Thank you.
+
+86
+00:10:42.590 --> 00:10:58.429
+Jerry Michalski: Thanks, Pete. Also, I should say that, John, the fact that you didn't know where to look or whatever, it means I was… I… we were communicating badly. We, you know, should have done more of that. We should have more of these looking at ourselves calls anyway, so I'm glad we're doing… having this conversation.
+
+87
+00:10:58.790 --> 00:11:09.670
+John Warinner: Yeah, I… that may be true, Jerry, but, like, I also recognize from some of the conversations I've had with members here, like, I'm… I'm really, really new.
+
+88
+00:11:09.830 --> 00:11:21.080
+John Warinner: And it seems like most people that are in this group are kind of long-term, like, they've been around a long time, so there's kind of this, like, this institutional…
+
+89
+00:11:21.780 --> 00:11:32.720
+John Warinner: you know, things that seem obvious to most of the community because… because of the longevity of it. And so, it may just be a thing that, like, newbies…
+
+90
+00:11:33.240 --> 00:11:39.550
+John Warinner: You know, are in the dark, but only because It's… it's a longer term…
+
+91
+00:11:40.690 --> 00:11:45.349
+John Warinner: community than that, right? Like, it's not really built for brand new people.
+
+92
+00:11:45.500 --> 00:11:53.509
+Jerry Michalski: Sort of… sort of yes and no, and that last thing you said I want to pick up. You're feeling kind of OG to me, John, so… so I don't know how newbie you are anymore.
+
+93
+00:11:53.510 --> 00:11:54.000
+John Warinner: Oh.
+
+94
+00:11:54.000 --> 00:11:58.990
+Jerry Michalski: The bloom is off the rose, so to speak. But…
+
+95
+00:11:59.230 --> 00:12:18.030
+Jerry Michalski: I think not signposting well is what makes some communities unwelcoming, or hard to get into, and you don't really want to have a community where it's clear there's an OG, and they have their secrets and their secret handshakes and whatever else, and you're just going to have to figure them out somehow. That's not the thing we want to do or have.
+
+96
+00:12:18.230 --> 00:12:21.359
+Jerry Michalski: Yeah. So, you're gently, you're gently putting…
+
+97
+00:12:21.360 --> 00:12:33.729
+John Warinner: That's my main reason for speaking up, right, is just, yeah, because sometimes that new view is, oh, you know, like, to the people that have been around a while, it's a little bit like, oh, I didn't know it looked like that, you know?
+
+98
+00:12:33.860 --> 00:12:52.930
+Jerry Michalski: Exactly. And just to… before you go to Rick, to point out what Pete was just describing with all the different platforms, we're at a moment where we should discuss, do we want to shift platforms, add a platform, do something like that? What might we want to do, and what are the factors to blend into that kind of a decision? Rick?
+
+99
+00:12:54.120 --> 00:13:01.160
+Rick Botelho: Yeah, maybe I could just share a perspective, because I… I go between different groups, so I don't have the group that I go to.
+
+100
+00:13:01.320 --> 00:13:04.349
+Rick Botelho: So I've studied how groups evolve over time.
+
+101
+00:13:04.500 --> 00:13:15.310
+Rick Botelho: And I'll tell you a story that brings up the question, does this group want to grow or not? I think it's a critical question. If it doesn't want to grow, that's fine.
+
+102
+00:13:15.330 --> 00:13:29.589
+Rick Botelho: You know, it's for the group to decide that for now. But to John's point, I think, and I've witnessed this in other groups, that some groups don't do a very good of onboarding people. I mean, doing a deliberate onboarding, engaging, having a buddy system, or something like that.
+
+103
+00:13:29.590 --> 00:13:37.949
+Rick Botelho: So that people, no matter how welcoming you, there is still an inside-out dynamic, even though if you don't see it, if you're on the inside, so…
+
+104
+00:13:37.950 --> 00:13:40.699
+Rick Botelho: I think John's point is very valid.
+
+105
+00:13:40.840 --> 00:13:54.230
+Rick Botelho: So I think the critical question, do you want to grow or not? If you don't, that's fine. If you do, then obviously the fact that this, this community has gone through its biorhythms of being more expansive and is now contracting.
+
+106
+00:13:54.230 --> 00:14:02.969
+Rick Botelho: it has to decide, does it want to do that? And I'll just tell you a brief story that highlights some of this. I belong to EXO, I go to the mastermind groups.
+
+107
+00:14:02.980 --> 00:14:14.969
+Rick Botelho: And they had an AI group that was affiliated. They had a fallout. It was interesting. I couldn't understand it. Why would they have a fallout, you know? I mean, and so the AI group went off in a different direction.
+
+108
+00:14:14.970 --> 00:14:24.449
+Rick Botelho: Then it morphed and changed with new leadership, so it's now expanding, and it's now doing something I've seen other groups, and this group's experienced it too, where you get a spin-off group.
+
+109
+00:14:24.480 --> 00:14:41.450
+Rick Botelho: So there's a spin-off group from this AI group that's interested in, they started off focusing on human flourishing, and I said, we have to have human and planetary flour. Are you going to expand it to that? If you are, then I'd be interested in that group. So it's a fledgling group.
+
+110
+00:14:41.450 --> 00:14:48.979
+Rick Botelho: And to me, this speaks to sort of, like, the mycelium nature of these things. What are the inhibitory and,
+
+111
+00:14:48.980 --> 00:14:55.609
+Rick Botelho: pro-growth strategies. And until you answer the question, do you want to grow or not, then
+
+112
+00:14:55.830 --> 00:15:00.010
+Rick Botelho: You know, it's difficult to make any concrete suggestions about expansion.
+
+113
+00:15:00.070 --> 00:15:14.019
+Rick Botelho: I'll give you one reference, Jory, which a group that I used to belong to but left because I didn't find it. It was a men's group called Metal, which I know you've presented at. But what's interesting about that group is they're very effective
+
+114
+00:15:14.020 --> 00:15:29.800
+Rick Botelho: at having… they must… at the time, they must have had 50 different groups, clustering, infinities, crypto, this, this, this, this, and this. And, I left the group because it was apolitical, and I had other issues with it, but it was an incredible experience to see how
+
+115
+00:15:29.800 --> 00:15:48.280
+Rick Botelho: a group that purports to be apolitical when it wasn't, which was the part of the irony, would have these different, you know, groups, breadth groups, whatever. So the critical question, do you want to grow or not? Or are you quite happy as it is? And maybe once a week on Thursday is all that's needed?
+
+116
+00:15:48.390 --> 00:16:01.949
+Rick Botelho: So, I'm not vested in any way. You know, I pop in because I get a few new ideas, go away and think about it. So, you know, I think you have to decide, Jerry, whether you want to create something that's more
+
+117
+00:16:02.060 --> 00:16:17.839
+Rick Botelho: self-organizing, self-generating, self-governing, if you want to have spin-off affinity groups, because people have this niche that they want to follow for a period of time, and whatever. So, I think that's the question the group needs to ask itself.
+
+118
+00:16:18.700 --> 00:16:34.609
+Jerry Michalski: Thanks, Rick. That's really useful. And yes, the metal thing I spoke at once, I was invited to speak, and I came in, and the groups dynamic wasn't something I particularly liked. I think they made Saturday mornings or something like that for several hours, and they've got kind of a programmatic approach to it.
+
+119
+00:16:35.140 --> 00:16:46.689
+Jerry Michalski: But you reminded me of a really good… one of Malcolm Gladwell's better articles is called The Cellular Church, and I just put a link to it in the chat. Somebody tell me if that is an open link or not, I think it is.
+
+120
+00:16:48.180 --> 00:17:07.310
+Jerry Michalski: And he talks about the Saddleback Church, where Rick Warren was a pastor, and how giant the church became because they had… so the Colton Group, the downhill bikers, you know, they basically created little cells where everybody had a common interest, and once a year, they would get together in a local football stadium.
+
+121
+00:17:07.470 --> 00:17:13.030
+Jerry Michalski: Because there were so many of them, they couldn't all fit in the church they had. So it was really pretty interesting.
+
+122
+00:17:13.540 --> 00:17:32.709
+Jerry Michalski: And I think the question about, do we want to grow, is a really nice question for the group. I don't think it's for me. And funny you mention onboarding and all that. Early in OGM, 2020-2021, we had a bunch of meetings and conversations about onboarding, who wants to be involved in onboarding, also outreach, who wants to bridge to other communities.
+
+123
+00:17:32.710 --> 00:17:40.829
+Jerry Michalski: And those didn't turn into any resources that we wound up finishing or whatever. The efforts kind of petered out.
+
+124
+00:17:42.870 --> 00:17:49.720
+Jerry Michalski: It's kind of a characteristic of OGM, and I'm gonna overgeneralize here, that we have lovely salons, but we don't get a lot of things done.
+
+125
+00:17:49.720 --> 00:18:08.430
+Jerry Michalski: There are other communities that create bodies of work, whether it's wiki pages, or pattern languages, or code, or something else. We've not, and we have kind of a hardy crew here, which is, like, well represented right now, right here.
+
+126
+00:18:08.530 --> 00:18:16.230
+Jerry Michalski: and maybe this is a salon for us, and maybe we want to keep it going, maybe we don't. I don't… I'm open to all suggestions.
+
+127
+00:18:16.920 --> 00:18:18.370
+Jerry Michalski: I… I'm not…
+
+128
+00:18:18.580 --> 00:18:29.399
+Jerry Michalski: focused on growth, growth, growth. I… I find if… it's very funny. I find if these calls went larger than one screen worth of Zoom gallery.
+
+129
+00:18:29.400 --> 00:18:44.279
+Jerry Michalski: I would probably have a harder time in them, and enjoy them a little less, because I like, I really like… so that takes us up to whatever size. Is it 64 now that you can sort of max out on a reasonable screen on Zoom?
+
+130
+00:18:44.450 --> 00:18:56.179
+Jerry Michalski: Maybe that's the size, I don't know. But, I really like seeing everybody's faces and being able to see expressions, and if somebody's, like, leaning back in the corner or whatever else, that's… that makes it very, convivial to me.
+
+131
+00:18:56.480 --> 00:19:03.690
+Jerry Michalski: And then, last thing, Rick, the group that split and all that, was that the OpenXO community? Is that the group you were talking about, or is that someone else?
+
+132
+00:19:03.870 --> 00:19:07.699
+Rick Botelho: No, it was the, it was the EXO community.
+
+133
+00:19:07.730 --> 00:19:12.719
+Rick Botelho: Oh, okay. But they had an AI subgroup that independently just ran
+
+134
+00:19:12.740 --> 00:19:26.280
+Rick Botelho: And there was a fallout between the leadership between the two groups. Interestingly leadership, that AI out group, moved on, and it's now got new leadership, and it's getting a second win. But coming to your point of what you just said.
+
+135
+00:19:26.280 --> 00:19:37.819
+Rick Botelho: I agree with you, you want to have intimacy groups, but if you design it in such a way that you have subgroups, or you break into groups, or whatever, you can… it's a question of whether you want to do that.
+
+136
+00:19:38.180 --> 00:19:41.040
+Rick Botelho: Interesting. To me, the issue is.
+
+137
+00:19:41.060 --> 00:19:50.470
+Rick Botelho: Can people follow their passion and connect with people who feel passionate about the areas that they're interested in? So, you're creating affinity groups.
+
+138
+00:19:50.470 --> 00:20:09.569
+Rick Botelho: And, you know, that, you know, to be honest, I don't think the design of this group as it is now is designed for that purpose. And that's fine for what it's doing now, but if it wanted to be able to, you know, have these mycelium spin-offs or whatever, then you would have to, I think, have a different design.
+
+139
+00:20:09.940 --> 00:20:11.540
+Rick Botelho: But that's up to you guys, I mean…
+
+140
+00:20:11.540 --> 00:20:23.949
+Jerry Michalski: Actually, Rick, the groups that… in answering John's question about what about those other meetings, when I said that there were other groups that I stepped out of, those were, in fact, little mycelial rhizomal spinach, exactly like you're saying.
+
+141
+00:20:23.950 --> 00:20:24.700
+Rick Botelho: Yeah, exactly.
+
+142
+00:20:24.700 --> 00:20:25.880
+Jerry Michalski: Exactly.
+
+143
+00:20:25.880 --> 00:20:32.179
+Rick Botelho: is, do you want to rekindle it? Or, maybe the wrong metaphor, but do you want to re-nurture it?
+
+144
+00:20:32.220 --> 00:20:37.720
+Jerry Michalski: Well, kindling is fine. Good, we've got a bunch of people who'd love to chip in. John, back to you.
+
+145
+00:20:37.970 --> 00:20:55.540
+John Warinner: Yeah, just one sentence. A companion, I think, to Rick's question is… is a super important question. Do you want to grow? But I think the companion question is, in what ways, you know, in what… in what manner, in what dimensions, what directions? Because as you said, growth…
+
+146
+00:20:56.980 --> 00:21:06.940
+John Warinner: growth itself is a little bit of a ridiculous goal if it doesn't have a, you know, something more of a guiding intention to it, I think.
+
+147
+00:21:07.190 --> 00:21:08.670
+Jerry Michalski: Yep. Thanks, John.
+
+148
+00:21:08.780 --> 00:21:09.550
+Jerry Michalski: Alex?
+
+149
+00:21:10.960 --> 00:21:17.520
+Alex Kladitis: My contribution to this is as follows. I feel very different from you guys, okay?
+
+150
+00:21:17.690 --> 00:21:19.640
+Alex Kladitis: But that's why I like being here.
+
+151
+00:21:20.050 --> 00:21:27.750
+Alex Kladitis: I don't believe I'm on the same political affiliation as you guys. I don't believe I'm on any topic, literally. I listen to you guys, and I think.
+
+152
+00:21:27.980 --> 00:21:29.370
+Alex Kladitis: I don't agree with that.
+
+153
+00:21:29.670 --> 00:21:31.029
+Alex Kladitis: But that's what I value.
+
+154
+00:21:31.870 --> 00:21:34.589
+Alex Kladitis: Because otherwise, I'm not gonna listen to anybody.
+
+155
+00:21:34.890 --> 00:21:36.279
+Alex Kladitis: Doesn't agree with me.
+
+156
+00:21:36.470 --> 00:21:41.350
+Alex Kladitis: And sadly, I haven't found a group of people who totally agree with me, if they did, would…
+
+157
+00:21:41.630 --> 00:21:58.000
+Alex Kladitis: wouldn't exist. But the point is that I value the diversity of use. Now, I do get frustrated sometimes, I think, oh, we should expand more on this or that, but as you say, we can form subgroups, we can do all sorts of things beyond that.
+
+158
+00:21:58.560 --> 00:22:07.449
+Alex Kladitis: But, there's a limit how many groups you can join any one week. And I find this the most all-encompassing, kind of.
+
+159
+00:22:07.940 --> 00:22:10.180
+Alex Kladitis: Divergent views kind of group.
+
+160
+00:22:12.140 --> 00:22:22.170
+Jerry Michalski: Thanks very much. That's super interesting. Maybe you need to start your own movement. Maybe… maybe you're unique in your cluster of perspectives, and a bunch of people would show up for you.
+
+161
+00:22:23.020 --> 00:22:32.200
+Alex Kladitis: Yes, they would, but then that'd be my people, my ideas… sorry, not my ideas, but my, sort of… you know, you form your own, kind of, thinking, whatever.
+
+162
+00:22:32.200 --> 00:22:32.720
+Jerry Michalski: Right.
+
+163
+00:22:32.720 --> 00:22:34.640
+Alex Kladitis: That's what I'm fighting against.
+
+164
+00:22:35.750 --> 00:22:36.120
+Jerry Michalski: Love that.
+
+165
+00:22:36.120 --> 00:22:38.489
+Alex Kladitis: I'm not right at everything, you know.
+
+166
+00:22:39.830 --> 00:22:41.140
+Jerry Michalski: Love that. Thanks, Alex.
+
+167
+00:22:41.290 --> 00:22:42.220
+Jerry Michalski: Pete.
+
+168
+00:22:47.270 --> 00:22:58.850
+Pete Kaminski: I kind of suggested to John a heuristic for finding out more. You know, publish what you know and see who complains or adds.
+
+169
+00:22:58.850 --> 00:23:05.930
+Klaus Mager: I… thinking about it, I also wanted to share another one for individuals more than somebody publishing.
+
+170
+00:23:07.720 --> 00:23:17.970
+Pete Kaminski: I feel like I'm… there… there are still OGM-adjacent groups that are… that continue to form. It's not…
+
+171
+00:23:18.260 --> 00:23:19.999
+Pete Kaminski: It's still going on.
+
+172
+00:23:20.120 --> 00:23:27.990
+Pete Kaminski: And the way I know about some of those is because I'm in touch with the person starting that group.
+
+173
+00:23:28.040 --> 00:23:43.680
+Pete Kaminski: So, another heuristic is to ask the people that you find interesting, hey, where are you hanging out? Are you doing some stuff about, you know, XYZ topic? Do you know somebody who is?
+
+174
+00:23:43.680 --> 00:23:51.410
+Pete Kaminski: And, within the OGM community, there's a bunch of people who are continually doing things, or…
+
+175
+00:23:51.450 --> 00:24:00.309
+Pete Kaminski: willing to do things with you if, you know, if you said, hey, I need to, you know, I'm interested in working on this topic.
+
+176
+00:24:01.320 --> 00:24:20.279
+Pete Kaminski: can, you know, could we join up and do something together? Could we start some calls? That's… all of that is totally within the bounds of, kind of, what OGM has been doing and… and is continuing to do even now. You know, I've… there's a couple subgroups that I've joined in the past month, you know.
+
+177
+00:24:20.540 --> 00:24:35.579
+Pete Kaminski: They're not for everybody, but they're, you know, it's… it's happening. I was going to… I'm gonna find a link on the OGM wiki about, you know, how to start a group or something like that. There's a page on that, and I'll put that in the chat.
+
+178
+00:24:38.360 --> 00:24:39.969
+Jerry Michalski: Thanks, Pete.
+
+179
+00:24:40.430 --> 00:24:42.520
+Jerry Michalski: Stacy, please.
+
+180
+00:24:44.630 --> 00:24:45.770
+Jerry Michalski: You're muted.
+
+181
+00:24:46.740 --> 00:24:47.950
+Jerry Michalski: Yep, yep, yep.
+
+182
+00:24:49.150 --> 00:24:49.810
+Stacey Druss: Okay.
+
+183
+00:24:50.600 --> 00:24:53.339
+Stacey Druss: Let's see if I can describe this properly.
+
+184
+00:24:53.820 --> 00:24:56.100
+Stacey Druss: Towards the idea of growth.
+
+185
+00:24:56.230 --> 00:25:09.340
+Stacey Druss: I'm thinking of the inner growth, and I'm thinking that at this point, with the people I know at OGM, I really do feel like I'm one degree of separation away from anybody I'm ever gonna need to know or want to know.
+
+186
+00:25:09.500 --> 00:25:13.720
+Stacey Druss: That's really how I… and my personal life, too, just in general.
+
+187
+00:25:14.220 --> 00:25:23.840
+Stacey Druss: I look at every one of us as a page, on my own page. The most valuable thing that's happened in this group for me, Pete, it's your archive.
+
+188
+00:25:24.790 --> 00:25:30.590
+Stacey Druss: That archive was very valuable, and I think it's important to this conversation.
+
+189
+00:25:31.490 --> 00:25:37.859
+Stacey Druss: when I went into that archive, I was able to find something that I wrote that's a part of my page.
+
+190
+00:25:37.970 --> 00:25:49.309
+Stacey Druss: I was able to bring it to somebody who's in a totally different community, but is connected to people in this community. I see somebody right here that
+
+191
+00:25:49.570 --> 00:25:51.320
+Stacey Druss: That he's connected to.
+
+192
+00:25:51.590 --> 00:26:04.870
+Stacey Druss: I've spoken to him in other places. Like, there's, like, just, we're all connected in so many different places. But in this case, I'm the page that I carried to make those connections.
+
+193
+00:26:05.260 --> 00:26:09.449
+Stacey Druss: I'm wondering if there's a way that when we have a call.
+
+194
+00:26:10.110 --> 00:26:26.460
+Stacey Druss: It could be archived in that same way, so that we could add those pieces to our pages, because to me, it's the members that are important, and it's the members that go to the different places and make up those different groups.
+
+195
+00:26:26.710 --> 00:26:29.559
+Stacey Druss: And, what else did I want to add?
+
+196
+00:26:30.540 --> 00:26:33.349
+Stacey Druss: I think I'll stop for now, but
+
+197
+00:26:34.830 --> 00:26:36.569
+Stacey Druss: Oh, I just want to say.
+
+198
+00:26:38.390 --> 00:26:40.950
+Stacey Druss: Because there's so many different stories.
+
+199
+00:26:41.290 --> 00:26:53.470
+Stacey Druss: And every piece of information is part of a story, but Jerry might need more pieces of that story, and maybe I don't want to give Klaus as many of those pieces, because it'll confuse things.
+
+200
+00:26:53.990 --> 00:27:11.499
+Stacey Druss: What I've been doing, because I want people like Sean to see the whole story, so that when he's building, he'll know what my needs are, I've just been saying everything all the time, and it's been really hard for me to do that. So I'll put things on the OGM mailing list.
+
+201
+00:27:11.690 --> 00:27:13.330
+Stacey Druss: I don't know who's reading it.
+
+202
+00:27:13.580 --> 00:27:18.730
+Stacey Druss: I am pretty sure that anybody in this call We'll kind of see it.
+
+203
+00:27:18.840 --> 00:27:31.430
+Stacey Druss: And if they don't, I know they're gonna hear it from me personally. So I've kind of, you know, I'm working my odds. Good chance they're gonna get that information. Whoever else sees it, I don't know, I don't care.
+
+204
+00:27:31.590 --> 00:27:41.440
+Stacey Druss: As far as the Plex goes, I have no clue who reads it. Do we know? I mean, do you… are you, like, measuring who actually reads it?
+
+205
+00:27:41.740 --> 00:27:43.759
+Stacey Druss: Because if I have a question.
+
+206
+00:27:43.930 --> 00:27:46.819
+Stacey Druss: I'll go first to the OGM mailing list.
+
+207
+00:27:47.310 --> 00:27:52.649
+Stacey Druss: And then maybe I'll put it in the Plex, because honestly, I have no idea who the audience is
+
+208
+00:27:53.220 --> 00:27:57.639
+Stacey Druss: OGM mailing lists have a little bit of an idea, and it's worth it.
+
+209
+00:27:57.940 --> 00:28:09.640
+Stacey Druss: And, again, I think there's something to… somebody mentioned earlier about many different interests. I think it's kind of good that there's a place where it starts, where it's,
+
+210
+00:28:10.580 --> 00:28:12.920
+Stacey Druss: Not so diffuse and diverse.
+
+211
+00:28:13.540 --> 00:28:18.450
+Stacey Druss: Because… Not all the pages need to go into all of the books.
+
+212
+00:28:18.940 --> 00:28:20.329
+Stacey Druss: Okay, now I'm done.
+
+213
+00:28:22.530 --> 00:28:25.689
+Jerry Michalski: Stacy, thank you. Pete, do you wanna…
+
+214
+00:28:26.240 --> 00:28:28.340
+Jerry Michalski: addressed a little bit that went to you?
+
+215
+00:28:29.020 --> 00:28:36.850
+Pete Kaminski: I… Stacy had an interesting question about who reads the plaques. I…
+
+216
+00:28:37.380 --> 00:28:42.120
+Pete Kaminski: I know a little bit, and I actually kind of purposely don't…
+
+217
+00:28:42.520 --> 00:28:49.510
+Pete Kaminski: try to analyze that or count, you know, count reads or anything like that, because I think it's… I don't know.
+
+218
+00:28:50.430 --> 00:28:55.560
+Pete Kaminski: I like that people can… You know, read in private.
+
+219
+00:28:55.770 --> 00:29:07.830
+Pete Kaminski: Oddly enough. I don't know. So there's a… there's a missing function there where it would be nice to… to have a better idea of, you know, who's in the audience, and… and,
+
+220
+00:29:09.120 --> 00:29:17.099
+Pete Kaminski: If the audience should be expanded, could be expanded, something like that. I don't know. I'm not super interested in that kind of functionality.
+
+221
+00:29:18.490 --> 00:29:20.080
+Stacey Druss: Can I just say something?
+
+222
+00:29:20.080 --> 00:29:20.830
+Jerry Michalski: Please go ahead, Stu.
+
+223
+00:29:20.830 --> 00:29:40.259
+Stacey Druss: It's not about… it's not about to, like, an audience so that I could sell them something. It's like, who am I telling it to? You know, I'm not gonna come to this group and say, listen, there's a women's poetry circle tomorrow, you know, this isn't the group I'm gonna announce it to. So it's just about knowing where to bring the message.
+
+224
+00:29:40.410 --> 00:29:56.950
+Pete Kaminski: Yeah, I completely understand, and I've… for better or for worse, by the way, I'm not publishing Plex anymore, Kevin is. And he's gonna make his own decisions. His idea, his conception, as far as I understand, is actually to
+
+225
+00:29:57.090 --> 00:30:16.380
+Pete Kaminski: to be mostly about OGM, for whatever reason. That, you know, and maybe this is a good place to interject. A thing that I always wanted with the Plex, and I felt like I was marginally successful, and then mostly I felt like I failed, was kind of exactly
+
+226
+00:30:16.390 --> 00:30:25.720
+Pete Kaminski: something that we're talking about here, who's doing what where? How can I find out who's doing more? Or, you know, when I know a little bit, can I find out more about something?
+
+227
+00:30:25.860 --> 00:30:43.290
+Pete Kaminski: it turned out to be devilishly difficult, I found, to get that kind of information from people and to… to get that kind of information from people. And it's not because people are closed-lipped, it's because if you ask me, hey, Pete, where do you hang out? It's like.
+
+228
+00:30:43.320 --> 00:30:52.440
+Pete Kaminski: I don't know. Today, I'm hanging out with, I was gonna hang out with Jesse today, you know? Does that matter to you? Do you care? Do you, like… is that the… and I won't tell you…
+
+229
+00:30:52.530 --> 00:31:16.090
+Pete Kaminski: you know, the 3 or 4 other things that are coming up this month that aren't currently in my head, right? It's really difficult. Another good example of somebody who's doing a lot of amazingly cool stuff and, you know, doesn't have the time to talk about it, Vincent Arena. He's doing a massively amazing project, and, you know, he's always
+
+230
+00:31:16.090 --> 00:31:18.549
+Pete Kaminski: Thoughtful and helpful when you ask them a question.
+
+231
+00:31:18.550 --> 00:31:26.970
+Pete Kaminski: But he doesn't have a lot of time to, like, sit around and brainstorm with folks, you know, hey, this is the kind of thing that's going on, you should know this, you should know that.
+
+232
+00:31:27.200 --> 00:31:28.839
+Pete Kaminski: We're missing a…
+
+233
+00:31:29.690 --> 00:31:38.930
+Pete Kaminski: not OGM. We, the global we, everybody is missing a matchmaking function, a way of…
+
+234
+00:31:39.100 --> 00:31:41.400
+Pete Kaminski: Finding out, you know.
+
+235
+00:31:41.400 --> 00:32:00.970
+Pete Kaminski: from your friends and your friends of friends, and your friends of friends of friends, what are the things that you all know about that I would find interesting, right? We haven't cracked that nut. It's a really difficult thing to know who's saying what. So, to come back to your kind of question and your thought there, Stacy.
+
+236
+00:32:01.290 --> 00:32:12.859
+Pete Kaminski: my heuristic for the Plex was, like, I'm gonna publish whatever I want to in the Plex. I didn't really know, I didn't have a good understanding of what to publish, who found…
+
+237
+00:32:13.300 --> 00:32:26.630
+Pete Kaminski: who found Charles' little videos interesting, or who found them, you know, distracting, who cared about, this interview or that interview? I don't… don't know. I didn't look at readership, and I didn't really care.
+
+238
+00:32:26.750 --> 00:32:33.629
+Pete Kaminski: Because I think… It's a little bit hard to describe, but…
+
+239
+00:32:33.780 --> 00:32:48.519
+Pete Kaminski: I know you're not interested in, like, oh, I need more advertising views, and I want to be able to resell, package, and resell eyeballs. I know you're not talking about that, but it's kind of… I felt like it's kind of a slippery slope. And…
+
+240
+00:32:49.230 --> 00:32:56.420
+Pete Kaminski: I don't know. I… the… a thing… in Plex, I felt this…
+
+241
+00:32:58.150 --> 00:33:08.260
+Pete Kaminski: concern or thinking, or something like that, I… I wanted to give people agency and… and let them…
+
+242
+00:33:08.440 --> 00:33:22.439
+Pete Kaminski: permit me to do things, rather than saying, well, I'm gonna do this because you've joined this collective, right? I'm going to count you, I'm going to, you know, understand whether or not I should post something about knitting, or whatever, right?
+
+243
+00:33:22.620 --> 00:33:29.759
+Pete Kaminski: I, I think it's… I think we…
+
+244
+00:33:30.420 --> 00:33:37.510
+Pete Kaminski: Too often, we assume that people Can be collected into…
+
+245
+00:33:37.550 --> 00:33:47.539
+Pete Kaminski: you know, into categories, even benign categories, benignly collected, when I don't… I don't… I don't feel that way. You know, I think…
+
+246
+00:33:47.540 --> 00:34:01.830
+Pete Kaminski: And so then we end up in this weird conundrum, right? I could have helped Plex a lot more, probably, if I knew what Plex was interested in. And if I said, hey, here's an edge where we're almost interested as a group.
+
+247
+00:34:02.210 --> 00:34:17.629
+Pete Kaminski: but we're not talking about it. Let me push this edge a little bit, let me start doing that, right? And see who catches on, who enjoys that. That would make it more of a collective brain, more of a collective thinking process, right? I didn't have the
+
+248
+00:34:17.630 --> 00:34:24.570
+Pete Kaminski: I didn't have, and I didn't want to, create the opt-in for that, because opt-ins are…
+
+249
+00:34:24.570 --> 00:34:30.559
+Pete Kaminski: are kind of a pain. So it's weird. It's a weird problem of, like.
+
+250
+00:34:30.650 --> 00:34:40.239
+Pete Kaminski: how… how do we know… how do we find out about people? How do we ask people if it's okay to find out about them? All that kind of stuff. It's… it's hard.
+
+251
+00:34:41.230 --> 00:34:47.459
+Jerry Michalski: There's a bunch of stuff I want to put into the conversation that's kind of OGM history, but first you go, Stacey.
+
+252
+00:34:47.469 --> 00:34:54.779
+Stacey Druss: Yeah, real quick, could we have had, like, a like or a common function? Because to me, that would have been the perfect platform right there.
+
+253
+00:34:55.210 --> 00:35:10.159
+Pete Kaminski: Yes, yes, there should have been likes and comments. There should have been, there should have been individual article addressing. All of that stuff is work, and, you know, and…
+
+254
+00:35:10.160 --> 00:35:10.930
+Klaus Mager: Two minutes.
+
+255
+00:35:10.930 --> 00:35:12.839
+Pete Kaminski: Even something like likes.
+
+256
+00:35:14.460 --> 00:35:23.100
+Pete Kaminski: it's… we… we got trained by Facebook and Amazon, where they have really good rating systems.
+
+257
+00:35:23.370 --> 00:35:33.090
+Pete Kaminski: Facebook… well, actually, both of those are good and bad, right? They're evil in a way. But they have enough velocity and throughput
+
+258
+00:35:33.090 --> 00:35:48.099
+Pete Kaminski: to be able to do statistically interesting and useful stuff, right? Something like Plex is so small that adding a function that Amazon has, like reviews, or something that Facebook has, like likes or whatever they do nowadays.
+
+259
+00:35:48.100 --> 00:36:02.889
+Pete Kaminski: It's… it's nearly meaningless. You know, one like here, one like there is not enough for me to have done all the work to make sure that the like, the like, infrastructure is there, right?
+
+260
+00:36:03.370 --> 00:36:09.909
+Pete Kaminski: Another… another weird problem, in, in small group dynamics.
+
+261
+00:36:10.540 --> 00:36:20.879
+Pete Kaminski: You don't get the same… even… and maybe a way to illustrate this, and sorry to go on kind of on a detail here, but it's another important illustration of a problem.
+
+262
+00:36:20.940 --> 00:36:33.060
+Pete Kaminski: If I go to Substack, oh my gosh, Substack has got amazing throughput of, like, people reading stuff, and they're pushing viewers all over the place, and when somebody posts an amazing article.
+
+263
+00:36:34.350 --> 00:36:46.010
+Pete Kaminski: I want to go and say, you know, is this article more amazing than other articles? What are other articles that are amazing like this one, right? I see one or two likes, you know, and…
+
+264
+00:36:46.240 --> 00:37:02.680
+Pete Kaminski: it's… it's interesting and almost… it's not that useful. It's… it's, you know… Medium is finally kind of getting to the… the point with their clap thing that it's kind of… I can kind of tell what's interesting and kind of not, but not in the way that…
+
+265
+00:37:03.320 --> 00:37:08.949
+Pete Kaminski: that, God forbid, X is, you know, on X, you can kind of tell…
+
+266
+00:37:09.260 --> 00:37:24.960
+Pete Kaminski: tell what's going on from the traffic and volumes. And another aside, sorry, I'm gonna get even more technical, the big… the big platforms like Twitter or X or Instagram or something like that.
+
+267
+00:37:25.160 --> 00:37:44.009
+Pete Kaminski: you start to see weird dynamics of the likes, you know, like, just because there's a lot of likes doesn't mean it's actually popular. It means that a bunch of bots have decided to boost that one, right? And so you get these weird non-social dynamics that go on that don't mean what you… what they are meant to mean.
+
+268
+00:37:44.150 --> 00:37:55.629
+Pete Kaminski: So anyway, social software is really hard, social dynamics is really hard, getting us more signal and less noise is really hard. Really, really, really hard.
+
+269
+00:37:56.750 --> 00:38:01.459
+Jerry Michalski: This is the… Perfect segue for me to do a little bit of history and talk about context.
+
+270
+00:38:01.460 --> 00:38:17.960
+Jerry Michalski: I love the conversation we're having, and I think we should go deeper into what tools would we like to use, what affordances do we really want to value over others, etc, etc. And that's right next to the conversation about, do we want to grow, whatever else, but let me go back. First thing I want to say is.
+
+271
+00:38:17.960 --> 00:38:23.660
+Jerry Michalski: we should do the same kind of composting indexing with the OGM wiki, Pete says in the chat, and I'm like.
+
+272
+00:38:24.750 --> 00:38:31.239
+Jerry Michalski: Because… when Pete put up the Mattermost server, I just automatically started pouring
+
+273
+00:38:31.420 --> 00:38:40.639
+Jerry Michalski: all the files, I basically take the… I download the video from Zoom, I upload it to YouTube, I take that link, I put it in my brain.
+
+274
+00:38:40.640 --> 00:39:00.560
+Jerry Michalski: I put it in the Mattermost, and then I attach to that Mattermost entry the chat, the transcript, and the AI summary. And I've been doing that rhythmically, methodically for… since… not since June 2020, which was our first call, but since the Mattermost server came out and all that, and that's where all the files are, and Mattermost is a terrible place to do that.
+
+275
+00:39:00.560 --> 00:39:05.520
+Jerry Michalski: Mattermost is not a database, it doesn't make it easy to fetch those things out, it doesn't do anything like that.
+
+276
+00:39:06.060 --> 00:39:17.040
+Jerry Michalski: I've been an avid user of Massive Wiki since Pete came out with Massive Wiki. I'm writing like a fiend in Obsidian in the OGM Wiki. It has not occurred to me once
+
+277
+00:39:17.190 --> 00:39:24.700
+Jerry Michalski: to go create… to go into the folder and, you know, some… to create, basically, the list of all the calls in OGM Wiki.
+
+278
+00:39:24.700 --> 00:39:41.070
+Jerry Michalski: Which may or may not be the right kind of structure to put it in. I'm not exactly sure that it's… that the wiki as it stands is a great database for looking things up or doing analyses or whatever else on it. That's an interesting, sad conversation. I just want to say, it hadn't occurred to me
+
+279
+00:39:41.070 --> 00:39:49.889
+Jerry Michalski: to go do it there, and at this point, because Mattermost is being deprecated, I just created a Google Drive where I'm putting all the files, and that's not very useful, and nobody knows it exists.
+
+280
+00:39:49.890 --> 00:40:01.919
+Jerry Michalski: So, I'm up for some brainstorming about, hey, every time I, you know, I download these files, where should I put them and what should I do? Where it's much more useful, and I think OGM Wiki is a nice place to do it.
+
+281
+00:40:01.920 --> 00:40:14.080
+Jerry Michalski: Because, another thing I wrote down is wikis versus newsletters. Pete and I are both big fans of wikis. Pete used to actually, he co-founded and was in a wiki company for years called SocialText.
+
+282
+00:40:14.130 --> 00:40:28.030
+Jerry Michalski: I… he and I, and many others thought many years ago that we would all be collaborating through wikis, and that there would be some semi-structured wikis. There's one called Wagon that came and went that was about slightly more structured data.
+
+283
+00:40:28.210 --> 00:40:43.059
+Jerry Michalski: There were a bunch of kind of variants, but we thought we would be collaborating to co-write a series of connected nodes of text and other stuff that existed out in a rhizomal mycelial network of nodes, and I love this vision.
+
+284
+00:40:43.120 --> 00:41:01.960
+Jerry Michalski: MassiveWiki isn't quite a wiki yet, and may not… I don't know that it's on Pete's Roadmap anymore to turn it into a full-fledged wiki, because you can't click a… you can't edit the page that you're looking at, which is, I think, a really important feature for wikis to have. So we don't have wiki-like conversation yet in
+
+285
+00:41:02.140 --> 00:41:22.050
+Jerry Michalski: ironically, OGM Wiki. But the topography of a wiki is… or a mailing list and a newsletter are all different. And Stacy, what I mean by topography is, when you have a newsletter, it's broadcast to a bunch of people who sign up, and the owner of the list might be able to see the list of people who've signed up, but it's not a public resource.
+
+286
+00:41:22.240 --> 00:41:33.710
+Jerry Michalski: on the OGM list, you can go… you may not have done this yet, but you can go to Google Groups, and you can see all the members of the OGM list. You can see when you put any… and when you drop any email to
+
+287
+00:41:34.170 --> 00:41:43.619
+Jerry Michalski: open globalmind at Google Groups, you can see who it went to. You cannot tell if any of them forwarded it to a friend or anything like that. You can't tell the second-order reach.
+
+288
+00:41:43.640 --> 00:41:47.710
+Jerry Michalski: But the first order you reach is right there for you to see, and it's easy, right?
+
+289
+00:41:47.710 --> 00:42:11.529
+Jerry Michalski: And then on a wiki, you can kind of see who made changes. You can't usually see who read the page. It doesn't track visitors who are reading, unless you have a larger site like Wikipedia, but there's a community of people who are co-editing, and it's a very different feeling around the shared asset online. And those things are distinct and culturally different and interesting in ways that we should talk about at greater length.
+
+290
+00:42:11.980 --> 00:42:19.679
+Jerry Michalski: Now for a little bit of history. Way early in OGM, Vincent Arena showed up, and one of the questions was, hey, who's doing what with whom?
+
+291
+00:42:19.680 --> 00:42:26.390
+Jerry Michalski: And that turned out to be a big question that was big enough that Vincent came straight out of, out of college.
+
+292
+00:42:26.390 --> 00:42:40.139
+Jerry Michalski: where he had done some of this for his college, and he started a project to create a list of groups, and members of groups, and all of that, which he's still doing, and I haven't seen Vincent, he hasn't been in OGM for quite a while. He's apparently quite busy.
+
+293
+00:42:40.140 --> 00:42:57.300
+Jerry Michalski: We also had a little period where we were, and I think Pete sort of started… gave us a metaphor of, hey, since there are lots of little overlapping, raindrop-y organizations swimming in the big flotilla, there was also a side project called Flotilla for a while that Pete was running.
+
+294
+00:42:57.300 --> 00:43:00.920
+Jerry Michalski: What is the view from the mast of any one organization?
+
+295
+00:43:00.920 --> 00:43:25.009
+Jerry Michalski: Like, if I were to go to the top of the OGM mast and look out, there are some orgs that are closer to us and others that are sort of out on the horizon that we've heard of, but there's some who have regular overlapping members because there are members of those communities who are regulars here, right? And so, this view from the mast thing was really interesting, and then later, I was looking for, how do I get a multi-plane camera view
+
+296
+00:43:25.600 --> 00:43:32.340
+Jerry Michalski: And now, sorry, I'm gonna explain a different thing. Disney invented the multi-plane camera to make cartoons.
+
+297
+00:43:32.550 --> 00:43:49.210
+Jerry Michalski: They basically created a frame where you could put cells, T-E-L-S, which are individual frames of animations. You would put cells in each of these layers, and the background would be, like, the landscape, and then here would be a couple trees, and here would be a Donald Duck.
+
+298
+00:43:50.140 --> 00:44:00.429
+Jerry Michalski: And you could move them at different rates of speed to give the illusion of depth and speed in a comic pretty easily. You would then replace one of them, but just shift the other ones, etc.
+
+299
+00:44:00.560 --> 00:44:14.170
+Jerry Michalski: what I was looking for was this view from the mast, could it be one layer in a multi-plane camera, another view is the people, another view is the projects that each of these things are going into, and then between the different layers, you could see, oh.
+
+300
+00:44:14.170 --> 00:44:26.340
+Jerry Michalski: Stacy is a member of OGM, and she's part of this group doing a Neobooks project, or not, or whatever else, and you could kind of go up and down and see and collect, but you could turn this multi-plane thing around, and you could pull any one of them out.
+
+301
+00:44:26.340 --> 00:44:42.040
+Jerry Michalski: And look at them in 2D, because just the view from the mast is its own interesting story, or just the overlapping projects is an interesting story, but then you can see the relationship between them. And that was more code than any of us was interested in trying to create, or anything like that.
+
+302
+00:44:42.040 --> 00:44:55.020
+Jerry Michalski: So that's the multi-plane camera view thing that I put in the chat. We're sort of at this interesting moment where, ironically, when somebody says, hey, I've got a new community, what tool should I use? There's no good answer.
+
+303
+00:44:55.560 --> 00:45:01.269
+Jerry Michalski: like, if you ask Pete and me and other people who have a lot of experience in this field, we'll be like.
+
+304
+00:45:01.420 --> 00:45:15.829
+Jerry Michalski: oh god, not this question again, that's under our breath. And then we're like, well, you could try Discord, or you could try a Google group, or you could try this, or you could try that, and they all have their pluses and minuses, and the ones that have eaten the space, Facebook, LinkedIn, and others.
+
+305
+00:45:16.020 --> 00:45:34.630
+Jerry Michalski: Facebook has, as its business model, addicting you, so not that cool. LinkedIn, much less so, but is very business-y, very, very whatever, whatever. I'm trying to do a little something with some private LinkedIn groups, but they don't have a lot of life, right? So the question still is, where the hell do we go?
+
+306
+00:45:34.850 --> 00:45:43.389
+Jerry Michalski: And I'm a little angry at the software world for not having fixed this and solved it at this point. I think that we're kind of, we're kind of…
+
+307
+00:45:43.840 --> 00:45:47.020
+Jerry Michalski: We know enough about all these things to figure out
+
+308
+00:45:47.370 --> 00:46:00.269
+Jerry Michalski: what to do, right? But… but we don't… we haven't sort of figured that out, and it would be nice if… I'd love to hear people's opinions, whatever else. But that's… that's just a little bit of background history, a bunch of different things we tried.
+
+309
+00:46:00.270 --> 00:46:08.830
+Jerry Michalski: None of which frankly stuck, and a few people, like Vincent went off and were entrepreneurial and built up the thing that they were working on.
+
+310
+00:46:08.830 --> 00:46:17.899
+Jerry Michalski: And went off. There are other communities, I'm trying to remember, Brad DeGraff has one, but another… Ben Roberts has a community where he's got a Kumu map.
+
+311
+00:46:17.990 --> 00:46:36.790
+Jerry Michalski: of all the people in overlapping communities, that's really quite interesting. I'll find the link and post it in the chat when I'm done monologuing here. But some of the flotilla of neighboring communities have managed to get things done and share them out into the world, and they're really quite interesting resources.
+
+312
+00:46:37.840 --> 00:46:44.269
+Jerry Michalski: And with that, let's do a few seconds of silence, and then I'll go to you, Klaus. Thanks for your patience.
+
+313
+00:47:30.260 --> 00:47:31.330
+Jerry Michalski: Thanks, everybody.
+
+314
+00:47:32.720 --> 00:47:33.490
+Jerry Michalski: House.
+
+315
+00:47:35.540 --> 00:47:43.609
+Klaus Mager: Yeah, I was saying, we used to have a calendar. I was recently looking for it, and it seems to either have disappeared, or I couldn't find it.
+
+316
+00:47:43.850 --> 00:47:50.199
+Klaus Mager: But there used to be a calendar where, people would… groups would advertise themselves.
+
+317
+00:47:50.280 --> 00:48:01.849
+Klaus Mager: And, there would be open or closed groups, you know, there would be some groups you can just hop in. There would be other groups, you know, please see, please check in if this is the right thing for you.
+
+318
+00:48:01.870 --> 00:48:08.689
+Klaus Mager: But it really made it super easy to… to share, you know, what's happening.
+
+319
+00:48:08.690 --> 00:48:22.669
+Klaus Mager: And one reason why I was thinking about it is because I've been this summer wanting to see what's going on in my own community, and when you go to your Meetup, schedule, I mean, the Meetup app.
+
+320
+00:48:24.320 --> 00:48:40.219
+Klaus Mager: every group here is advertising itself, and they also, you know, let you know if this is open, or drop-in, or contact me, and so on. And it's super incredible how many groups are meeting, you know, even in a small town like Bend.
+
+321
+00:48:40.220 --> 00:48:47.520
+Klaus Mager: I mean, any topic you can think of, if you want to go to send meditation, or an AI group, or you name it.
+
+322
+00:48:47.520 --> 00:49:03.350
+Klaus Mager: you know, climate change issues, you know, electrification, the national organizations, like Citizen Climate Lobby, and, you know, the Sierra Club, I mean, they all have local representations.
+
+323
+00:49:03.380 --> 00:49:13.229
+Klaus Mager: So there's… there's just so much happening, it makes it… makes it really easy and interesting, so why don't we have… why don't we look at
+
+324
+00:49:13.230 --> 00:49:23.670
+Klaus Mager: regrouping this schedule, right? And if someone wants to form a group, you can just make yourself known on their schedule, put a little background on it, and off you go.
+
+325
+00:49:24.350 --> 00:49:40.440
+Jerry Michalski: I'd be very happy to post about us on other groups' schedules or calendars, so that more people can find us. That sounds awesome. I just… I haven't looked around, so I don't know which calendars to look at. Anybody who wants to do that, please do that on our behalf as well. Brief side note.
+
+326
+00:49:40.440 --> 00:49:48.850
+Jerry Michalski: I meant in my long rant to do something unrelated, which was to point out how spectacular Pete's recent project about social cyclic theories is.
+
+327
+00:49:48.900 --> 00:50:04.770
+Jerry Michalski: just go… go browse around the wiki. It's an astonishing resource of… you've heard of Kondratiev Waves, and the great turning, and all that. This is a beautifully organized, very deep compendium of that stuff. Totally worth looking at.
+
+328
+00:50:04.960 --> 00:50:09.290
+Jerry Michalski: now we return to our regular program, which is already in progress. Alex.
+
+329
+00:50:09.290 --> 00:50:18.290
+Klaus Mager: But if I may, the one that you just posted, actually, I found this one, but there, for example, it hasn't been updated. You know, in the yearbooks on Mondays, we used to.
+
+330
+00:50:18.290 --> 00:50:28.349
+Jerry Michalski: That's the page… earlier when I was saying that we had sort of deprecated the different pop-out, the different pop-out calls, and I needed to update the web, that's the page I need to fix.
+
+331
+00:50:28.520 --> 00:50:31.549
+Klaus Mager: But there was an actual schedule, like a next…
+
+332
+00:50:31.550 --> 00:50:34.330
+Jerry Michalski: I remember that too, and I don't know where. I don't have it.
+
+333
+00:50:35.260 --> 00:50:36.710
+Pete Kaminski: I think that's mine, that the old.
+
+334
+00:50:36.710 --> 00:50:38.900
+Klaus Mager: Enough Courtney would find it.
+
+335
+00:50:38.900 --> 00:50:42.509
+Pete Kaminski: There we go. And this is something that I made.
+
+336
+00:50:43.010 --> 00:50:45.080
+Pete Kaminski: It's a lot of work to do this.
+
+337
+00:50:45.340 --> 00:50:45.980
+Jerry Michalski: Yeah.
+
+338
+00:50:46.360 --> 00:50:50.529
+Pete Kaminski: And the community didn't support it well enough.
+
+339
+00:50:54.440 --> 00:50:55.150
+Jerry Michalski: Alex.
+
+340
+00:50:57.010 --> 00:51:00.170
+Alex Kladitis: Okay, checking on Pete's comment just then.
+
+341
+00:51:00.450 --> 00:51:03.780
+Alex Kladitis: I'm gonna go the other way. So,
+
+342
+00:51:03.910 --> 00:51:12.929
+Alex Kladitis: So, I agree with you, Jerry, about… okay, just my personal experience. I have an issue reading long blocks of text.
+
+343
+00:51:13.040 --> 00:51:22.480
+Alex Kladitis: So I want everything in little bits in titles, headings, summarizations, whatever. So obviously, if you go to Discord, it is like a…
+
+344
+00:51:23.490 --> 00:51:27.150
+Alex Kladitis: impossibility for me to follow anything. Literally, it's just…
+
+345
+00:51:27.540 --> 00:51:35.189
+Alex Kladitis: I've got to think… it's like having long chains of emails, and having to look back to see what someone said. Again, for me, it's impossible.
+
+346
+00:51:35.780 --> 00:51:43.480
+Alex Kladitis: So Discord's art. Similarly, all the other, kind of, IT-centric, you know, computer-centric, techy people-centric things are art.
+
+347
+00:51:43.890 --> 00:51:47.750
+Alex Kladitis: Email has just said, OGM, even the email is a challenge for me.
+
+348
+00:51:47.900 --> 00:51:50.900
+Alex Kladitis: But anyway, the point I'm trying to make is.
+
+349
+00:51:51.140 --> 00:51:57.120
+Alex Kladitis: I would love to create our own one, or, you know, create a product about this.
+
+350
+00:51:57.400 --> 00:52:01.440
+Alex Kladitis: caters with all these… all these issues we just mentioned.
+
+351
+00:52:02.480 --> 00:52:06.889
+Alex Kladitis: based on what you said, Jerry, is I don't understand why nobody's done it yet.
+
+352
+00:52:07.470 --> 00:52:16.370
+Alex Kladitis: I don't know if you remember a tool that was out there for a short while until Google, as it does so often, canned it. Was it called Wave or something?
+
+353
+00:52:16.370 --> 00:52:18.550
+Jerry Michalski: Yep, Wave. Wave was great.
+
+354
+00:52:18.550 --> 00:52:19.000
+Alex Kladitis: bubble…
+
+355
+00:52:19.000 --> 00:52:20.709
+Jerry Michalski: So was Google+, by the way.
+
+356
+00:52:21.740 --> 00:52:28.500
+Alex Kladitis: So Wave and Google Plus were two gigantic projects that Google launched and then deprecated really quickly. They were both super interesting.
+
+357
+00:52:29.200 --> 00:52:43.059
+Alex Kladitis: Yeah, absolutely, and I understood Wave, I liked Wave, but obviously I couldn't find anybody else on my wavelength, so… but that was the kind of thing. So, if anybody's interested in working on this with me or whatever.
+
+358
+00:52:43.170 --> 00:52:53.330
+Alex Kladitis: I'm happy to work with people on this, but I just think there must be a product out there that does it. It's not beyond the imagination. I don't understand why there isn't one.
+
+359
+00:52:55.120 --> 00:52:58.319
+Jerry Michalski: Totally agree with you. Totally agree with you.
+
+360
+00:52:58.440 --> 00:53:07.080
+Jerry Michalski: Kalia, thanks for being there, and I'd love it if you also gave us a little taste of what Sharif's meditation session was like, if you're willing to do that.
+
+361
+00:53:10.320 --> 00:53:20.159
+Kaliya Identity Woman: How about I brain check on Sharif's meditation? Because I'm working on getting a one-page website up for it, and when it is ready, I will invite you all.
+
+362
+00:53:20.180 --> 00:53:21.409
+Jerry Michalski: That sounds great.
+
+363
+00:53:25.790 --> 00:53:28.260
+Kaliya Identity Woman: So, I think that…
+
+364
+00:53:28.740 --> 00:53:39.249
+Kaliya Identity Woman: I'm… I'm… raise my hand because I have to go at the top of the hour, and I said… I linked just a couple things in chat. I think that…
+
+365
+00:53:39.960 --> 00:53:42.420
+Kaliya Identity Woman: We are… we.
+
+366
+00:53:43.400 --> 00:53:53.400
+Kaliya Identity Woman: I don't know what we means anymore. People are approaching the problem that we have incorrectly. I don't believe we live in a social graph.
+
+367
+00:53:53.590 --> 00:53:56.590
+Kaliya Identity Woman: That is a product of our…
+
+368
+00:53:57.130 --> 00:54:01.299
+Kaliya Identity Woman: Tool, a mental model, and the social reality of
+
+369
+00:54:02.050 --> 00:54:17.479
+Kaliya Identity Woman: archetypical social reality of young, young masculine energy that runs around and says, look at me, connect to me, I'm really important. It's fine. It's a noble way to be in the world, it's just not the only way. And the anchor of…
+
+370
+00:54:18.030 --> 00:54:26.619
+Kaliya Identity Woman: which… and that energy built the social web, because that's who was given money to build it. If you had given money.
+
+371
+00:54:26.780 --> 00:54:35.999
+Kaliya Identity Woman: to… Women who are oriented around groups and communities, we would have built a vastly different social web.
+
+372
+00:54:36.380 --> 00:54:41.489
+Kaliya Identity Woman: and social tooling, and I think we have to go back and, like, go, wait.
+
+373
+00:54:41.850 --> 00:54:57.450
+Kaliya Identity Woman: what did we just build? We did not build infrastructure for groups and communities to be coherent, to govern themselves, to take action together in the world, in part because I believe they don't want us to have this tooling. I mean, when you… why… why after this long, isn't it…
+
+374
+00:54:57.630 --> 00:55:04.620
+Kaliya Identity Woman: resource, but… I'm working with Grace Rajmani on articulating group
+
+375
+00:55:05.550 --> 00:55:14.850
+Kaliya Identity Woman: credentialing information. Another reason the software world is broken is you can form a group, but you can't port a group, and you can't move it between places.
+
+376
+00:55:15.190 --> 00:55:30.880
+Kaliya Identity Woman: Until we have that, we're locked into our tooling, so we need infrastructure that's separate from the tooling about group belonging and membership. This is, you know, the identity tech I've worked on for 20 years is finally here, and we could finally do that if we built it.
+
+377
+00:55:31.260 --> 00:55:38.819
+Kaliya Identity Woman: We need to use the identity tech for things other than government-issued ID, which is getting all the money and attention and resourcing.
+
+378
+00:55:39.020 --> 00:55:53.549
+Kaliya Identity Woman: It's fine, I'm neutral on it. There are open protocols, anybody can build anything, but we have to build group tooling for our own groups, so we have identity outside of status systems. And we also need group accountability and group
+
+379
+00:55:55.160 --> 00:56:02.190
+Kaliya Identity Woman: dispute resolution, and Grace also has thought a lot about how to do this, potentially at scale.
+
+380
+00:56:02.370 --> 00:56:05.939
+Kaliya Identity Woman: in creative ways. So, I just would invite…
+
+381
+00:56:11.760 --> 00:56:17.130
+Kaliya Identity Woman: Yeah, considering what I said, and sort of thinking about it slightly differently than
+
+382
+00:56:18.310 --> 00:56:24.169
+Kaliya Identity Woman: you know, the bird's eye view of all the people. This is instrumentalist thinking.
+
+383
+00:56:24.320 --> 00:56:34.690
+Kaliya Identity Woman: there's Chapter 15 and 16 of Surveillance Capitalism are about this, and about Sandy Pentland's lab, and specifically, And…
+
+384
+00:56:35.450 --> 00:56:42.549
+Kaliya Identity Woman: People are… Yeah, I could go on. But,
+
+385
+00:56:42.840 --> 00:56:48.639
+Kaliya Identity Woman: I've said enough, I have to go, I'm sorry, but it's about the groups and tooling for groups.
+
+386
+00:56:50.570 --> 00:56:53.209
+Kaliya Identity Woman: And, and oh, I'll just finish and say…
+
+387
+00:56:53.560 --> 00:57:03.720
+Kaliya Identity Woman: We need to also think about this community infrastructure as digital public infrastructure, not just statist infrastructure as digital public infrastructure.
+
+388
+00:57:05.440 --> 00:57:10.919
+Jerry Michalski: Kalia, thank you. I'm sorry you have to bounce in a minute or two.
+
+389
+00:57:11.190 --> 00:57:17.059
+Jerry Michalski: That's a really good reorienting for us. I was thinking that
+
+390
+00:57:17.540 --> 00:57:23.679
+Jerry Michalski: Vcs… I wrote… VCs are happy to fund addiction, but they're not going to fund community or civic life.
+
+391
+00:57:23.890 --> 00:57:39.550
+Jerry Michalski: But you're also… I think you're also saying… I'm gonna… I'm gonna exaggerate a little bit what you said, but boys will create boy tools, and women will actually create social tools that… that care about structure, reconciliation.
+
+392
+00:57:39.580 --> 00:57:57.139
+Jerry Michalski: relationships, all that kind of stuff, and we have not created any path to the sea for that kind of software, and we're not backing it, we're not funding it, we're not anything yet. And there might be a really interesting remedy there. Grace was a regular in OGM for a while.
+
+393
+00:57:57.260 --> 00:58:03.049
+Jerry Michalski: And kind of… we chased her off, or she dropped out, or she got really busy with… with this.
+
+394
+00:58:03.050 --> 00:58:05.170
+Kaliya Identity Woman: I don't know why she doesn't come?
+
+395
+00:58:05.170 --> 00:58:05.500
+Jerry Michalski: Tell me.
+
+396
+00:58:05.950 --> 00:58:07.870
+Kaliya Identity Woman: Because all you do is talk.
+
+397
+00:58:08.370 --> 00:58:17.389
+Kaliya Identity Woman: That's what she said. It's just to talk fast, and it's… and also your demographics. Although, you know, every time I come, I change the demographics. That's true.
+
+398
+00:58:17.500 --> 00:58:21.170
+Kaliya Identity Woman: How does this group go beyond, like.
+
+399
+00:58:21.490 --> 00:58:29.060
+Kaliya Identity Woman: If we are… not we… if one is serious about making a difference in the world, how is that difference actually manifest?
+
+400
+00:58:31.710 --> 00:58:34.569
+Kaliya Identity Woman: Like, I'm going because it's, like…
+
+401
+00:58:34.890 --> 00:58:38.879
+Kaliya Identity Woman: I, you know, at one point I came more regularly. It sort of…
+
+402
+00:58:40.260 --> 00:58:51.140
+Kaliya Identity Woman: good to connect, and I like you all, but still, like, it's more, like, intellectually, like, massaging, not, like, doing. It's fun.
+
+403
+00:58:52.150 --> 00:58:53.250
+Jerry Michalski: Well, well…
+
+404
+00:58:53.350 --> 00:59:10.669
+Jerry Michalski: I was gonna say I agree, but I sort of agree. It feels like OGM has become the tidal pool at the intersection of multiple people's activities. And, you know, Klaus is out trying to change the world toward regenerative
+
+405
+00:59:10.730 --> 00:59:20.350
+Jerry Michalski: agriculture, clean soil, clean… I mean, healthy soil, clean water, etc. And I love hearing what he does in those spheres, and he is really, really active.
+
+406
+00:59:20.640 --> 00:59:39.740
+Jerry Michalski: Doug is trying to pacify the world in other ways, and he is very active in other spheres, and I love when he checks in. And Sean is busy, like, coding till his, like, eyes fall out, like, late at night, trying to build a platform to do all this kind of stuff, and I hope is hearing what you're saying, because I think
+
+407
+00:59:39.740 --> 00:59:46.110
+Jerry Michalski: what you just said is, like, really interesting for, what Sean is trying to do.
+
+408
+00:59:46.430 --> 00:59:57.679
+Jerry Michalski: et cetera, et cetera. Scott, has put together… and it's funny, I just… I just look around the… my little gallery view, and everybody's busy doing stuff, but we don't…
+
+409
+00:59:57.870 --> 01:00:11.880
+Jerry Michalski: We don't succeed when we try to do stuff together much at all. And, granted, but it feels to me like the sharing of those bits of activity from each of us is somehow worth it for us to show up here and go.
+
+410
+01:00:12.060 --> 01:00:16.169
+Jerry Michalski: Kalia, thank you, I know you have to, you have to bounce.
+
+411
+01:00:16.690 --> 01:00:22.120
+Kaliya Identity Woman: I mean, I think that's why I'm coming, so it may also be, like, You know, I…
+
+412
+01:00:23.570 --> 01:00:26.790
+Kaliya Identity Woman: And it's okay, not everybody has to be in every group.
+
+413
+01:00:26.790 --> 01:00:32.740
+Shawn Murphy: But before you go, Julia, before you go, I, I, I'm…
+
+414
+01:00:33.070 --> 01:00:44.399
+Shawn Murphy: I'm doing things at two layers. One level is the MMM level, and what that is, is the merged mental model. What it is, is a distributed
+
+415
+01:00:44.600 --> 01:00:56.109
+Shawn Murphy: data store that is… it's semantic, it's structured, but it also has textual components. So, in effect, it's structured so that it can hold both
+
+416
+01:00:56.430 --> 01:01:14.170
+Shawn Murphy: the hyper-object of the great conversation, which is natural language being flung back and forth around the world. The hyper-object of the great conversation is all of our discourse through history, it could hold that
+
+417
+01:01:14.760 --> 01:01:20.570
+Shawn Murphy: And it can also hold the merged mental model, which is
+
+418
+01:01:20.720 --> 01:01:26.590
+Shawn Murphy: our… the superposition of our collected understandings. And the way that's…
+
+419
+01:01:26.900 --> 01:01:29.440
+Shawn Murphy: And this is just a data layer.
+
+420
+01:01:29.660 --> 01:01:37.440
+Shawn Murphy: Okay? So it's a distributed database that it's kind of like Bitcoin, but for ideas.
+
+421
+01:01:37.880 --> 01:01:41.909
+Shawn Murphy: Okay? For those two aspects of… of…
+
+422
+01:01:42.000 --> 01:02:01.329
+Shawn Murphy: the problem space, okay? And so, so yeah, and so one of the things that it has is a bunch of, of, privilege levels and control circuits, so that, so that groups can define themselves
+
+423
+01:02:01.560 --> 01:02:02.400
+Shawn Murphy: And…
+
+424
+01:02:02.400 --> 01:02:11.599
+Kaliya Identity Woman: then come and collaborate with us, and don't reinvent new things. Like, we have the infrastructure. I mean, that's what we talked about last time we talked, so…
+
+425
+01:02:11.600 --> 01:02:12.470
+Shawn Murphy: Exactly.
+
+426
+01:02:12.470 --> 01:02:12.869
+Kaliya Identity Woman: Figure it out.
+
+427
+01:02:12.870 --> 01:02:18.010
+Shawn Murphy: I embrace your use cases, and I have an offer.
+
+428
+01:02:18.010 --> 01:02:20.570
+Jerry Michalski: That's the platform.
+
+429
+01:02:20.570 --> 01:02:21.680
+Shawn Murphy: How are you safe?
+
+430
+01:02:21.680 --> 01:02:25.730
+Jerry Michalski: I would say pitch it into groups that Aaliyah might direct you toward.
+
+431
+01:02:27.390 --> 01:02:30.770
+Jerry Michalski: Good. And she's… she's headed off to her… her call.
+
+432
+01:02:32.250 --> 01:02:33.240
+Jerry Michalski: Thanks, Sean.
+
+433
+01:02:35.740 --> 01:02:46.580
+Jerry Michalski: I think our topic for next Thursday is sort of like this. I think we pick up this conversation and keep going. I think we're in a good place, and I think we've only…
+
+434
+01:02:46.940 --> 01:02:53.710
+Jerry Michalski: We've passed the hour, but we've only now started to turn into some interesting issues that matter that might actually be
+
+435
+01:02:54.750 --> 01:03:07.459
+Jerry Michalski: long-term, how we… how we shift or do something. I'm not… I'm not feeling that articulate about it right now, but I feel like… I feel like I'm seeing differently than I was at the top of the hour, which I… at the start of the hour, which I really appreciate. Pete, please.
+
+436
+01:03:14.410 --> 01:03:22.589
+Pete Kaminski: As always, there's about 4 things I want to reply to. I don't know if I'll hit all of them, and probably shouldn't anyway.
+
+437
+01:03:25.070 --> 01:03:35.870
+Pete Kaminski: One of the things I wanted to say, I… I… I said really hard, really, really, really hard a couple times, and… and also.
+
+438
+01:03:39.280 --> 01:03:46.499
+Pete Kaminski: you know, didn't have the resources to do that, community didn't support this, whatever, right? One of the bright lights
+
+439
+01:03:48.800 --> 01:04:00.969
+Pete Kaminski: One of the bright lights nowadays is AI assistance. So the… the Plex Archive is actually an amazingly well-put-together thing. I…
+
+440
+01:04:01.260 --> 01:04:09.029
+Pete Kaminski: didn't… I didn't really do that. I had AI write code that did that.
+
+441
+01:04:09.120 --> 01:04:26.569
+Pete Kaminski: So, when I say something like AI is really important here, I'm not meaning that we should seed things over to AI and say, hey, AI, can you help me? I'm lost and confused. But there is definitely a place for…
+
+442
+01:04:27.690 --> 01:04:39.139
+Pete Kaminski: AI to follow the lead of a human who knows that they need to organize things, and an AI is great at grunt lifting code, or
+
+443
+01:04:39.390 --> 01:04:53.749
+Pete Kaminski: massive reorganization of stuff that used to… used to… we used to wish for, and now we can just do it, kind of, you know, with… with a bot's help, super fast. So, actually…
+
+444
+01:04:55.160 --> 01:05:08.070
+Pete Kaminski: I'm actually super energized knowing that we have tools that can make code super fast, and tools, agentic tools, that can organize information very fast, and that…
+
+445
+01:05:08.090 --> 01:05:25.590
+Pete Kaminski: people like the folks here can direct those tools. So, I'm actually really excited about the future. Organizing and organizing and distributing communication and information amongst humans, it's gonna be a lot easier than it has been.
+
+446
+01:05:27.750 --> 01:05:39.919
+Pete Kaminski: I wanted to pick up on what Kalia said about groups. Very smart, very thoughtful, and especially contrasting with the social graph. I'm gonna hit return on a thing that I started to write in chat.
+
+447
+01:05:39.960 --> 01:05:44.100
+Pete Kaminski: I happen to know… I happen to be… have been…
+
+448
+01:05:44.120 --> 01:05:52.320
+Pete Kaminski: In the bleachers, watching some of this world start to happen, the social graph, supremacy of the social graph.
+
+449
+01:05:52.320 --> 01:06:09.849
+Pete Kaminski: Back in the day, back in the mid-90s, there was a company called Six Degrees that was one of the early… you could think of it kind of as LinkedIn or something like that. There were a few others. Rise… there was a thing called Rise, R-Y-Z-E, might still be around. That was one of the very earliest.
+
+450
+01:06:09.950 --> 01:06:26.970
+Pete Kaminski: Six Degrees went out of business, the IP that got bought, the idea of a social graph got protectively acquired by Reid Hoffman, later of LinkedIn, and Mark Pincus, later of things like Zynga and Tribe.
+
+451
+01:06:26.970 --> 01:06:33.930
+Pete Kaminski: Reid and Mark wanted to make sure that it didn't fall into the wrong hands, which…
+
+452
+01:06:33.990 --> 01:06:42.080
+Pete Kaminski: may have been the Friendster guy. But… it was…
+
+453
+01:06:42.230 --> 01:06:49.570
+Pete Kaminski: it was perceived to be, the Six Degrees Patent, it's called, was perceived to be a key part of
+
+454
+01:06:50.160 --> 01:06:52.959
+Pete Kaminski: A key asset that then
+
+455
+01:06:53.400 --> 01:07:06.739
+Pete Kaminski: got developed into things like LinkedIn. So, the supremacy of the social graph is a path-dependent outcome of, kind of.
+
+456
+01:07:06.800 --> 01:07:25.120
+Pete Kaminski: Silicon Valley latching onto the idea of social graph early on, and deciding that that was going to be a moneymaker, and it was. But in some alternate history, to Kalia's point, it could have been a set of women that came up with the
+
+457
+01:07:25.210 --> 01:07:28.910
+Pete Kaminski: The ideas and the architectures to…
+
+458
+01:07:29.060 --> 01:07:44.910
+Pete Kaminski: help people hook together, and we would have… we might have ended up in a completely different place. I've personally met and chatted with Mark Pincus and Reid Hoffman. They are both amazing people, the best… some of the best people I know in the world.
+
+459
+01:07:44.970 --> 01:07:49.500
+Pete Kaminski: So I… I don't mean to impugn their…
+
+460
+01:07:49.750 --> 01:07:55.560
+Pete Kaminski: you know, their character or say anything bad about them. They're awesome people.
+
+461
+01:07:55.690 --> 01:08:09.279
+Pete Kaminski: But they did also get swept up in, you know, the supremacy of the social graph, which was a good thing for a while, and maybe now it's not such a good thing to Claire's point. I think that's really smart of her to say.
+
+462
+01:08:13.610 --> 01:08:28.400
+Pete Kaminski: I… I think… lastly, it's… it… I hope it stung a little bit when Clea… Clea said… Grace said, y'all just talk, so I'm sorry, I don't have time for that.
+
+463
+01:08:28.640 --> 01:08:44.470
+Pete Kaminski: I think that's okay. Jerry and I talked, you know, Jerry and I had some talks over the years, what is OGM? One of the things OGM seems to be is this nexus of place… a place where people can come together and learn about other people.
+
+464
+01:08:44.819 --> 01:08:49.550
+Pete Kaminski: And then they go off and do things. And, in a way.
+
+465
+01:08:49.960 --> 01:09:04.059
+Pete Kaminski: that's not a bad thing, and maybe that's a best thing. OGM, as a star nursery, a place for stellar formation, is a wonderful kind of thing.
+
+466
+01:09:04.160 --> 01:09:20.660
+Pete Kaminski: I wish that… so, if I had my druthers, or if I could wish for something for OGM, I don't wish that we got more done. I don't even wish that we onboarded people better. I wish that more people
+
+467
+01:09:20.660 --> 01:09:30.129
+Pete Kaminski: passed by, and some of them stuck. I wish that we could tell what this group is doing, in multiplex.
+
+468
+01:09:30.500 --> 01:09:35.499
+Pete Kaminski: Everywhere. Each of us has probably got, you know, 3, 4, 5
+
+469
+01:09:35.670 --> 01:09:54.929
+Pete Kaminski: 10 projects that they know of, are interrelated with, that would be really interesting to some, but not all of the rest of us, right? This is kind of the problem that Vincent Flotilla, and especially Vincent, was chasing. You know, wouldn't it be great if there was a database where everybody knew everything about everything?
+
+470
+01:09:54.950 --> 01:10:00.629
+Pete Kaminski: And… and if it was magically relevant in a way that you could come and…
+
+471
+01:10:00.660 --> 01:10:08.369
+Pete Kaminski: you know, I think of the world this way, or I think of the world that way, and I need… I'm interested in these kinds of things, can you tell me what other kinds of things there are?
+
+472
+01:10:08.370 --> 01:10:22.779
+Pete Kaminski: Catalyst does that, and it's still not enough. I've always thought that we needed human matchmakers around a power tool like Catalyst to help people make sense of things. I don't know if that's the right architecture.
+
+473
+01:10:24.670 --> 01:10:34.889
+Pete Kaminski: But if I had a wish, I'll say it again, if I had a wish, it's not that OGM was necessarily bigger or better at doing stuff.
+
+474
+01:10:35.020 --> 01:10:44.750
+Pete Kaminski: It's that we had… Better distribution of interesting information about what we're all doing, and what
+
+475
+01:10:44.850 --> 01:10:55.099
+Pete Kaminski: the people we know, and can trust, and we know they're thoughtful, what they're doing, and how we might plug into that. So, somehow.
+
+476
+01:10:55.320 --> 01:11:03.430
+Pete Kaminski: That used to be, you know, that's kind of the idea of the Plex, was kind of that, and it didn't work out.
+
+477
+01:11:03.630 --> 01:11:13.759
+Pete Kaminski: I think. I mean, it worked out a little bit, but not… not nearly as much as it should have. So I wish OGM would do more of that. I'm still brainstorming tools and ways to do more of that, too.
+
+478
+01:11:15.130 --> 01:11:20.310
+Jerry Michalski: Pete, thank you for all of that, and I just wanna… add…
+
+479
+01:11:20.660 --> 01:11:26.630
+Jerry Michalski: The things that happen for a short while and then go away aren't failures, they're progress.
+
+480
+01:11:26.900 --> 01:11:45.799
+Jerry Michalski: they're… they're, like, we tried something, we did something, and pieces of it will live on in other ways, and cool. And some things have a lifetime, and unfortunately, some projects, groups, and things keep going, even though they should have stopped. So, I think stopping is an okay thing.
+
+481
+01:11:46.190 --> 01:11:48.729
+Jerry Michalski: But thank you for all the added context.
+
+482
+01:11:49.340 --> 01:11:52.869
+Jerry Michalski: As well. And, Scott, thanks for what you said in the, in the chat.
+
+483
+01:11:53.880 --> 01:11:58.310
+Jerry Michalski: That's good. We're, we're, we're agreeing with you. Clause, please.
+
+484
+01:11:59.220 --> 01:12:11.550
+Klaus Mager: Yeah, to echo a little bit what Pete was just saying. I mean, I would have not known anything about AI or what to do with AI, if it wasn't for Pete to open the doors and
+
+485
+01:12:11.550 --> 01:12:22.580
+Klaus Mager: and get us into it. And then I spent some time with Pete trying to see how we could hook up with what he's working on, and…
+
+486
+01:12:23.050 --> 01:12:27.279
+Klaus Mager: What, what really, what really happened, in, in, it, it…
+
+487
+01:12:27.370 --> 01:12:43.649
+Klaus Mager: started an evolution in how I was working with AI. I just got invited to a panel discussion for a conference hosted by Cancer State University on the integration of AI with agriculture, with food and agriculture.
+
+488
+01:12:43.740 --> 01:12:48.689
+Klaus Mager: And that made me think about,
+
+489
+01:12:48.780 --> 01:13:00.660
+Klaus Mager: more deeply, right? What am I actually doing with this? And where I'm transitioning, and I find when I talk with potential clients.
+
+490
+01:13:00.670 --> 01:13:11.950
+Klaus Mager: There is this confusion about, am I an AI software developer, or am I an industry expert who is using AI to do what he's doing?
+
+491
+01:13:12.070 --> 01:13:29.890
+Klaus Mager: Right? And so I have come now to this. I'm an industry expert, you know, I have a very unique background, and of course, Doug helped us, you know, to also, with my daughter and I, to think this through a little bit more, but I'm really articulating this now, because
+
+492
+01:13:29.890 --> 01:13:41.749
+Klaus Mager: I'm realizing that in order to land clients, I have to be very specific about, I know what I'm doing in this industry and in this business, and I'm using AI to do it better.
+
+493
+01:13:41.870 --> 01:13:46.329
+Klaus Mager: Kind of thing, you know? And so, I migrated,
+
+494
+01:13:46.710 --> 01:14:05.409
+Klaus Mager: as to OpenAI team, because I can still program this myself. You know, I can still develop the agents and train them and have conversations with these agents without having to know how to code a program.
+
+495
+01:14:05.580 --> 01:14:12.790
+Klaus Mager: We're going to move into a different place really soon. You know, I was invited by George Paul.
+
+496
+01:14:12.940 --> 01:14:28.150
+Klaus Mager: who is a senior fellow at the Schumera Institute, and Cherry, I know you're in the same, in the same group right now. And George is doing a really high-level, you know, oil-the-oceans kind of,
+
+497
+01:14:28.280 --> 01:14:30.919
+Klaus Mager: Thing to, to,
+
+498
+01:14:31.710 --> 01:14:46.340
+Klaus Mager: to bring people, connect people, and he actually connected me with an international group that's headquartered in the UK on building food hubs, community-based food systems.
+
+499
+01:14:46.560 --> 01:14:59.169
+Klaus Mager: So, we are now in conversation with this group where George is going to raise money for us, or is assisting us in raising money.
+
+500
+01:14:59.170 --> 01:15:12.800
+Klaus Mager: So we can create a project that integrates AI with this group, but at the same time, now I'm having to explain we're not… it's not so much about integrating AI as it is about
+
+501
+01:15:12.800 --> 01:15:31.019
+Klaus Mager: figuring out how you enter wholesale markets and use AI to do it better, you know? And to enter carbon markets where you can get paid for ecosystem services, and we're using AI to manage that process.
+
+502
+01:15:31.230 --> 01:15:38.350
+Klaus Mager: So… So I may come back really fast, Pete, because,
+
+503
+01:15:38.370 --> 01:15:57.840
+Klaus Mager: to integrate data banks, you know, with AI in order to have the AI do the diagnostics, but create databanks that actually can do this. Now, this is not… this is like walking my boat. I know it needs to be done, but how to do it is a whole different trip, but…
+
+504
+01:15:57.840 --> 01:16:02.119
+Klaus Mager: The… to… the challenge really is…
+
+505
+01:16:02.250 --> 01:16:17.460
+Klaus Mager: You know, in… in… I've been working with some… with, you know, I still am with NGOs, the Sarah Club, and Citizen Climate Lobby, and all. It's really difficult to do anything there that actually has an impact, you know.
+
+506
+01:16:17.460 --> 01:16:26.460
+Klaus Mager: You need to get… you need to get into the industry. You need to get Pepsi and Nestle and Kellogg engaged here.
+
+507
+01:16:26.460 --> 01:16:43.790
+Klaus Mager: And we need to figure out how to connect smaller and medium-sized farmers so they can competently participate in a market that they have been shut out of at this point. So that is… that is my mission, you know, is to create the aggregation systems, the logistics.
+
+508
+01:16:43.870 --> 01:16:56.359
+Klaus Mager: contract farming, ideas so that you can have multiple smaller farmers partner in co-op style and engage. That's my dream, right?
+
+509
+01:16:56.360 --> 01:17:07.720
+Klaus Mager: And it's murder to explain this, particularly to non-profit groups who are so idealistic about so many things, but…
+
+510
+01:17:07.820 --> 01:17:10.840
+Klaus Mager: Really, really, have a hard time
+
+511
+01:17:10.950 --> 01:17:19.730
+Klaus Mager: Crapping the mechanics of what you really need to do here, and sort of, you know, hardcore working this.
+
+512
+01:17:19.850 --> 01:17:22.409
+Klaus Mager: So here, here's the,
+
+513
+01:17:22.440 --> 01:17:36.900
+Klaus Mager: the, conference that I'm… that I'm, attending, it's on the 14th of October, so it's actually a super interesting, approach here, because what Kansas State is doing there is really…
+
+514
+01:17:36.910 --> 01:17:44.629
+Klaus Mager: nuggling down to what is AI, actually, and what are we going to do with this thing, you know, and bring practitioners into the field.
+
+515
+01:17:46.860 --> 01:17:52.480
+Jerry Michalski: Plus, thank you very much. I don't know if it's helpful to you, but there's a thought in my brain, the hidden war on small farms.
+
+516
+01:17:53.330 --> 01:17:56.110
+Jerry Michalski: Which lists things… when I read…
+
+517
+01:17:56.240 --> 01:17:59.500
+Jerry Michalski: God, what book was it about, seed cleaners?
+
+518
+01:18:01.250 --> 01:18:24.049
+Jerry Michalski: Basically, there's a bunch of guys with trailers that clean seeds, and they troop around the country, and when you've pulled your crop in, when you've harvested, you want to save some of your crop and clean the seeds so that you can store them. If they still have their husks on them, they rot. Seed cleaners, exactly. And Monsanto has sued the seed cleaners, trying to get them out of existence, so that everybody will buy
+
+519
+01:18:24.050 --> 01:18:32.529
+Jerry Michalski: new seed every year from Monsanto slash Bayer slash whoever. The monopoly, basically, or not quite monopoly, on
+
+520
+01:18:32.620 --> 01:18:46.259
+Jerry Michalski: On agricultural products, and that's just one… and then, if you're a small farmer and you turn over to the futures markets and the investors that are busy trying to, like, slice and dice all the profit out of, you know, your ability to sell your crop.
+
+521
+01:18:46.260 --> 01:18:53.420
+Jerry Michalski: And the weather, and it's like, oh my god, the weather's, like, not an active participant, it's just mean, but…
+
+522
+01:18:53.720 --> 01:19:02.629
+Jerry Michalski: It's really, really, really hard to be a small farmer in Klaus. Anything you can do to build scaffolding systems and things like that to help them thrive
+
+523
+01:19:03.550 --> 01:19:11.389
+Jerry Michalski: hurrah to you, because, it's just… it's super hard. And we wonder why people don't want to… don't wanna, you know, inherit the family farm.
+
+524
+01:19:11.590 --> 01:19:15.419
+Klaus Mager: Yeah, this seat cleaner thing went all the way to the Supreme Court.
+
+525
+01:19:15.650 --> 01:19:32.679
+Klaus Mager: Now, there was one farmer, and everybody rallied around this one farmer, who got sued by Monsanto because his neighbor used GMO crops, and his seed drifted into… onto his farm, and planted into his seeds.
+
+526
+01:19:32.700 --> 01:19:48.000
+Klaus Mager: And Monsanto sued him. They systematically sent out lawyers throughout the country, you know, to sue farmers, because they may have had traces of their GMO content in their seeds.
+
+527
+01:19:48.000 --> 01:19:55.369
+Klaus Mager: And knocked them out of business. It's… I mean, we're really not nice people.
+
+528
+01:19:56.870 --> 01:20:00.950
+Jerry Michalski: There's some… there's some nasty stuff happening out there. Stacy, please.
+
+529
+01:20:03.140 --> 01:20:07.160
+Stacey Druss: We're really not nice people, that just… I don't know.
+
+530
+01:20:07.160 --> 01:20:08.190
+Jerry Michalski: Carl, it's hard.
+
+531
+01:20:08.190 --> 01:20:11.110
+Stacey Druss: It feels terrible. But because.
+
+532
+01:20:11.110 --> 01:20:12.380
+John Warinner: racism here.
+
+533
+01:20:12.380 --> 01:20:18.320
+Stacey Druss: And because I have first-hand knowledge, I just want to add that it wasn't just the all-talk.
+
+534
+01:20:18.510 --> 01:20:25.939
+Stacey Druss: It was how some of the talk was. So when Grace left here, she left here and formed an all-women group.
+
+535
+01:20:26.090 --> 01:20:39.720
+Stacey Druss: And she made it very clear that the pushback that she got from a dissenting voice, and Alex, you may appreciate this, was nothing like the pushback that you seem to experience.
+
+536
+01:20:40.010 --> 01:20:41.670
+Stacey Druss: It was totally different.
+
+537
+01:20:41.980 --> 01:20:48.349
+Stacey Druss: So, in her perspective, and I viewed it, so I kinda… I understand where she's coming from.
+
+538
+01:20:48.910 --> 01:20:53.660
+Stacey Druss: It felt a lot more like she had to defend her dissenting views.
+
+539
+01:20:54.010 --> 01:20:57.469
+Stacey Druss: Than it may have if she looked more like you.
+
+540
+01:20:57.880 --> 01:21:05.130
+Stacey Druss: So… It's not necessarily the same… the same we that's in this space at the moment.
+
+541
+01:21:05.580 --> 01:21:09.069
+Stacey Druss: But the we that was here at the time that she was here.
+
+542
+01:21:09.200 --> 01:21:20.719
+Stacey Druss: was a little bit different, and it… I can understand why she felt it wasn't worth it to keep pushing back. So I wanted to add that, because it shouldn't go unnoticed.
+
+543
+01:21:22.610 --> 01:21:24.810
+Jerry Michalski: Yeah, thank you.
+
+544
+01:21:28.380 --> 01:21:39.139
+Jerry Michalski: I was puzzled because she seemed to leave right after something I said, and I just want to relate what it was from my perspective, because it was a form of pushback, but not… I don't think it was, and I might be wrong.
+
+545
+01:21:39.240 --> 01:21:58.989
+Jerry Michalski: I had caught COVID on a trip to Spain and came back, and I had been vaccinated, and I told everybody, yeah, I just came down with COVID, and Grace said, oh, didn't catching COVID destroy your mental model about the vaccine? Or, I'm paraphrasing her, but didn't it shatter your worldview about the vaccine?
+
+546
+01:21:59.330 --> 01:22:17.559
+Jerry Michalski: And I said, no, not remotely. Taking the vaccine… I did not think that taking the vaccine gave me an invulnerability shield from catching COVID. I knew it was very contagious. I knew it would greatly lessen my likelihood of dying, or getting long COVID, or something terrible. And I was perfectly comfortable with that.
+
+547
+01:22:17.960 --> 01:22:19.739
+Jerry Michalski: And that's the last I heard of her.
+
+548
+01:22:21.660 --> 01:22:27.109
+Stacey Druss: I would just… I mean, I… I would just say it wasn't one comment and one time.
+
+549
+01:22:27.180 --> 01:22:28.180
+Jerry Michalski: Okay. So…
+
+550
+01:22:28.410 --> 01:22:45.510
+Jerry Michalski: But that… that kind of worried me. I was like… I was like, I was… I was really interested in that conversation because her mental model and mine were obviously different on… on vaccines and COVID, and I was like, oh, let's dive, and that… that… that didn't happen. So… so thank you for telling us what,
+
+551
+01:22:46.050 --> 01:22:47.080
+Jerry Michalski: What, one time?
+
+552
+01:22:49.340 --> 01:22:55.049
+Jerry Michalski: We are… oh, I just looked up, and we're, like, at the end of our… at the end of our call time. Alex, thoughts?
+
+553
+01:22:56.290 --> 01:23:02.940
+Alex Kladitis: Sorry, I was gonna relate a story to do with, Monsanto-type big pharma.
+
+554
+01:23:03.060 --> 01:23:06.029
+Alex Kladitis: But I don't have to, we can keep it for another time.
+
+555
+01:23:07.250 --> 01:23:08.380
+Jerry Michalski: There are so many of them.
+
+556
+01:23:08.380 --> 01:23:12.250
+Alex Kladitis: the vaccines, and that triggered me, so… Yeah, yeah.
+
+557
+01:23:12.250 --> 01:23:20.380
+Jerry Michalski: There's actually a thought in my brain… I got so angry about this, that there's a thought in my brain, which I will put a link to right now.
+
+558
+01:23:21.470 --> 01:23:27.289
+Jerry Michalski: Titled Monsanto has eviscerated farming worldwide, maybe destroying agriculture.
+
+559
+01:23:28.750 --> 01:23:33.059
+Jerry Michalski: And I think the people who go to work there think they're, like, making farming better.
+
+560
+01:23:33.510 --> 01:23:47.620
+Jerry Michalski: And I'm like, I don't understand how you can think that. The policies, the things they've done, the people they've sued, the effects they've had on the world, I don't get it. And then, I don't know enough to be, like, sure about this, but
+
+561
+01:23:49.000 --> 01:23:52.799
+Jerry Michalski: they just make me angry. And then Bayer bought them, and I'm like, Bayer, what are you doing?
+
+562
+01:23:54.710 --> 01:23:56.240
+Jerry Michalski: So now I don't like Bayer.
+
+563
+01:23:57.360 --> 01:24:02.320
+Jerry Michalski: Because they have the poor judgment to do that. I should probably have a nice conversation with somebody from one of those companies.
+
+564
+01:24:02.430 --> 01:24:03.270
+Jerry Michalski: Sunday.
+
+565
+01:24:03.660 --> 01:24:08.099
+Jerry Michalski: Anyway, any, any, concluding thoughts? Doug, did you wanna…
+
+566
+01:24:10.450 --> 01:24:10.990
+Stacey Druss: You muted.
+
+567
+01:24:10.990 --> 01:24:14.189
+Jerry Michalski: You're muted. You put your hand down, but you didn't unmute.
+
+568
+01:24:14.190 --> 01:24:17.929
+Doug Breitbart: I just wanted to stir in, around the time that Grace left.
+
+569
+01:24:18.440 --> 01:24:27.679
+Doug Breitbart: this question had arisen, and I actually reached out to her, and I reached out to a couple of other women at that time that had been in and out of here.
+
+570
+01:24:28.440 --> 01:24:40.940
+Doug Breitbart: And… One piece of it was sort of, you know, getting exhausted by the patriarchal, metaphoric, jousting.
+
+571
+01:24:41.330 --> 01:24:43.670
+Doug Breitbart: Of whose is bigger, whose is better.
+
+572
+01:24:44.020 --> 01:24:48.380
+Doug Breitbart: And… but another dimension of it was that
+
+573
+01:24:48.740 --> 01:24:51.580
+Doug Breitbart: In that jousting, it gets boring.
+
+574
+01:24:53.060 --> 01:25:00.840
+Doug Breitbart: Like, their… the share, the cons… the collective share was… it just sort of loses interest after a while.
+
+575
+01:25:01.170 --> 01:25:13.280
+Doug Breitbart: And, you know, they were looking for something that had more vitality and momentum and… and, you know, sort of substantive, energetic leveling up.
+
+576
+01:25:14.140 --> 01:25:20.160
+Doug Breitbart: and I think, you know, there's… there's…
+
+577
+01:25:20.910 --> 01:25:39.400
+Doug Breitbart: you know, the… the dominance of the… of the masculine, the dominance of the fire and air stuff, the intellect and the passion, versus the divine feminine stuff, which is nurturance and holding and receiving and…
+
+578
+01:25:40.070 --> 01:25:41.920
+Doug Breitbart: and growing stuff.
+
+579
+01:25:42.300 --> 01:25:44.450
+Doug Breitbart: And,
+
+580
+01:25:44.790 --> 01:25:50.109
+Doug Breitbart: And they all sort of basically said, I want to go someplace where I feel like I'm growing something.
+
+581
+01:25:51.350 --> 01:25:56.350
+Doug Breitbart: So, I share that just for data input purposes.
+
+582
+01:25:57.900 --> 01:26:00.990
+Jerry Michalski: Doug, thank you, thank you for sharing that a lot.
+
+583
+01:26:01.710 --> 01:26:06.290
+Jerry Michalski: That also seems like a really good place to wrap this call.
+
+584
+01:26:06.480 --> 01:26:10.950
+Jerry Michalski: And I'm hoping Ken has a poem for us, but, Doug, thank you.
+
+585
+01:26:16.520 --> 01:26:18.130
+Ken Homer • SF Bay Area: I do indeed have a poem.
+
+586
+01:26:20.320 --> 01:26:21.669
+Ken Homer • SF Bay Area: Taking a beat.
+
+587
+01:26:22.540 --> 01:26:26.329
+Ken Homer • SF Bay Area: I've been part of the OGM community since the E10 years.
+
+588
+01:26:26.520 --> 01:26:33.510
+Ken Homer • SF Bay Area: It's a community where I felt well met, appreciated, stimulated, respected, and cared for.
+
+589
+01:26:33.970 --> 01:26:36.910
+Ken Homer • SF Bay Area: My hope is that I've contributed something of value to y'all.
+
+590
+01:26:37.310 --> 01:26:43.909
+Ken Homer • SF Bay Area: Perhaps my Plex posts, my stories, and my presence on the calls provoked some… have provoked some deep thinking for some of you.
+
+591
+01:26:44.280 --> 01:26:47.810
+Ken Homer • SF Bay Area: Hopefully, I've not offended too many, too much or too often.
+
+592
+01:26:48.210 --> 01:27:00.689
+Ken Homer • SF Bay Area: I so appreciate being able to read poetry to y'all. That means the world for me. Thanks so much. Now, methinks a pause is in order. It's time for me to take a break and unplug from OGM's deluge of information.
+
+593
+01:27:00.890 --> 01:27:07.700
+Ken Homer • SF Bay Area: In addition to downsizing and packing up my household goods, which is as big an elephant as I've ever had to eat.
+
+594
+01:27:07.780 --> 01:27:21.059
+Ken Homer • SF Bay Area: I feel that I need to be quiet for a while, to sit with some really big and really tough questions. Questions that resonate across time and through multiple domains and dimensions, questions that require serious stillness.
+
+595
+01:27:21.380 --> 01:27:24.310
+Ken Homer • SF Bay Area: Serious listening. And serious pondering.
+
+596
+01:27:24.680 --> 01:27:35.899
+Ken Homer • SF Bay Area: Questions that, if I can answer them, will help me to decide what to do next, where to place my time, my energy, and my attention to be effective with the rest of my life.
+
+597
+01:27:36.360 --> 01:27:39.669
+Ken Homer • SF Bay Area: The times are calling for something different than what I've been doing.
+
+598
+01:27:40.150 --> 01:27:42.899
+Ken Homer • SF Bay Area: I do not know if I have that something within me or not.
+
+599
+01:27:43.110 --> 01:27:47.220
+Ken Homer • SF Bay Area: But I do know the only way to find out is to still myself for a while.
+
+600
+01:27:47.590 --> 01:27:57.689
+Ken Homer • SF Bay Area: I need to tune out of the constant distractions. I need to move away from the need to keep up with the latest news and trends. I need to tune into the rhythms of my cells.
+
+601
+01:27:57.960 --> 01:28:01.819
+Ken Homer • SF Bay Area: To listen to how they're responding to the calls of the greater than human world.
+
+602
+01:28:02.240 --> 01:28:16.819
+Ken Homer • SF Bay Area: I need to listen to the voices of my ancestors, both those who came before and those who will come after, because I know they have things to say that I need to be aware of and to consider before making any further moves beyond what is already in progress.
+
+603
+01:28:17.290 --> 01:28:32.410
+Ken Homer • SF Bay Area: I need unfettered access to the slow rhythms of biological analog reality. I need, in the words of Pablo Enruda, a huge silence that might interrupt the sadness of never understanding ourselves and threatening each other with death.
+
+604
+01:28:32.800 --> 01:28:35.940
+Ken Homer • SF Bay Area: So, I hope you'll pardon me while I go quiet for a bit.
+
+605
+01:28:36.260 --> 01:28:39.740
+Ken Homer • SF Bay Area: And until we meet again, I'll leave you with Nauru's brilliant poem.
+
+606
+01:28:40.060 --> 01:28:41.330
+Ken Homer • SF Bay Area: Keeping quiet.
+
+607
+01:28:41.850 --> 01:28:46.710
+Ken Homer • SF Bay Area: Now we will count to 12, and we will all keep still for once on the face of the earth.
+
+608
+01:28:46.990 --> 01:28:49.239
+Ken Homer • SF Bay Area: Let us not speak in any language.
+
+609
+01:28:49.420 --> 01:28:53.429
+Ken Homer • SF Bay Area: Let us stop for a second, and not move our arms so much.
+
+610
+01:28:54.250 --> 01:29:01.780
+Ken Homer • SF Bay Area: It would be an exotic moment. Without rush, without energies, we would all be together in a sudden strangeness.
+
+611
+01:29:02.020 --> 01:29:05.800
+Ken Homer • SF Bay Area: Fishermen in the cold sea would not harm whales.
+
+612
+01:29:06.130 --> 01:29:22.520
+Ken Homer • SF Bay Area: And the man gathering salt would not look at his hurt hands. Those who prepare green wars, or as with gas, or as with fire, victories with no survivors, would put on clean clothes and walk about with their brothers in the shade, doing nothing.
+
+613
+01:29:22.860 --> 01:29:26.519
+Ken Homer • SF Bay Area: What I want should not be confused with total inactivity.
+
+614
+01:29:26.830 --> 01:29:28.679
+Ken Homer • SF Bay Area: Life is what it's about.
+
+615
+01:29:29.080 --> 01:29:34.980
+Ken Homer • SF Bay Area: If we were not so single-minded about keeping our lives moving, and for once could do nothing.
+
+616
+01:29:35.250 --> 01:29:42.320
+Ken Homer • SF Bay Area: Perhaps a huge silence might interrupt this sadness of never understanding ourselves and threatening ourselves with death.
+
+617
+01:29:42.690 --> 01:29:48.739
+Ken Homer • SF Bay Area: Perhaps the Earth can teach us as when everything seems dead, and later proves to be alive.
+
+618
+01:29:49.130 --> 01:29:54.230
+Ken Homer • SF Bay Area: Now, I will count up to 12, and you keep quiet, and I will go.
+
+619
+01:30:11.900 --> 01:30:12.910
+Jerry Michalski: Thank you all.
+
+620
+01:30:14.550 --> 01:30:15.830
+Jerry Michalski: Thank you all, I think.
+
+621
+01:30:17.710 --> 01:30:21.919
+Jerry Michalski: I don't know how, but can… Just encapsulated so much.
+
+622
+01:30:23.640 --> 01:30:24.680
+Jerry Michalski: So beautifully.
+
+623
+01:30:31.830 --> 01:30:36.559
+John Warinner: I'll just say, I think he just said what I wanted to say to him,
+
+624
+01:30:36.800 --> 01:30:44.600
+John Warinner: you know, just picking up on the energy, kind of progressively, of what I was… was seeing from him. I feel like…
+
+625
+01:30:44.830 --> 01:30:49.999
+John Warinner: what he just said is, like, put into words better than I could have what… what I…
+
+626
+01:30:50.220 --> 01:30:53.289
+John Warinner: what I actually wanted to say to him, so…
+
+627
+01:30:53.290 --> 01:30:53.710
+Jerry Michalski: Wonderful.
+
+628
+01:30:53.940 --> 01:30:55.930
+John Warinner: See it as a very positive thing.
+
+629
+01:30:56.540 --> 01:30:57.940
+Jerry Michalski: Love that. Love that.
+
+630
+01:30:59.050 --> 01:31:05.200
+Jerry Michalski: Hey, thank you all. I think we kind of have our work cut out for us next Thursday, should you care to… care to be here.
+
+631
+01:31:05.360 --> 01:31:06.830
+Jerry Michalski: I'll be here.
+
+632
+01:31:07.540 --> 01:31:10.630
+Jerry Michalski: And, let's be careful out there.
+
+633
+01:31:11.920 --> 01:31:13.010
+John Warinner: Thanks, everybody.
+
+634
+01:31:13.010 --> 01:31:13.960
+Jerry Michalski: Thanks, bye.
+

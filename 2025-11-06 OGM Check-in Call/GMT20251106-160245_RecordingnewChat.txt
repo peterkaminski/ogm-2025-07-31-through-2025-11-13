@@ -1,0 +1,158 @@
+00:05:43	Victoria (Spain):	The thing was related to which hand held the "látigo"
+00:05:55	Victoria (Spain):	sorry I don't know the word in English
+00:18:48	Jerry Michalski:	hi Mike. we’re in check-in mode.
+00:19:23	Mike Nelson:	@Jerry, Right.  (I actually read your email this week!)
+01:01:31	Kevin Jones:	Gota go
+01:05:36	Mike Nelson:	Calendar of upcoming and past events at the Carnegie Endowment: https://carnegieendowment.org/events?lang=en   TEDxMidAtlantic https://tedxmidatlantic.com/2025-speakers/
+01:05:56	David Witzel:	@Klaus Mager just saw this on the linkedin:dynamics of the economy in regenerative aghttps://www.nature.com/articles/s44264-025-00100-1
+01:06:04	Victoria (Spain):	Now, that we reach the transition, I'll take the opportunity to go ;)
+01:06:05	Pete Kaminski:	from Scott: Kevin MacLeod
+
+from Gil: transcript anonymization / de-identification
+
+from Klaus: for farmers, food crop PLUS environmental crop -> secondary revenue stream, benefits for environment
+
+glossary term: A CSA (Community Supported Agriculture) is a partnership between farmers and consumers in which people buy a “share” of a farm’s harvest in advance. In return, members receive regular (usually weekly or biweekly) boxes or baskets of fresh, seasonal produce — and sometimes eggs, dairy, meat, or flowers — throughout the growing season.
+
+from Jerry: Dan Brown’s latest novel, The Secret of Secrets; non-local consciousness (woo-woo noetic science), GABA (gamma-aminobutyric acid), psilocybin
+01:06:10	Scott Moehring:	Kevin MacLeod (prolific composer of freely distributed music) and the remixability of what we make, by making things other people can and want to use to create their own things. 
+http://royaltyfreedoc.com/
+01:06:14	Pete Kaminski:	from Mike:
+
+"draft-sbriz-identity-trust-system-04 - Identity Trust System" -  digital identity authentication system based on a symmetric exchange of authentication messages that does not require federation of authentication domains.
+https://datatracker.ietf.org/doc/draft-sbriz-identity-trust-system/04/
+
+"AI Preferences (aipref)" - standardize building blocks that allow for the expression of preferences about how content is collected and processed for Artificial Intelligence (AI) model development, deployment, and use.
+https://datatracker.ietf.org/wg/aipref/about/
+
+Nelson's Law of Life: Nothing improves unless it changes.
+Murphy's corollary to Nelson's Law: Not every change is an improvement.
+
+from Doug B.: tab groups
+01:07:05	David Witzel:	@Jerry Michalski did you read Brown's earlier book Origin?  rouge AI...
+01:07:59	Pete Kaminski:	Replying to "@Jerry Michalski did..."
+
+yes, Origin (2017), Robert Langdon series (Book 5)
+01:08:25	Jerry Michalski:	Replying to "@Jerry Michalski did..."
+
+haven’t read Origin
+01:08:47	David Witzel:	Replying to "@Jerry Michalski did..."
+
+also a rogue AI
+01:09:26	David Witzel:	bitcoin?
+01:09:48	Jerry Michalski:	https://en.wikipedia.org/wiki/Rai_stones  ?
+01:09:57	Scott Moehring:	@Victoria, you may never see this, but I was thinking about your comment about the loss of curiosity. I’m wondering how much is a loss of available attention? I am a highly curious person, and yet I’m engaging less because I have less available attention. We have killed boredom with the constant stream of information everywhere, and I think one symptom shows up as a loss of curiosity.
+01:10:13	Klaus Mager:	Replying to "@Klaus Mager just sa..."
+
+that is interesting, we are starting a project in the UK that is hosted by the Schumacher Institute. 2 work streams: getting food hubs into wholesale markets, and paying farmers for ecosystem services.
+01:10:32	Doug Breitbart:	Reacted to "@Victoria, you may n..." with 👍🏻
+01:11:33	David Witzel:	Replying to "@Klaus Mager just sa..."
+
+have you seen a good review of the Gates Fdt ag strategy?  been wondering if good critiques reinforce regenerative approaches
+01:12:35	David Witzel:	1 big problem is timing - taking money out to early or going back in too late
+01:13:33	Jerry Michalski:	Michael Burry - Real-Life Market Genius From The Big Short - Thinks Another Financial Crisis Is Looming (2016)
+01:14:03	Pete Kaminski:	Replying to "@Victoria, you may n..."
+
+A great conversation.
+
+I'm a very curious person by nature, and observationally, I see a lot of people who are incurious. I'm torn between whether it's a typical human development as people grow up, or our educational system that trains passion and agency out of people, or sort of a social contagion to be incurious as a way to do with too much future.
+01:14:21	Jerry Michalski:	Replying to "@Victoria, you may n..."
+
+I think the latter
+01:14:32	Jerry Michalski:	Replying to "@Victoria, you may n..."
+
+I blame the consumerization of our world, which dumbs us down
+01:15:40	Klaus Mager:	Replying to "@Klaus Mager just sa..."
+
+quite a few articles, this one matches my understanding: https://usrtk.org/bill-gates/critiques-of-gates-foundation/
+01:16:05	Klaus Mager:	Replying to "@Klaus Mager just sa..."
+
+https://docs.gatesfoundation.org/Documents/agricultural-development-strategy-overview.pdf
+01:17:36	Pete Kaminski:	Replying to "@Victoria, you may n..."
+
+The place I see the curious / incurious split happen is when someone plays with an AI. Curious people use it quickly as a bicycle (or jet plane) for the mind; incurious people do the equivalent of trying to use the bicycle as a hammer or a chair, and discard it as terrible at the small uses they can think of.
+01:18:14	Jerry Michalski:	link to andres sjoborn please?
+01:18:23	Jerry Michalski:	Googling didn’t find him for me
+01:20:03	Pete Kaminski:	Replying to "link to andres sjobo..."
+
+Andreas Sjöström is listed on the website of Capgemini (the French-headquartered global consultancy & tech services firm) as Vice President & SF AIE Lead (Applied Innovation Exchange) in San Francisco.
+01:20:14	Pete Kaminski:	Replying to "link to andres sjobo..."
+
+https://www.capgemini.com/us-en/about-us/who-we-are/innovation-ecosystem/applied-innovation-exchange/aie-san-francisco/
+01:20:30	David Witzel:	Reacted to "quite a few articles..." with 💚
+01:20:32	Gil Friend • Sustainability OG • CxO Coach:	Replying to "Googling didn’t find..."
+
+Who him?
+01:20:54	Pete Kaminski:	Replying to "Googling didn’t find..."
+
+Andreas Sjöström, scroll up a tiny bit
+01:21:09	Jerry Michalski:	Replying to "Googling didn’t find..."
+
+ah, tx
+01:21:16	Jerry Michalski:	It is amazing what you can accomplish if you do not care who gets the credit. — Harry Truman
+01:21:19	Mike Nelson:	Re: curiosity. My 28-year-old daughter is a very special and empathetic person. Over the years, she’s said many deep and eye-opening things. But the BEST, by far, is when she said that I’ve been a good father but the most important thing I have done for her has been instilling a deep sense of curiosity deep in her being.
+01:21:30	Pete Kaminski:	Reacted to "Re: curiosity. My 28..." with ❤️
+01:21:39	Doug Breitbart:	Reacted to "Re: curiosity. My 28..." with ❤️
+01:21:56	Gil Friend • Sustainability OG • CxO Coach:	Replying to "Googling didn’t find..."
+
+https://www.linkedin.com/in/andreaswsjostrom/
+01:22:24	Gil Friend • Sustainability OG • CxO Coach:	Reacted to "Re: curiosity. My 28..." with ❤️
+01:23:10	Gil Friend • Sustainability OG • CxO Coach:	Replying to "Googling didn’t find..."
+
+Recent post: “How to Keep Up in AI... My Go-To Resources” https://www.linkedin.com/feed/update/urn:li:activity:7376002629967020032/
+01:23:43	Gil Friend • Sustainability OG • CxO Coach:	“NGOs have been neutrialized”? Or “NGOs have been self-limiting luddites”?
+01:23:46	Jerry Michalski:	Reacted to "Re: curiosity. My 28..." with ❤️
+01:25:22	Gil Friend • Sustainability OG • CxO Coach:	Replying to "It is amazing what y..."
+
+Including who gets credit for that quote ;-)
+
+https://quoteinvestigator.com/2010/12/21/doing-good-selfless/
+01:26:27	Jerry Michalski:	Reacted to "Including who gets c..." with 💎
+01:26:29	Alex Kladitis:	Reacted to "Re: curiosity. My 28..." with ❤️
+01:26:41	Klaus Mager:	Replying to "“NGOs have been neut..."
+
+I don’t know, but it is pervasive
+01:26:43	Rick Botelho:	How might we move beyond from playing the defensive game of political whack-a-mole to launch the #C5FA trifecta offensive, increase voter turnout, flip the mid-terms & make Trump lame-duck president? How might we use H.E.N. to shine out the light of truth and illuminate the ego-shadows and dark sides of alt-right neo-terrorism and systemic psychopathy inducing Deranged Trump Mass Psychosis? https://equitymoonshot.substack.com/p/why-is-the-naive-no-kings-chant-this
+01:26:51	Gil Friend • Sustainability OG • CxO Coach:	Reacted to "The place I see the ..." with 👍🏼
+01:27:18	Gil Friend • Sustainability OG • CxO Coach:	Do the opposite of whatever Alex does! ;-)
+01:27:44	Scott Moehring:	@Mike Nelson  RE: overstimulation, I have been exploring the idea of Environmental Neurodiversity. The hypothesis is that the information flood has increased to the point where many otherwise neurotypical people now feel their filters are inadequate, and they have no strategies. Meanwhile, those with ADD or high-functioning autism have developed robust techniques to filter and focus, because they have felt overstimulated their whole lives. The strategies that are essential for one group might now be what’s need for another group. That’s my thought, at least.
+01:27:44	David Witzel:	@Rick Botelho maybe of interest Join the Online Facilitation Unconference: Rethinking Collaboration in the Intelligent Age
+01:27:46	Pete Kaminski:	@Mike Nelson et al. re "bubble", to zoom about a bit we've been in a technology "bubble" since, say, the PC era. Sure, there have been ups and downs, but we're stuck on tech "inflation" (both capability and economic).
+
+AI feels like a kind of endgame; either the whole thing (technology, and modern liviing) crashes pretty hard, or AI enables massive growth in productivity and even things like social justice, perhaps with high costs around giving up sovereignty or agency (or heaven forbid) humanity.
+
+What do you "invest" in financially when everything will crash, or everything turns wonderful?
+01:28:00	Stacey Druss:	Replying to "It is amazing what y..."
+
+Thought it was Harry Truman
+01:28:19	Gil Friend • Sustainability OG • CxO Coach:	Replying to "It is amazing what y..."
+
+It was, but not only and not first.
+01:28:20	Jerry Michalski:	Replying to "It is amazing what y..."
+
+seems more complicated. love Quote Investigator
+01:28:25	Rick Botelho:	Gotta go
+01:28:37	Mike Nelson:	Reacted to "@Mike Nelson  RE: ov..." with 🙏
+01:29:16	David Witzel:	growth?
+01:29:52	Jerry Michalski:	turns out the runaway paperclip function is about AI chips…
+01:31:07	Scott Moehring:	@Jerry Michalski  I was fascinated about your explanation of GABA levels on filtering. I looked it up, and. Found a strong relationship between GABA levels and neurodiversity. It has given me a new thread to pull on about the nature of filtering. I need more, because I feel everything everywhere all at once as just part of every day. Not to the extent of a psy trip (which I’ve only read about), but much more than the people I hang out with.
+01:31:31	Jerry Michalski:	Reacted to "@Jerry Michalski  I ..." with 💎
+01:31:43	Jerry Michalski:	Replying to "@Jerry Michalski  I ..."
+
+I can now highly recommend shrooms
+01:32:00	Mike Nelson:	Replying to "@Mike Nelson  RE: ov..."
+
+The former CIO of Google (during the early days) wrote a book about how his ADHD forced him to learn to use information better.
+01:32:05	Mike Nelson:	Replying to "@Mike Nelson  RE: ov..."
+
+https://www.amazon.com/Getting-Organized-Google-Era-Stuff-ebook/dp/B0036S4CM0/ref=sr_1_1?crid=19MT691M74V1S&dib=eyJ2IjoiMSJ9.YbLiATe22q8KEVuTFIxItE7b5h4rKOFtsO1LhANU95bvNixoOQZRg7DdeEHq6HiPN82gZTb6H0i8ZP4e_hYQ0NmyWkpLrDWU2HmKNkX0bJ8.9inxoD_O3DAVyI9Hq_PRugrw3Lk0EVn2wXDkoFg6O-Y&dib_tag=se&keywords=%22getting+organized%22+google&qid=1762450221&sprefix=getting+organized+google%2Caps%2C73&sr=8-1
+01:33:02	Pete Kaminski:	from Gil: The Insider’s Guide to Innovation at Microsoft by Dean Carignan and JoAnn Garbin.
+01:33:19	Scott Moehring:	Replying to "@Mike Nelson  RE: ov..."
+
+Cool, thanks! 3/4 of the stuff I’ve made I now see as a hack I needed that other people didn’t need. 😂
+01:33:47	Mike Nelson:	https://seekingalpha.com/article/4837966-ai-completely-broke-the-market-and-most-investors-havent-noticed-yet
+01:34:46	Pete Kaminski:	Reacted to "https://seekingalpha..." with 🙏
+01:35:00	Gil Friend • Sustainability OG • CxO Coach:	BTW, renewables now exceed coal and nuclear globally.
+01:35:36	Gil Friend • Sustainability OG • CxO Coach:	Look at data cars thru the lens of pioneer species in ecological succession: fast, inefficient, temporary.
+01:35:49	Scott Moehring:	FWIW, unfortunately this investment conversation falls flat for me, because I don’t have those kind of resources (i.e. a financial portfolio).
+01:36:49	Mike Nelson:	A GREAT topic for a future call??! https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/
