@@ -357,3 +357,74 @@ Ken Homer: "Afraid So" by Jean Marie Beaumont - rapid-fire anxious questions ("I
 - Document all cross-call references
 - Extract all stories, frameworks, and resources
 - Create comprehensive Phase 1 summary
+
+## Call 05: 2025-08-28 - Collective Sense-Making
+
+### Participants
+- Jerry Michalski (facilitator)
+- Mike Nelson
+- Gil Friend
+- John Kelly
+- Marc-Antoine Parent
+- Doug Breitbart
+- Alex Kladitis
+- Ken Homer (closing poem)
+- Kevin Jones (mentioned)
+- Eric (mentioned in chat - filter bubbles)
+
+### Key Themes
+1. **Frustrations with Sense-Making** - What does "sense" mean? What evidence shows sense-making happened?
+2. **Collective vs Individual Intelligence** - John: Sometimes brilliant breakthroughs, often just motherhood statements
+3. **Divergence → Convergence** - Marc-Antoine: Need both exploration and decision-making
+4. **Goals & Deadlines Critical** - Mike's UN/IETF examples
+5. **Rough Consensus Model** - IETF "humming" for anonymous agreement, "rough consensus and running code"
+6. **Doug's Critique of "Collective"** - Word "collective" sets up failure, negates individual agency, should focus on consent not consensus
+7. **What is "Sense"?** - Gil's fundamental question: interpretation? shared commitment? decision-making?
+8. **OGM Self-Reflection** - Jerry: "We haven't done much sense-making" - more like salon
+9. **Shared Meaning vs Definition** - Ken's conflict workshop: 400 responses, "organ failure" example
+10. **Pervasive Disinformation** - Mike: Active sabotage of sense-making
+
+### Major Frameworks/Concepts
+- **IETF Humming** - Rough consensus via anonymous humming (overwhelming loud hum = consensus)
+- **Collective Intelligence Cycle** (Simon Buckingham): Sensing → Sense-making → Ideation → Decision → Action → loop
+- **Divergence then Convergence** - Marc-Antoine
+- **Consent vs Consensus** - Doug's critical distinction
+- **Inclusion & Individual Agency** - Doug's core values
+- **Sense-making as Evidence** - What artifacts/outcomes show sense was made?
+- **Filter Bubbles** - Eric's frustration (shared context lacking)
+
+### Major Stories
+- **Mike's UN Frustrations** - World Summit on Information Society, delegates wanting more meetings for expense-paid Geneva trips, Syrian/Tehran reps obstructing
+- **Mike's IETF Success** - Internet Governance Forum with actual deadlines and deliverables
+- **Ken's Conflict Workshop** - National Park Service Yosemite, 35 people, 400+ responses, "organ failure" revelation about conflict meanings
+
+### Notable Quotes
+- Gil: "I'm not clear what we mean by sense"
+- Mike: "You need complete consensus? That doesn't work - allows one or two people to hold everybody hostage"
+- Mike: "Rough consensus and running code"
+- Doug: "Anything modified by 'collective' is a major frustration - posits an aggregate thing that doesn't really exist"
+- Doug: "Set up a premise for failure, then do the mosh pit metaphoric cockfighting as to who wins"
+- Doug: "Consent by all individuals, not consensus"
+- Jerry: "I think we've had nice salon conversations but haven't done much sense-making"
+- Mike: "OGM has not written things, but several of us have used the wisdom of this crowd to write very good stuff"
+- Ken: "Not trying to nail it down to a fine definition, but get it all out on the table - expansive and exponentially synthesizing"
+- Alex: "I didn't know the purpose... I enjoy the discussion but could not find a thread... I'm oriented to solutionizing and there were no solutions"
+
+### Closing Poem
+Ken Homer: "A Note Passed to Superman" by Lucille Clifton - "Sweet Jesus, Superman! If I'd seen you dressed in your blue suit, I would have known you... There is no planet stranger than the one I'm from."
+
+### Meta Moment
+- Alex shared last week's poem "Afraid So" with family - kids said "great poem", wife said "that's not a poem"
+- Gil: "Then it did its job. Can we define poem? Can we define good poem?"
+- Jerry: "And that made perfect sense to everyone in the same way. Right?"
+
+### Notable Observations
+- This call was highly meta - discussing OGM's own sense-making (or lack thereof)
+- Clear tension between:  
+  - Academic/philosophical exploration (Marc-Antoine, Gil, Doug)
+  - Solution-orientation (Alex, Mike)
+  - Process focus (Ken, Doug)
+- Gil pushed hard on defining "sense" - fundamental question never fully resolved
+- Alex's honest feedback about being lost valued by Jerry as good closure
+
+---
