@@ -1,0 +1,140 @@
+{
+  "callNumber": "11",
+  "date": "2025-10-16",
+  "title": "Dealing with Uncomfortable News: Worldview Challenges",
+  "duration": "~90 minutes (estimate)",
+  "type": "Topical discussion",
+  "participants": ["Jerry Michalski", "Gil Friend", "Mike Nelson", "Kevin Jones", "Stacey Druss", "Dave Gray"],
+  "facilitator": "Jerry Michalski",
+  "mainTopics": ["Worldview challenges", "Trump's Gaza ceasefire", "Uncomfortable news", "Kevin's Mennonite miracle", "Cosplay diplomacy", "Left-right narratives"],
+  "keyThemes": {
+    "worldviewChallenges": {
+      "description": "How do we handle news that doesn't fit our worldview?",
+      "jerryFraming": "Left-leaning group processing Trump achieving Gaza ceasefire and Venezuela progress - how to handle news conflicting with worldview?",
+      "examples": [
+        "Trump Gaza ceasefire: all October 7 hostages resolved",
+        "Maria Corina Machado (Nobel Peace Prize) dedicated award to people of Venezuela and Trump",
+        "Trump sent Navy offshore Venezuela, $40M bounty on Maduro, 'moving the needle'",
+        "Mike Nelson's colleague: top Carnegie scholar caught with 1000+ classified documents"
+      ],
+      "gilResponse": "Cautiously impressed with Trump Middle East work, but don't give Peace Prize for starting initiatives. Challenges my picture of 'bumbling, narcissistic baby guy' - doesn't mean he can't do some things successfully",
+      "mikeResponse": "'Cosplay diplomacy' - temporary deals without substance, like Afghanistan withdrawal setup"
+    },
+    "kevinMennoniteMiracle": {
+      "description": "Kevin's amazing unexpected good news",
+      "contributor": "Kevin Jones",
+      "theNews": [
+        "25 old-order Mennonite carpenters coming to Swannanoa",
+        "Will build ~20 houses for FREE (November through May, possibly repeat next year)",
+        "Living on Kevin's farm, self-contained with trucks and tools",
+        "Will rehab Kevin's house for free (sheetrock, insulation, etc.)",
+        "Leave behind 30x40 foot building (their mess hall/eating room)",
+        "1 in 6 houses in low-status neighborhood destroyed/uninhabitable (~400 houses)",
+        "Starting housing fund for Latino folks (moved there because cheapest in county)",
+        "Labor on 20 houses no longer in fundraising math - massive cost savings"
+      ],
+      "kevinTone": "Amazingly, surprisingly good. 'Sometimes there are days like that.'",
+      "kevinStory": "College trip with son - upgraded to first class, hotel closed but Samoan guy let them stay free, sampled single malts from bar, movie theater stopped taking tickets. 'Sometimes there are days like this.'",
+      "challengeAhead": "Stitching together all these new resources will be really complicated - needs people better at coordination",
+      "gilQuestion": "Why is that a challenge to your worldview?",
+      "kevinAnswer": "It doesn't challenge worldview - it challenges the call topic (focus on bad things). Sometimes think about good things too. Surprising abundance requires lots of coordination."
+    },
+    "cosplayDiplomacy": {
+      "description": "Mike Nelson's critique of Trump's diplomatic claims",
+      "contributor": "Mike Nelson",
+      "concept": "Claims of stopping wars are temporary, lack substance, 'cosplay' rather than real diplomacy",
+      "examples": [
+        "Armenia-Azerbaijan: temporary, not meaningful reconciliation",
+        "Gaza: 'deal' in NYC real estate sense (common goal, figure out details later), already falling apart",
+        "Hamas explicitly said they didn't agree to disarm part of 'deal'",
+        "Afghanistan parallel: Trump talked to Taliban, not Afghan government, vague deal with no checks, timed withdrawal after he left office - Biden got 'egg on his face' from incompetent deal"
+      ],
+      "mikeWarning": "Let's wait 5 years and look back. No diplomat would claim what Hamas half-agreed to is a final deal. Gaza deal may fail like Afghanistan."
+    },
+    "carnegieScholarShock": {
+      "description": "Mike's personal worldview challenge",
+      "contributor": "Mike Nelson",
+      "theNews": "Two days ago: one of Carnegie's top analysts (Indian military/geopolitics) - house raided by FBI, found 1000+ top-secret/confidential documents",
+      "context": [
+        "Mike's favorite colleague",
+        "Advisor to State Department, knows how to handle classified docs",
+        "Stories emerging: is he a spy for Chinese? (not accused yet)",
+        "Similar to Sandy Berger (Clinton's National Security Advisor) stuffing docs in pants, but much larger scale"
+      ],
+      "mikeReaction": "'Completely disconnect from everything I know about this scholar, makes no sense. Having very hard time dealing with it. Don't know how I will.'",
+      "jerryResponse": "Perfect example of ill-fitting news in our worldview. Do we allow worldviews to be permeable to things like that?"
+    },
+    "leftRightNarratives": {
+      "description": "Al Chang's insight about parallel realities",
+      "source": "Jerry's friend Al Chang",
+      "insight": [
+        "Set of facts on the ground",
+        "Left and right see roughly the same facts",
+        "But have completely different movie scripts/narratives around them",
+        "Both narratives are relatively consistent and work",
+        "Two sides can't see or read each other's narratives - incapable"
+      ],
+      "jerryQuestion": "How do I steel man the opposing narrative? How do I put my brain into it and listen for different parts?",
+      "jerryMethod": "Asked Claude and ChatGPT: 'What has Trump actually done?' Discovered his people have been on the ground doing stuff that hasn't been done before in multiple places."
+    },
+    "machad oNobelDedication": {
+      "description": "Venezuelan opposition leader dedicates Nobel Peace Prize to Trump",
+      "details": "Maria Corina Machado: 'I dedicate this prize to the suffering people of Venezuela and to President Trump for his decisive support of our cause!'",
+      "theNationReaction": "Article calling it 'sellout, terrible'",
+      "backstory": "Trump only president who actually sent Navy offshore, did stuff helpful against Maduro, $40M bounty on Maduro's head (legality questionable)",
+      "mikeAlternateReading": "'She's in a bind. Has to be as obsequious as possible.' Someone angry he doesn't have Peace Prize, she needs his help. Do words reflect what she really believes?"
+    }
+  },
+  "emergingPatterns": [
+    "Kevin Jones trajectory: Deteriorating → Finding role → Absent → Returns with MIRACLE (Mennonites)",
+    "Worldview permeability question: how rigid vs flexible are our frameworks?",
+    "Good news requires coordination too (Kevin: surprising abundance needs stitching together)",
+    "Left-right narrative divide: same facts, different movies",
+    "Temporary vs lasting change: cosplay diplomacy vs real peace"
+  ],
+  "participationNotes": {
+    "Jerry Michalski": "Facilitator, wrestling with Trump's actual achievements vs worldview, Al Chang's parallel narratives insight",
+    "Gil Friend": "Cautiously impressed with Trump Middle East, pushed back on premature Peace Prize, challenged Kevin on why good news is worldview challenge",
+    "Mike Nelson": "'Cosplay diplomacy' concept, Afghanistan parallel, Carnegie colleague scandal (personal worldview shock)",
+    "Kevin Jones": "MAJOR NEWS - Mennonite carpenters miracle! Absent Calls 07-09, minimal Call 10, now back with amazing story. Also 'sometimes there are days like this' philosophy.",
+    "Dave Gray": "Sketch Your Mind conference participant with Jerry"
+  },
+  "kevinJonesArc": {
+    "call01": "Fled to Europe, Hurricane Helene devastation",
+    "call02": "Moving to Asheville, giving up on Swannanoa, 'throat level sadness'",
+    "call06": "Finding role helping Swannanoa, third places concept, without being in sadness",
+    "calls07-09": "ABSENT entire Batch 3",
+    "call10": "Returned, minimal participation",
+    "call11": "BACK WITH AMAZING NEWS - 25 Mennonite carpenters building 20 houses free, rehab his house, massive breakthrough for Swannanoa recovery",
+    "trajectory": "Crisis → Despair → Finding purpose → Absence (processing?) → MIRACLE",
+    "significance": "From personal trauma to community recovery leader with unexpected abundance of help"
+  },
+  "questionsRaised": [
+    "How do we handle news that doesn't fit our worldview?",
+    "Do we allow our worldviews to be permeable?",
+    "How do we steel man opposing narratives?",
+    "Is Trump's diplomacy real or cosplay?",
+    "Will Gaza deal last or fail like Afghanistan?",
+    "How does someone so smart do something so stupid? (Mike's colleague)",
+    "When does surprising abundance become a coordination challenge?",
+    "How do we see each other's narratives across left-right divide?"
+  ],
+  "specialNotes": [
+    "Kevin Jones MAJOR turning point: from trauma victim to recovery leader with Mennonite miracle",
+    "Call explicitly about cognitive dissonance and worldview flexibility",
+    "Mike Nelson's personal example (colleague) shows this isn't just political",
+    "Gil's response models healthy worldview update: 'cautiously impressed... one thing's moved over. Maybe.'",
+    "Kevin's 'sometimes there are days like this' - abundance philosophy",
+    "Jerry actively using AI (Claude, ChatGPT) to steel man Trump's claims",
+    "Old-order Mennonites: wear straw hats, horse-drawn things, but use power tools and semi-trailers",
+    "Swannanoa recovery now has major resource influx - coordination challenge ahead"
+  ],
+  "emotionalTone": "Wrestling with dissonance (Jerry, Gil), shock and confusion (Mike), joy and abundance (Kevin), cautious flexibility",
+  "crossCallThemes": [
+    "Worldview challenges (new focus)",
+    "Kevin Jones recovery journey (Calls 01, 02, 06, 11)",
+    "Trust and narrative (Calls 03, 04, now 11 with left-right divide)",
+    "Surprising abundance (Call 08 definitions → Call 11 Kevin's experience)",
+    "Community coordination (Call 06 third places → Call 11 stitching resources)"
+  ]
+}
