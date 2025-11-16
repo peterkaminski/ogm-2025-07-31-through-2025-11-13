@@ -1,0 +1,180 @@
+{
+  "callNumber": "13",
+  "date": "2025-10-30",
+  "title": "How to Render Crony Capitalism Obsolete",
+  "duration": "~90 minutes (estimate)",
+  "type": "Topical discussion",
+  "participants": ["Jerry Michalski", "Mike Nelson", "Gil Friend", "John Kelly", "Alex Kladitis", "Stacey Druss", "Eric Rangell"],
+  "facilitator": "Jerry Michalski",
+  "mainTopics": ["Crony capitalism", "Transparency", "Reputational economies", "Russia kleptocracy", "Copyright corruption", "Community belonging"],
+  "keyThemes": {
+    "cronyCap italismDefinition": {
+      "mikeFraming": "Crony capitalism and disinformation are two drivers of all bad things in the world: wars, Trump, repression of human rights country after country",
+      "jerryChallenge": "Was there no crony capitalism under progressives? MAGA critique of left IS that it was crony capitalism",
+      "gilDistinction": "Two different themes: capitalism and cronyism. Maybe add socialism to the mix.",
+      "mikeResponse": "Crony socialism is a form of crony capitalism - follow the money. Socialism in air quotes. Marxism never got a chance.",
+      "alexInsight": "Cronyism is independent of any political system. One's a political system (capitalism/socialism), one's a system of self-interest (cronyism)."
+    },
+    "russiaKleptocracy": {
+      "description": "Extreme version of crony capitalism",
+      "siloviki": "Putin's former FSB/KGB buddies who own privatized enterprises, scratch each other's backs",
+      "jerryObservation": "1.25M+ Russians dead in Ukraine conflict (Mike corrected: 250K dead, 1.2M casualties total) - astonishing Putin maintains power",
+      "whatToCallIt": "Not communist anymore, not really capitalist, not democratic - kleptocracy? 'Weird mutt mix of stuff'",
+      "alexMobRule": [
+        "When privatization happened, people didn't know what they were given",
+        "Mob rule: went to old people, said 'sign over or die'",
+        "Generally killed them anyway",
+        "Hundreds of thousands to millions extorted and killed",
+        "Lots of work being done on this now"
+      ]
+    },
+    "copyrightIndustryCorruption": {
+      "description": "Mike Nelson's example of blatant crony capitalism",
+      "contributors": ["Mike Nelson", "Jerry Michalski"],
+      "lawrenceLessig": "Fighting noble fight for years, lost Eldred vs Reno copyright case at Supreme Court - 'world would have been different'",
+      "mikeInsight": "Corruption caused by copyright industry drives the politics and policy",
+      "examples": [
+        "Senators/congressmen promised million-dollar-a-year jobs running RIAA, Motion Picture Association",
+        "Invite almost every White House staffer to exclusive preview theater 5 blocks from White House",
+        "Blanket everyone so everybody thinks movie industry is most important industry in America",
+        "Not just focusing on policymakers - blanketing entire ecosystem"
+      ]
+    },
+    "reputationalEconomy": {
+      "description": "John Kelly's proposed middle territory between economic and democratic systems",
+      "contributor": "John Kelly",
+      "currentProblems": [
+        "Economics world: transactions, measurement, gross ignoring of non-monetary values",
+        "Democracy world: people express intentions, should have consequences, very fragile",
+        "Reputational economies exist but problematic: social media followers, influencers"
+      ],
+      "johnProposal": [
+        "Everyone has influence (not just votes), some have more than others but BOUNDED",
+        "Cannot be taken down to zero influence",
+        "Cannot have more than some maximum amount",
+        "Earn social capital by contributing to community (not Chinese social credit way - no jaywalking penalties)",
+        "NOT in hands of government or corporation - quasi-public entity",
+        "Periodically fired at social problems (like civic assemblies)",
+        "Isolate issue, select people based on their earned influence"
+      ]
+    },
+    "transparencyAsAntidote": {
+      "description": "Alex and Jerry on radical transparency",
+      "alexSolution": [
+        "Power of cronyism is secrecy or delayed revelation",
+        "Force government and everyone: if you chat with government minister, produce document within HOURS",
+        "Recording, notes of what was spoken about - out in open within seconds",
+        "All money on blockchain - every penny traceable, anyone can question",
+        "Commercial confidentiality objection: 'crony capitalism has become such a problem that's irrelevant now'",
+        "Secret Service stuff objection: still need transparency",
+        "Impractical? Maybe. But these guys good at covering tracks under name of secrecy"
+      ],
+      "estoniaExample": "When got country back, went all electronic. X-Road platform selling to other countries. Elected officials had to post calendars online.",
+      "manhattanFailure": "Andrew Roche and Mikha Sifry tried to run on open calendaring for elected officials in Manhattan - could not get it through",
+      "clarenceThomasInsight": "'It's not the money that matters in the fancy jet, it's the conversations at those retreats. The conversations that matter, not the goodies.'"
+    },
+    "communityBelonging": {
+      "description": "Stacey's human part - small and local approach",
+      "contributor": "Stacey Druss",
+      "condoStory": [
+        "Became condo association president",
+        "Changed rule: contractor living in building became VP, allowed to do work",
+        "Got family discount + showed contractor's discount on materials",
+        "Built trust, saved money, contractor got work in his own home",
+        "'Mental thing where we all belonged to the community'"
+      ],
+      "mondamiExample": "90,000 community members working together. People say 'theft!' Stacey: 'When you feel something belongs to you and your community, even if you steal, you usually steal from outside your community.'",
+      "humanNature": "Needs to be considered in system design"
+    },
+    "shamelessnessAndFakeNews": {
+      "description": "Stacey's observation about deteriorating norms",
+      "contributor": "Stacey Druss",
+      "twoSectors": "Only entertainment and finance repeatedly hear good people say: 'You gotta work with bad people if you're gonna make it in this business.' Always wants to throw up.",
+      "governmentChange": [
+        "Used to be you didn't hear that in government",
+        "People afraid they'd be outed, held secrets over you",
+        "NOW: Secrets don't matter. There is no shame.",
+        "Don't have to worry being outed because it's 'fake news'",
+        "Nobody believes anything"
+      ],
+      "implication": "Transparency still necessary but harder to leverage when shame mechanism broken"
+    }
+  },
+  "frameworksAndConcepts": [
+    {
+      "name": "Crony Capitalism vs Cronyism",
+      "source": "Alex Kladitis",
+      "description": "Cronyism is independent of political system - it's self-interest system, not political system"
+    },
+    {
+      "name": "Follow the Money",
+      "source": "Mike Nelson",
+      "description": "Crony socialism is crony capitalism - it's all about the capital"
+    },
+    {
+      "name": "Bounded Influence",
+      "source": "John Kelly",
+      "description": "Reputational economy where influence is earned but bounded - floor and ceiling"
+    },
+    {
+      "name": "Radical Transparency",
+      "source": "Alex Kladitis",
+      "description": "Every government conversation documented within hours/seconds, all money on blockchain"
+    },
+    {
+      "name": "Community Belonging as Anti-Corruption",
+      "source": "Stacey Druss",
+      "description": "When people feel they belong, they're less likely to exploit - steal from outside, not inside"
+    },
+    {
+      "name": "Conversations Matter More Than Gifts",
+      "source": "Jerry Michalski (Clarence Thomas example)",
+      "description": "Corruption is access and influence through conversations, not just money/goodies"
+    }
+  ],
+  "examples": {
+    "extremeCronyCap": ["Russia (Siloviki)", "North Korea", "Assad's Syria", "Maduro's Venezuela"],
+    "sectoralCronyism": ["Copyright industry (RIAA, MPAA)", "Entertainment industry", "Finance industry"],
+    "transparencyAttempts": ["Estonia X-Road", "Andrew Roche Manhattan calendaring (failed)", "Lawrence Lessig Root Strikers"],
+    "communityModels": ["Stacey's condo association", "Mondamí 90K members"]
+  },
+  "questionsRaised": [
+    "How to render crony capitalism obsolete?",
+    "Is cronyism independent of political systems?",
+    "How do we protect distributed ownership from being expropriated?",
+    "Can reputational economies work without becoming like Chinese social credit?",
+    "Is radical transparency practical or will secrecy always win?",
+    "How do we leverage transparency when shame is broken (fake news era)?",
+    "Who should run reputational economy system - not government, not corporation, but what?",
+    "Can community belonging scale beyond local?",
+    "What replaces accountability when 'nobody believes anything'?"
+  ],
+  "specialNotes": [
+    "Call explicitly about systemic corruption and potential solutions",
+    "Wide-ranging: Russia to copyright to condo associations",
+    "Three main solution approaches: reputational economies (John), transparency (Alex), community belonging (Stacey)",
+    "Tension: Mike and Jerry disagree on whether progressives had crony capitalism",
+    "Alex's Russia mob rule story: shocking scale (hundreds of thousands to millions killed)",
+    "Stacey's 'shamelessness' observation: transparency harder when shame mechanism broken",
+    "Jerry's insight: conversations matter more than gifts (Clarence Thomas)",
+    "Estonia as positive example of government transparency",
+    "Andrew Roche couldn't even get calendaring in Manhattan - shows difficulty",
+    "Stacey: Only entertainment and finance openly say 'work with bad people' - others hide it"
+  ],
+  "emotionalTone": "Frustrated with systemic corruption, searching for solutions, wrestling with practicality vs idealism",
+  "participationNotes": {
+    "Mike Nelson": "Framed topic, copyright industry corruption example, crony socialism concept, factual corrections on Russia casualties",
+    "Jerry Michalski": "Facilitator, pushed back on progressive exemption, Russia Siloviki, copyright loss history, Estonia/Andrew Roche examples, conversations>gifts insight",
+    "Gil Friend": "Separated capitalism from cronyism as distinct themes",
+    "John Kelly": "Major contribution: reputational economy framework with bounded influence",
+    "Alex Kladitis": "Russia mob rule horror story, radical transparency proposal (blockchain, immediate documentation)",
+    "Stacey Druss": "Community belonging, condo story, Mondamí, shamelessness observation, entertainment/finance 'work with bad people' critique"
+  },
+  "crossCallThemes": [
+    "Corruption and trust (Calls 03, 04, now 12)",
+    "Systems-level thinking (ongoing Mike Nelson, John Kelly pattern)",
+    "Community coordination (Call 06 third places, Call 11 Kevin's Mennonites, Call 12 Stacey's belonging)",
+    "Transparency vs secrecy (Call 04 reality melting, Call 12 shamelessness)",
+    "Platform and system design (Call 09 tools, Call 10 AI, Call 12 reputational economies)"
+  ]
+}

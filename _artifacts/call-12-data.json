@@ -1,180 +1,129 @@
 {
   "callNumber": "12",
-  "date": "2025-10-30",
-  "title": "How to Render Crony Capitalism Obsolete",
+  "date": "2025-10-23",
+  "title": "Has Progress Stopped?",
   "duration": "~90 minutes (estimate)",
   "type": "Topical discussion",
-  "participants": ["Jerry Michalski", "Mike Nelson", "Gil Friend", "John Kelly", "Alex Kladitis", "Stacey Druss", "Eric Rangell"],
+  "participants": ["Jerry Michalski", "Alex Kladitis", "Gil Friend", "Mike Nelson", "Rick Botelho", "Doug Breitbart", "Victoria (in chat)"],
   "facilitator": "Jerry Michalski",
-  "mainTopics": ["Crony capitalism", "Transparency", "Reputational economies", "Russia kleptocracy", "Copyright corruption", "Community belonging"],
+  "mainTopics": ["Progress definition", "Vested interests", "Technological barriers", "Transformation of daily life", "Enshittification"],
   "keyThemes": {
-    "cronyCap italismDefinition": {
-      "mikeFraming": "Crony capitalism and disinformation are two drivers of all bad things in the world: wars, Trump, repression of human rights country after country",
-      "jerryChallenge": "Was there no crony capitalism under progressives? MAGA critique of left IS that it was crony capitalism",
-      "gilDistinction": "Two different themes: capitalism and cronyism. Maybe add socialism to the mix.",
-      "mikeResponse": "Crony socialism is a form of crony capitalism - follow the money. Socialism in air quotes. Marxism never got a chance.",
-      "alexInsight": "Cronyism is independent of any political system. One's a political system (capitalism/socialism), one's a system of self-interest (cronyism)."
+    "vestedInterestsSuppressingProgress": {
+      "contributor": "Alex Kladitis",
+      "core Argument": "Big interests now work AGAINST progress - exception is computing/IT",
+      "example": "Best battery ever invented tomorrow? Oil industry + governments would say 'too much economic impact' and buy it out",
+      "hegemonicInterests": "Overweight hegemonic interests in world economy suppressing massive disruptive progress",
+      "anticipatedPushback": "'You're a conspiracy theorist, Alex' - but thinks this is part of the cycle",
+      "jerryConfirmation": "Vested interests kill golden goose progress",
+      "historicalExample": "Great American Streetcar Conspiracy - GM, Firestone, Phillips66, Mack Truck bought light rail lines, turned down service, shut down lines, pulled up rails, burned cars → car culture not public transit"
     },
-    "russiaKleptocracy": {
-      "description": "Extreme version of crony capitalism",
-      "siloviki": "Putin's former FSB/KGB buddies who own privatized enterprises, scratch each other's backs",
-      "jerryObservation": "1.25M+ Russians dead in Ukraine conflict (Mike corrected: 250K dead, 1.2M casualties total) - astonishing Putin maintains power",
-      "whatToCallIt": "Not communist anymore, not really capitalist, not democratic - kleptocracy? 'Weird mutt mix of stuff'",
-      "alexMobRule": [
-        "When privatization happened, people didn't know what they were given",
-        "Mob rule: went to old people, said 'sign over or die'",
-        "Generally killed them anyway",
-        "Hundreds of thousands to millions extorted and killed",
-        "Lots of work being done on this now"
+    "whatIsProgress": {
+      "gilQuestion": "Question behind the question: What IS progress?",
+      "victoriaInChat": "Also asked 'what is progress?'",
+      "gilExamples": [
+        "Energy transition: renewable > coal globally now, striking price/performance progress over 20-30 years",
+        "Medical: wife 11 years in remission from disease that would've killed her in 2 years (cancer research progress)",
+        "Personal: induction range, rooftop solar, backup battery switching in microseconds - better experience, same electrons"
+      ],
+      "gilChallenge": "US lack of progress vs European cities shows progress may be highly localized, not about humanity overall",
+      "jerryFraming": "Superficial: dramatic transformation of daily life (grandparents lived through electrification, hygiene revolution)",
+      "whereIsMyFlyingCar": "Expected hexacopter Uber by now - but maybe that's not real progress",
+      "progressMightBeRelentment": "Maybe real progress is NOT pushing addictive technology on us - progress might be entirely different"
+    },
+    "mikeNarrowingQuestion": {
+      "mikeProposal": "'Provocative and obnoxious': rewrite the question - we've been diverted 10 minutes defining progress, not useful, all have different definitions (Mike has 5+)",
+      "narrowedQuestion": "Are there more barriers to technological development than in the past?",
+      "mikesProgressDimensions": [
+        "Scientific/research discoveries",
+        "Applying discoveries in cool new technologies",
+        "Economic barriers preventing use (super battery example)",
+        "Building societies in better ways (societal progress, governance evolution)"
+      ],
+      "mikeWarning": "Question so broad we'll all talk past each other - each person different place of what progress is most important",
+      "alternateFraming": "Quality of daily life improvement over 200 years plateauing or ceasing?",
+      "mikeView": "Would argue against globally, but US quality of life not doing well - 'amusing ourselves to death', conflicting demands, Confusopoly (Dilbert term)",
+      "confusopoly": "Companies throwing so many options, constantly confusing what product is and how much we pay - no time to sort through crap"
+    },
+    "customerServiceEnshittification": {
+      "contributor": "Mike Nelson",
+      "observation": "Companies won't answer phone when you call them",
+      "aiImpact": "Despite new AI tools, call centers doing BETTER job of diverting away from end goal than getting there",
+      "bookRecommendations": [
+        "'Enshittification' by Cory Doctorow - why can't we have good things? Why aren't tech breakthroughs leading to customer service + quality of life improvements?",
+        "'Breakneck' - subtitle says it all (Mike didn't finish describing)"
       ]
     },
-    "copyrightIndustryCorruption": {
-      "description": "Mike Nelson's example of blatant crony capitalism",
-      "contributors": ["Mike Nelson", "Jerry Michalski"],
-      "lawrenceLessig": "Fighting noble fight for years, lost Eldred vs Reno copyright case at Supreme Court - 'world would have been different'",
-      "mikeInsight": "Corruption caused by copyright industry drives the politics and policy",
-      "examples": [
-        "Senators/congressmen promised million-dollar-a-year jobs running RIAA, Motion Picture Association",
-        "Invite almost every White House staffer to exclusive preview theater 5 blocks from White House",
-        "Blanket everyone so everybody thinks movie industry is most important industry in America",
-        "Not just focusing on policymakers - blanketing entire ecosystem"
-      ]
-    },
-    "reputationalEconomy": {
-      "description": "John Kelly's proposed middle territory between economic and democratic systems",
-      "contributor": "John Kelly",
-      "currentProblems": [
-        "Economics world: transactions, measurement, gross ignoring of non-monetary values",
-        "Democracy world: people express intentions, should have consequences, very fragile",
-        "Reputational economies exist but problematic: social media followers, influencers"
+    "progressAsTransformationOfDailyLife": {
+      "description": "Jerry and Gil's surface-level progress metric",
+      "jerryExamples": [
+        "Electrification (grandparents)",
+        "Hygiene revolution (great-grandparents) - outhouse → running clean water",
+        "Supersonic travel would be perceived (vs renewable energy behind curtain)",
+        "AI might be next large transformation happening right now"
       ],
-      "johnProposal": [
-        "Everyone has influence (not just votes), some have more than others but BOUNDED",
-        "Cannot be taken down to zero influence",
-        "Cannot have more than some maximum amount",
-        "Earn social capital by contributing to community (not Chinese social credit way - no jaywalking penalties)",
-        "NOT in hands of government or corporation - quasi-public entity",
-        "Periodically fired at social problems (like civic assemblies)",
-        "Isolate issue, select people based on their earned influence"
-      ]
-    },
-    "transparencyAsAntidote": {
-      "description": "Alex and Jerry on radical transparency",
-      "alexSolution": [
-        "Power of cronyism is secrecy or delayed revelation",
-        "Force government and everyone: if you chat with government minister, produce document within HOURS",
-        "Recording, notes of what was spoken about - out in open within seconds",
-        "All money on blockchain - every penny traceable, anyone can question",
-        "Commercial confidentiality objection: 'crony capitalism has become such a problem that's irrelevant now'",
-        "Secret Service stuff objection: still need transparency",
-        "Impractical? Maybe. But these guys good at covering tracks under name of secrecy"
-      ],
-      "estoniaExample": "When got country back, went all electronic. X-Road platform selling to other countries. Elected officials had to post calendars online.",
-      "manhattanFailure": "Andrew Roche and Mikha Sifry tried to run on open calendaring for elected officials in Manhattan - could not get it through",
-      "clarenceThomasInsight": "'It's not the money that matters in the fancy jet, it's the conversations at those retreats. The conversations that matter, not the goodies.'"
-    },
-    "communityBelonging": {
-      "description": "Stacey's human part - small and local approach",
-      "contributor": "Stacey Druss",
-      "condoStory": [
-        "Became condo association president",
-        "Changed rule: contractor living in building became VP, allowed to do work",
-        "Got family discount + showed contractor's discount on materials",
-        "Built trust, saved money, contractor got work in his own home",
-        "'Mental thing where we all belonged to the community'"
-      ],
-      "mondamiExample": "90,000 community members working together. People say 'theft!' Stacey: 'When you feel something belongs to you and your community, even if you steal, you usually steal from outside your community.'",
-      "humanNature": "Needs to be considered in system design"
-    },
-    "shamelessnessAndFakeNews": {
-      "description": "Stacey's observation about deteriorating norms",
-      "contributor": "Stacey Druss",
-      "twoSectors": "Only entertainment and finance repeatedly hear good people say: 'You gotta work with bad people if you're gonna make it in this business.' Always wants to throw up.",
-      "governmentChange": [
-        "Used to be you didn't hear that in government",
-        "People afraid they'd be outed, held secrets over you",
-        "NOW: Secrets don't matter. There is no shame.",
-        "Don't have to worry being outed because it's 'fake news'",
-        "Nobody believes anything"
-      ],
-      "implication": "Transparency still necessary but harder to leverage when shame mechanism broken"
+      "gilCounter": "Behind curtain matters too - rooftop solar, induction range, backup battery = better experience even if 'same electrons'",
+      "jerrySkepticism": "Don't particularly want urban airscapes littered with drones/air taxis - fender bender ignorable, quadcopter crash not"
     }
-  },
-  "frameworksAndConcepts": [
-    {
-      "name": "Crony Capitalism vs Cronyism",
-      "source": "Alex Kladitis",
-      "description": "Cronyism is independent of political system - it's self-interest system, not political system"
-    },
-    {
-      "name": "Follow the Money",
-      "source": "Mike Nelson",
-      "description": "Crony socialism is crony capitalism - it's all about the capital"
-    },
-    {
-      "name": "Bounded Influence",
-      "source": "John Kelly",
-      "description": "Reputational economy where influence is earned but bounded - floor and ceiling"
-    },
-    {
-      "name": "Radical Transparency",
-      "source": "Alex Kladitis",
-      "description": "Every government conversation documented within hours/seconds, all money on blockchain"
-    },
-    {
-      "name": "Community Belonging as Anti-Corruption",
-      "source": "Stacey Druss",
-      "description": "When people feel they belong, they're less likely to exploit - steal from outside, not inside"
-    },
-    {
-      "name": "Conversations Matter More Than Gifts",
-      "source": "Jerry Michalski (Clarence Thomas example)",
-      "description": "Corruption is access and influence through conversations, not just money/goodies"
-    }
-  ],
-  "examples": {
-    "extremeCronyCap": ["Russia (Siloviki)", "North Korea", "Assad's Syria", "Maduro's Venezuela"],
-    "sectoralCronyism": ["Copyright industry (RIAA, MPAA)", "Entertainment industry", "Finance industry"],
-    "transparencyAttempts": ["Estonia X-Road", "Andrew Roche Manhattan calendaring (failed)", "Lawrence Lessig Root Strikers"],
-    "communityModels": ["Stacey's condo association", "Mondamí 90K members"]
   },
   "questionsRaised": [
-    "How to render crony capitalism obsolete?",
-    "Is cronyism independent of political systems?",
-    "How do we protect distributed ownership from being expropriated?",
-    "Can reputational economies work without becoming like Chinese social credit?",
-    "Is radical transparency practical or will secrecy always win?",
-    "How do we leverage transparency when shame is broken (fake news era)?",
-    "Who should run reputational economy system - not government, not corporation, but what?",
-    "Can community belonging scale beyond local?",
-    "What replaces accountability when 'nobody believes anything'?"
+    "Has progress stopped?",
+    "What is progress?",
+    "Are there more barriers to technological development than in the past?",
+    "Why do vested interests suppress disruptive progress?",
+    "Is progress transformation of daily life, or deeper systemic change?",
+    "Why aren't technological breakthroughs leading to quality of life improvements?",
+    "Is progress localized (Europe vs US) rather than global?",
+    "Where is my flying car?",
+    "Is AI the next large transformation we're living through?"
+  ],
+  "booksAndResources": [
+    {
+      "title": "Enshittification",
+      "author": "Cory Doctorow",
+      "sharedBy": "Mike Nelson",
+      "about": "Why can't we have good things? Why tech breakthroughs don't lead to quality improvements"
+    },
+    {
+      "title": "Breakneck",
+      "sharedBy": "Mike Nelson",
+      "about": "Deeper and more important book (subtitle not fully described in excerpt)"
+    },
+    {
+      "concept": "Great American Streetcar Conspiracy",
+      "sharedBy": "Jerry Michalski",
+      "players": ["General Motors", "Firestone", "Phillips66", "Mack Truck"],
+      "outcome": "Killed public transit to sell buses, found for antitrust but too late"
+    },
+    {
+      "concept": "Confusopoly",
+      "source": "Dilbert (Scott Adams)",
+      "sharedBy": "Mike Nelson",
+      "description": "Companies confuse what product is and pricing to prevent comparison"
+    }
   ],
   "specialNotes": [
-    "Call explicitly about systemic corruption and potential solutions",
-    "Wide-ranging: Russia to copyright to condo associations",
-    "Three main solution approaches: reputational economies (John), transparency (Alex), community belonging (Stacey)",
-    "Tension: Mike and Jerry disagree on whether progressives had crony capitalism",
-    "Alex's Russia mob rule story: shocking scale (hundreds of thousands to millions killed)",
-    "Stacey's 'shamelessness' observation: transparency harder when shame mechanism broken",
-    "Jerry's insight: conversations matter more than gifts (Clarence Thomas)",
-    "Estonia as positive example of government transparency",
-    "Andrew Roche couldn't even get calendaring in Manhattan - shows difficulty",
-    "Stacey: Only entertainment and finance openly say 'work with bad people' - others hide it"
+    "Call explicitly about meta-question: has progress stopped?",
+    "Group immediately fragments on definition of progress (Mike: we'll talk past each other)",
+    "Alex brings vested interests framework from start",
+    "Gil brings personal (wife's cancer), local (rooftop solar), global (renewable energy) examples",
+    "Mike tries to narrow to something specific (technological barriers)",
+    "Jerry open to 'progress might be relentment on addictive tech' - skeptical of tech progress",
+    "Enshittification theme continues from Call 10 (Gil's question about monetization)",
+    "Customer service degradation despite AI - ironic",
+    "Europe vs US progress localization - challenges universal narrative"
   ],
-  "emotionalTone": "Frustrated with systemic corruption, searching for solutions, wrestling with practicality vs idealism",
+  "emotionalTone": "Provoc ative (Mike self-describes), definitional wrestling, skepticism about mainstream progress narrative",
   "participationNotes": {
-    "Mike Nelson": "Framed topic, copyright industry corruption example, crony socialism concept, factual corrections on Russia casualties",
-    "Jerry Michalski": "Facilitator, pushed back on progressive exemption, Russia Siloviki, copyright loss history, Estonia/Andrew Roche examples, conversations>gifts insight",
-    "Gil Friend": "Separated capitalism from cronyism as distinct themes",
-    "John Kelly": "Major contribution: reputational economy framework with bounded influence",
-    "Alex Kladitis": "Russia mob rule horror story, radical transparency proposal (blockchain, immediate documentation)",
-    "Stacey Druss": "Community belonging, condo story, Mondamí, shamelessness observation, entertainment/finance 'work with bad people' critique"
+    "Jerry Michalski": "Facilitator, raised topic, open to multiple definitions, skeptical of flying cars",
+    "Alex Kladitis": "Led with vested interests suppression, hegemonic interests, anticipated conspiracy theory pushback",
+    "Gil Friend": "Challenged definition, brought renewable energy data, personal medical example, rooftop solar",
+    "Mike Nelson": "Provocative reframing, narrowing to technological barriers, Enshittification book rec, Confusopoly concept",
+    "Victoria": "Asked in chat 'what is progress?'"
   },
   "crossCallThemes": [
-    "Corruption and trust (Calls 03, 04, now 12)",
-    "Systems-level thinking (ongoing Mike Nelson, John Kelly pattern)",
-    "Community coordination (Call 06 third places, Call 11 Kevin's Mennonites, Call 12 Stacey's belonging)",
-    "Transparency vs secrecy (Call 04 reality melting, Call 12 shamelessness)",
-    "Platform and system design (Call 09 tools, Call 10 AI, Call 12 reputational economies)"
+    "Enshittification (Call 10 Gil's question, Call 12 Mike's focus)",
+    "Definition debates (Calls 05, 07, 08, 09, now 12 - what is progress?)",
+    "Vested interests (Call 13 Crony Capitalism will develop this further)",
+    "Systemic change vs surface metrics (ongoing pattern)"
   ]
 }
