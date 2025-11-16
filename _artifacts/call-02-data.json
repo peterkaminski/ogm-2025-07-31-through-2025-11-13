@@ -1,0 +1,198 @@
+{
+  "callNumber": "02",
+  "date": "2025-08-07",
+  "title": "Check-in Call",
+  "duration": "~105 minutes",
+  "type": "Check-in (Jerry away, Klaus hosting)",
+  "participants": [
+    "Klaus Mager",
+    "Gil Friend",
+    "Stacey Druss",
+    "Kevin Jones",
+    "Ken Homer",
+    "Mike Nelson",
+    "Jessie Upp DayBalancer.com",
+    "Karl Hebenstreit Jr.",
+    "Doug Breitbart"
+  ],
+  "facilitator": "Klaus Mager (filling in for Jerry who is in Italy)",
+  "mainTopics": [
+    "Personal check-ins",
+    "DayBalancer project (Jessie)",
+    "Digital leadership and vision (Mike Nelson)",
+    "Hurricane Helene aftermath continues (Kevin Jones)",
+    "Moving to Spain (Ken Homer)",
+    "Community coordination challenges"
+  ],
+  "checkIns": {
+    "format": "Open check-in call - no specific prompt, everyone sharing updates",
+    "personalUpdates": [
+      {
+        "speaker": "Jerry Michalski",
+        "update": "In Italy (Bergamo), Klaus hosting in his absence"
+      },
+      {
+        "speaker": "Jessie Upp",
+        "update": "DayBalancer talent/community matching platform - 400 users, pivoting to event industry for monetization, cat has UTI"
+      },
+      {
+        "speaker": "Karl Hebenstreit Jr.",
+        "update": "Working on Google Workspace for 'Today's Moonshots', finishing term papers, exploring big hairy audacious goals"
+      },
+      {
+        "speaker": "Mike Nelson",
+        "update": "Heading to Taipei for keynote at World Innovation Tech Services Alliance, then Manila, stopping in Seattle to see parents with daughter"
+      },
+      {
+        "speaker": "Kevin Jones",
+        "update": "Still in limbo post-Hurricane Helene, moving to apartment in Asheville end of month, discovered wants walkable urban life not farm, FEMA failing, community devastated and giving up, mutual aid groups collapsed"
+      },
+      {
+        "speaker": "Ken Homer",
+        "update": "Got Spanish visa appointment after 3 months trying, planning to move to Valencia December/January, excited about walkable clean city with great public transit"
+      }
+    ]
+  },
+  "keyThemes": {
+    "communityBuilding": {
+      "description": "Challenges of coordinating community initiatives and keeping momentum",
+      "contributors": ["Jessie Upp", "Klaus Mager"],
+      "keyPoints": [
+        "DayBalancer trying to solve event momentum problem",
+        "Many fragmented initiatives lacking coordination",
+        "Need for sustained engagement between events"
+      ]
+    },
+    "digitalLeadership": {
+      "description": "Need for political vision in digital era",
+      "contributor": "Mike Nelson",
+      "keyPoints": [
+        "Lack of coordinated digital vision causes drift in 7 directions",
+        "Clinton Administration 1993 example of effective digital leadership",
+        "Encryption conflicts: police vs privacy/security experts",
+        "Copyright conflicts in AI era",
+        "Taiwan's 5-branch government complexity"
+      ]
+    },
+    "climateDisasterContinued": {
+      "description": "Ongoing Swannanoa/Asheville devastation - getting worse",
+      "contributor": "Kevin Jones",
+      "keyPoints": [
+        "Federal money promised not coming, FEMA non-responsive",
+        "Mutual aid groups collapsed, paid workers giving up",
+        "Community gathering places gone (no grocery, post office, restaurants)",
+        "Social fabric shredding - deeply involved people walking away",
+        "Trauma in the land visible and overwhelming",
+        "Kevin escaping to Asheville city, can't bear Swannanoa anymore"
+      ]
+    },
+    "urbanVsRural": {
+      "description": "Preference shift toward walkable urban living",
+      "contributors": ["Kevin Jones", "Ken Homer"],
+      "keyPoints": [
+        "Kevin: Loved farm for 15 years but disaster changed preference to walkable city",
+        "Ken: Moving to Valencia for walkable, clean, civilized urban life",
+        "Both emphasize walking to cafes, groceries, restaurants"
+      ]
+    },
+    "scarcityVsAbundance": {
+      "description": "Living with scarcity mode vs abundance mindset",
+      "contributor": "Jessie Upp",
+      "keyPoints": [
+        "People living in scarcity mode",
+        "Everyone always has something to give",
+        "Focus on gifts not just needs"
+      ]
+    }
+  },
+  "storiesShared": [
+    {
+      "teller": "Jessie Upp",
+      "topic": "DayBalancer project journey",
+      "summary": "Built passion project without monetization plan, now has 400 users, realized it needs to pivot to events industry. Conversation with Dave at Campfire about giving gifts to community",
+      "impact": "Example of building for community first, money second"
+    },
+    {
+      "teller": "Kevin Jones",
+      "topic": "Post-disaster community collapse (continuation)",
+      "summary": "Still no permanent housing, moving to Asheville apartment, FEMA promises unfulfilled, mutual aid collapsed, community leaders walking away including Deb Trigg (in France recuperating), Kevin giving up on Swannanoa entirely",
+      "impact": "Darker than Call 01 - shows progression of trauma and exhaustion"
+    },
+    {
+      "teller": "Ken Homer",
+      "topic": "Moving to Valencia, Spain",
+      "summary": "After 3 months, finally got Spanish visa appointment, planning December/January move. Loved Valencia visit - clean, green, great transit, civilized",
+      "impact": "Positive vision - choosing walkable urban quality of life"
+    },
+    {
+      "teller": "Mike Nelson",
+      "topic": "Digital leadership keynote preparation",
+      "summary": "Speaking to 50 national IT trade associations about need for political vision in digital era, lessons from Clinton Administration 1990s",
+      "impact": "Themes of vision, coordination, leadership in complex systems"
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "Ikigai",
+      "context": "DayBalancer uses ikigai framework for matching",
+      "introducedBy": "Jessie Upp",
+      "elements": ["What you love", "What you're good at", "What the world needs", "What you can be paid for"]
+    },
+    {
+      "name": "Big Hairy Audacious Goals (BHAGs)",
+      "context": "Jim Collins framework",
+      "mentionedBy": "Karl Hebenstreit Jr."
+    }
+  ],
+  "questionsRaised": [
+    "How do we coordinate fragmented community initiatives?",
+    "How do we maintain momentum between annual events?",
+    "How do we get digital political leadership and vision?",
+    "What happens to communities when federal disaster support fails?",
+    "How do we balance encryption (privacy) vs law enforcement needs?",
+    "How do we handle AI copyright issues?",
+    "What percentage of disaster-affected populations give up and leave?"
+  ],
+  "resourcesShared": [
+    {
+      "type": "platform",
+      "name": "DayBalancer",
+      "description": "Talent/community matching system using ikigai, pivoting to events",
+      "sharedBy": "Jessie Upp"
+    },
+    {
+      "type": "city",
+      "name": "Valencia, Spain",
+      "description": "Walkable, clean city with great public transit, bike infrastructure",
+      "sharedBy": "Ken Homer"
+    },
+    {
+      "type": "conference",
+      "name": "World Innovation Technology and Services Alliance",
+      "description": "50 national IT trade associations meeting in Taipei",
+      "sharedBy": "Mike Nelson"
+    }
+  ],
+  "emotionalTone": "Mixed - some hope (Ken's Spain plans), deep trauma (Kevin's continued devastation), practical challenges (Jessie's monetization, Mike's travel complications)",
+  "participationNotes": {
+    "Klaus Mager": "Guest host, facilitated check-ins, asked questions",
+    "Kevin Jones": "Deeply traumatized, darker than Call 01, explicitly asked not to be asked again about Swannanoa",
+    "Ken Homer": "Hopeful about Spain move, excited about Valencia",
+    "Mike Nelson": "Professional update, travel to Asia, digital leadership themes",
+    "Jessie Upp": "Sharing DayBalancer journey and philosophy",
+    "Gil Friend": "Active participant, asked clarifying questions"
+  },
+  "comparedToCall01": {
+    "kevinJonesTrauma": "Significantly worse - now explicitly giving up on Swannanoa, moving away, mutual aid collapsed",
+    "format": "Pure check-in vs Call 01 which had topical discussion on grief",
+    "tone": "More personal updates, less philosophical, trauma still present"
+  },
+  "specialNotes": [
+    "Jerry in Italy - Klaus hosting (as announced in Call 01)",
+    "Check-in call format - no specific prompt, open sharing",
+    "Kevin Jones trauma deepening - now at 'throat level sadness'",
+    "Multiple people (Kevin, Ken) expressing preference for walkable urban living",
+    "FEMA/federal disaster response critique stronger than Call 01",
+    "Klaus noted many fragmented community initiatives lacking coordination"
+  ]
+}

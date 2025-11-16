@@ -1,0 +1,296 @@
+{
+  "lastUpdated": "2025-11-16",
+  "batchesProcessed": ["Batch 1 (Calls 01-03)"],
+  "participantProfiles": {
+    "Jerry Michalski": {
+      "callsInBatch": ["01", "02", "03"],
+      "totalCallsThisBatch": 3,
+      "role": "Primary facilitator",
+      "contributions": [
+        "Facilitator for Calls 01 and 03",
+        "Away in Italy for Call 02 (Bergamo vacation)",
+        "Shared Buenos Aires robbery story and Argentina return (Call 01)",
+        "Family history loss theme (Call 01)",
+        "East Germany trust paradox story (Call 03)",
+        "Frames topics for discussion"
+      ],
+      "participationPattern": "Consistently present, sets tone and topics",
+      "specialNotes": "Group leader, holds the space",
+      "watchFor": "Continued facilitation, topic selection patterns"
+    },
+    "Klaus Mager": {
+      "callsInBatch": ["01", "02", "03"],
+      "totalCallsThisBatch": 3,
+      "role": "Core member, backup facilitator",
+      "contributions": [
+        "Deep vulnerable sharing on German post-WWII trauma (Call 01)",
+        "Guest host for Call 02 while Jerry in Italy",
+        "Observed fragmented community initiatives problem (Call 02)",
+        "Oregon wildfire recovery comparison (Call 01)"
+      ],
+      "participationPattern": "Can hold both deep vulnerability and professional facilitation",
+      "specialNotes": "Born 1949, exposed to concentration camp footage as child",
+      "watchFor": "Continued vulnerability, facilitation role, intergenerational themes"
+    },
+    "Gil Friend": {
+      "callsInBatch": ["01", "02", "03"],
+      "totalCallsThisBatch": 3,
+      "role": "Active dialogue partner",
+      "contributions": [
+        "Connected themes to current events (Call 01)",
+        "Father's WWII service mention (Call 01)",
+        "Gaza information conflicts focus (Call 03)",
+        "Laptop protein drink incident - working from iPad (Call 03)",
+        "Active questioner in Call 02 check-ins"
+      ],
+      "participationPattern": "Connects discussions to current events, especially Gaza/Israel",
+      "specialNotes": "Sustainability OG, CxO Coach",
+      "watchFor": "Continued Gaza touchpoints, sustainability themes"
+    },
+    "Kevin Jones": {
+      "callsInBatch": ["01", "02", "03"],
+      "totalCallsThisBatch": 3,
+      "role": "Living case study - climate disaster trauma",
+      "contributions": [
+        "Raw sharing about Swannanoa devastation (Call 01)",
+        "Fled to Europe after disaster (Call 01)",
+        "Leadership exhaustion theme (Call 01)",
+        "Deteriorating condition in Call 02 - 'throat level sadness'",
+        "FEMA failure report (Call 02)",
+        "Mutual aid collapse report (Call 02)",
+        "Preference shift: farm → walkable urban (Call 02)",
+        "Asked not to be asked about Swannanoa again (Call 02)",
+        "Present but minimal contribution in Call 03"
+      ],
+      "participationPattern": "Trauma deepening over time, participation decreasing",
+      "storyArc": "Hurricane Helene survivor in crisis - deteriorating from Call 01 to Call 02",
+      "specialNotes": "Moving from Swannanoa to Asheville apartment, giving up on community",
+      "watchFor": "CRITICAL - Does Kevin continue participating? Find stability? Process trauma?"
+    },
+    "Ken Homer": {
+      "callsInBatch": ["01", "02", "03"],
+      "totalCallsThisBatch": 3,
+      "role": "Core member",
+      "contributions": [
+        "Present Call 01 but less vocal than usual (noted by Jerry)",
+        "Got Spanish visa appointment (Call 02)",
+        "Planning December/January move to Valencia (Call 02)",
+        "Excited about walkable, clean city life (Call 02)",
+        "In queue but stepped back from camera (Call 03)"
+      ],
+      "participationPattern": "Regular participant, planning major life change",
+      "storyArc": "Spain move planning - positive vision",
+      "specialNotes": "Parallel to Kevin (both want walkable urban) but aspirational not trauma-driven",
+      "watchFor": "Spain move execution, updates from Valencia if he goes"
+    },
+    "Stacey Druss": {
+      "callsInBatch": ["01", "02", "03"],
+      "totalCallsThisBatch": 3,
+      "role": "Core member, gender/power dynamics contributor",
+      "contributions": [
+        "Powerful testimony on gender violence and institutional complicity (Call 01)",
+        "Marriage to 'fight to win' husband story (Call 01)",
+        "Childhood memory of boy suffocating frogs (Call 01)",
+        "Called for men to speak out in their circles (Call 01)",
+        "Noted she was only woman on Call 01 - made statement harder",
+        "Present Calls 02 and 03 but less prominent"
+      ],
+      "participationPattern": "Core participant, powerful when speaking",
+      "specialNotes": "15/16 total calls attendance (from Phase 0 data)",
+      "watchFor": "Does gender violence theme recur? Continued powerful contributions?"
+    },
+    "Mike Nelson": {
+      "callsInBatch": ["02", "03"],
+      "totalCallsThisBatch": 2,
+      "role": "Subject matter expert - digital policy and disinformation",
+      "contributions": [
+        "Digital leadership keynote preparation for Taipei WITSA (Call 02)",
+        "Clinton Administration 1990s digital vision example (Call 02)",
+        "Travel complications (Manila after Taipei, parents in Seattle) (Call 02)",
+        "Major contributor on disinformation expertise (Call 03)",
+        "11 ways to fight disinformation presentation (Call 03)",
+        "Misattributed quotes examples (Marcus Aurelius/Tolstoy) (Call 03)",
+        "Elon Musk fake story case study (Call 03)",
+        "'Brain defense' framing (Call 03)"
+      ],
+      "participationPattern": "Intermittent due to travel, systems-level thinker",
+      "specialNotes": "Expertise in digital policy, disinformation, technology governance",
+      "watchFor": "Continued systems analysis, travel schedule impacts"
+    },
+    "Doug Breitbart": {
+      "callsInBatch": ["02", "03"],
+      "totalCallsThisBatch": 2,
+      "role": "Regular participant",
+      "contributions": [
+        "Present for check-in Call 02",
+        "Present for Call 03"
+      ],
+      "participationPattern": "Regular but not prominent in these excerpts",
+      "specialNotes": "Username: dbrei",
+      "watchFor": "Continued participation, any prominent contributions"
+    },
+    "Eric Rangell": {
+      "callsInBatch": ["01"],
+      "totalCallsThisBatch": 1,
+      "role": "Occasional participant",
+      "contributions": [
+        "9/11 witness - worked in New York, took PATH trains (Call 01)",
+        "Jewish grief traditions expert (Call 01)",
+        "Movie recommendations: 'Forgiving Dr. Mengele', 'The Zone of Interest', 'Worth' (Call 01)",
+        "Questioned if 9/11 grief was 'shelved' for Gen X (Call 01)"
+      ],
+      "participationPattern": "Deep contributions when present",
+      "specialNotes": "Cultural/religious framework contributor",
+      "watchFor": "Returns in later calls? Jewish traditions perspective"
+    },
+    "Jessie Upp": {
+      "callsInBatch": ["02"],
+      "totalCallsThisBatch": 1,
+      "role": "Guest/project presenter",
+      "contributions": [
+        "DayBalancer talent/community matching platform presentation (Call 02)",
+        "400 users, pivoting to events industry (Call 02)",
+        "Ikigai framework for matching (Call 02)",
+        "Scarcity vs abundance mindset (Call 02)",
+        "Cat has UTI (personal note) (Call 02)"
+      ],
+      "participationPattern": "Single appearance, project-focused",
+      "specialNotes": "DayBalancer.com founder",
+      "watchFor": "Returns with updates? DayBalancer progress?"
+    },
+    "Karl Hebenstreit Jr.": {
+      "callsInBatch": ["02"],
+      "totalCallsThisBatch": 1,
+      "role": "Guest",
+      "contributions": [
+        "Working on Google Workspace for 'Today's Moonshots' (Call 02)",
+        "Finishing term papers (Call 02)",
+        "Exploring Big Hairy Audacious Goals (BHAGs) (Call 02)"
+      ],
+      "participationPattern": "Single appearance",
+      "specialNotes": "Student, project-focused",
+      "watchFor": "Returns in later calls?"
+    },
+    "Judith Benham": {
+      "callsInBatch": ["03"],
+      "totalCallsThisBatch": 1,
+      "role": "Regular participant",
+      "contributions": [
+        "Move is done, in new environment (Call 03)",
+        "Brief participation, just finished move (Call 03)"
+      ],
+      "participationPattern": "Brief check-in",
+      "specialNotes": "In transition (move)",
+      "watchFor": "More active in future calls post-move?"
+    },
+    "Jose Leal": {
+      "callsInBatch": ["03"],
+      "totalCallsThisBatch": 1,
+      "role": "Participant",
+      "contributions": [
+        "Present Call 03"
+      ],
+      "participationPattern": "Minimal in this batch",
+      "watchFor": "More prominent in later calls?"
+    },
+    "Slow": {
+      "callsInBatch": ["03"],
+      "totalCallsThisBatch": 1,
+      "role": "Participant",
+      "contributions": [
+        "Present Call 03"
+      ],
+      "participationPattern": "Minimal in this batch",
+      "specialNotes": "Unclear if this is a name or nickname",
+      "watchFor": "More prominence in later calls?"
+    },
+    "Scott Moehring": {
+      "callsInBatch": ["01"],
+      "totalCallsThisBatch": 1,
+      "role": "Regular participant",
+      "contributions": [
+        "Present Call 01, minimal contribution in excerpt"
+      ],
+      "participationPattern": "Present but quiet",
+      "specialNotes": "From Phase 0: 6+ calls total attendance",
+      "watchFor": "More active participation in later calls"
+    },
+    "Hank Kune": {
+      "callsInBatch": ["01"],
+      "totalCallsThisBatch": 1,
+      "role": "Participant",
+      "contributions": [
+        "Appeared at end of Call 01 excerpt"
+      ],
+      "participationPattern": "Minimal in this batch",
+      "watchFor": "Future participation patterns"
+    }
+  },
+  "batchParticipationSummary": {
+    "totalUniqueParticipants": 16,
+    "coreGroup": [
+      "Jerry Michalski (3/3)",
+      "Klaus Mager (3/3)",
+      "Gil Friend (3/3)",
+      "Kevin Jones (3/3)",
+      "Ken Homer (3/3)",
+      "Stacey Druss (3/3)"
+    ],
+    "regularButNotAll": [
+      "Mike Nelson (2/3)",
+      "Doug Breitbart (2/3)"
+    ],
+    "singleAppearance": [
+      "Eric Rangell (01)",
+      "Jessie Upp (02)",
+      "Karl Hebenstreit Jr. (02)",
+      "Judith Benham (03)",
+      "Jose Leal (03)",
+      "Slow (03)",
+      "Scott Moehring (01)",
+      "Hank Kune (01)"
+    ],
+    "participationByCall": {
+      "Call 01": 9,
+      "Call 02": 9,
+      "Call 03": 10
+    }
+  },
+  "emergingRoles": {
+    "facilitators": ["Jerry Michalski (primary)", "Klaus Mager (backup)"],
+    "subjectMatterExperts": ["Mike Nelson (digital policy, disinformation)", "Eric Rangell (Jewish traditions)", "Stacey Druss (gender/power)"],
+    "storyTellers": ["Kevin Jones (climate trauma)", "Klaus Mager (intergenerational trauma)", "Ken Homer (aspirational move)"],
+    "activeDialoguePartners": ["Gil Friend", "Stacey Druss"],
+    "projectPresenters": ["Jessie Upp (DayBalancer)", "Karl Hebenstreit Jr. (Moonshots)"]
+  },
+  "communityDynamics": [
+    "Core group of 6 attended all 3 calls in batch",
+    "Check-in call (02) had different participants than topical calls",
+    "Some one-time guests (Jessie, Karl) vs returning members",
+    "Group can hold vulnerable sharing (Klaus, Kevin, Stacey in Call 01)",
+    "Jerry's absence (Call 02) smoothly handled by Klaus - community resilience"
+  ],
+  "watchList": {
+    "criticalTracking": [
+      "Kevin Jones - trauma trajectory, will he continue participating?",
+      "Ken Homer - Spain move execution and updates"
+    ],
+    "interestingDevelopments": [
+      "Jessie Upp - DayBalancer progress if she returns",
+      "Mike Nelson - continued systems thinking, travel schedule",
+      "Stacey Druss - gender violence theme recurrence"
+    ],
+    "potentialReturns": [
+      "Eric Rangell - deep contributions, worth watching for",
+      "Judith Benham - post-move participation",
+      "Scott Moehring - regular but quiet, may become more active"
+    ]
+  },
+  "nextBatchFocus": [
+    "Batch 2 (Calls 04-06) includes second check-in call (06)",
+    "Watch for Kevin Jones updates critically",
+    "Watch for Ken Homer Spain move progress",
+    "Look for new participants or returning guests",
+    "Track core group consistency"
+  ]
+}

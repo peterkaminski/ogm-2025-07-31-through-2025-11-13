@@ -1,0 +1,203 @@
+{
+  "callNumber": "03",
+  "date": "2025-08-14",
+  "title": "Information Trust and Disinformation",
+  "duration": "~105 minutes",
+  "type": "Hybrid (brief personal updates + topical discussion)",
+  "participants": [
+    "Jerry Michalski",
+    "Gil Friend",
+    "Mike Nelson",
+    "Kevin Jones",
+    "Ken Homer",
+    "Klaus Mager",
+    "Judith Benham",
+    "Jose Leal",
+    "Slow (participant)",
+    "Doug Breitbart (dbrei)"
+  ],
+  "facilitator": "Jerry Michalski",
+  "mainTopics": [
+    "Information trust and sources",
+    "Disinformation and misinformation",
+    "Death of journalism",
+    "Gaza/Israel/Palestine information conflicts",
+    "Misattributed quotes",
+    "Brain defense vs media literacy",
+    "Trust in high-pressure environments"
+  ],
+  "keyThemes": {
+    "informationTrust": {
+      "description": "How we know what information to trust in the torrent",
+      "keyPoints": [
+        "Trust is fragile but solid, happens in quirky places",
+        "East Germany paradox: low-trust surface, high-trust underground networks",
+        "Under pressure, deepest trust emerges",
+        "Forwarding info to group = putting reputation behind it"
+      ]
+    },
+    "gazaInformationWar": {
+      "description": "Contradictory credible sources about Gaza/Israel conflict",
+      "contributor": "Gil Friend",
+      "keyPoints": [
+        "Multiple credible sources contradict each other",
+        "Israel blocking foreign journalists",
+        "Israeli public has limited news access about Gaza",
+        "Rising anti-war sentiment in Israel",
+        "Can't figure out 'what's so' even with discernment"
+      ]
+    },
+    "disinformationMechanics": {
+      "description": "How false information spreads and can be fought",
+      "contributor": "Mike Nelson",
+      "keyPoints": [
+        "Misattributed quotes epidemic (Marcus Aurelius quote was Tolstoy)",
+        "Elon Musk-Baltimore Ravens sponsorship story: completely false but plausible",
+        "11 ways to fight disinformation - none work really well",
+        "No business model for fighting disinformation, but strong model for spreading it",
+        "Focus should be on amplifiers/forwarders, not just sources",
+        "Need 'brain defense' not 'media literacy'"
+      ]
+    },
+    "journalismDeath": {
+      "description": "Protracted, agonizing death of journalism",
+      "mentionedBy": "Jerry Michalski",
+      "questions": "What replaces it? People always need information even in terrible situations"
+    }
+  },
+  "storiesShared": [
+    {
+      "teller": "Jerry Michalski",
+      "topic": "East Germany trust paradox",
+      "summary": "DDR had 1-in-10 informants (low surface trust), but underground networks had incredibly high trust because lives were on the line. People will never experience trust that deep again.",
+      "impact": "Reframes how we think about trust - it emerges strongest under pressure"
+    },
+    {
+      "teller": "Mike Nelson",
+      "topic": "Misattributed Marcus Aurelius quote",
+      "summary": "Perfect quote: 'Far better to be rejected by society than subsumed by a mob of idiots.' Turned out Leo Tolstoy made it up and attributed it to Marcus Aurelius.",
+      "impact": "Example of quote attribution problem - happens constantly"
+    },
+    {
+      "teller": "Mike Nelson",
+      "topic": "Elon Musk-Baltimore Ravens fake story",
+      "summary": "$500M sponsorship offer story spread widely in last 24 hours - completely made up but plausible",
+      "impact": "Shows how false but plausible stories spread rapidly"
+    },
+    {
+      "teller": "Gil Friend",
+      "topic": "Laptop protein drink incident",
+      "summary": "Learned not to pour protein drink on laptop, now working from iPad which is 'not too bad'",
+      "impact": "Light moment - 'iPad: not too bad' as tagline"
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "11 Ways to Fight Disinformation",
+      "source": "Alicia Wanless / Carnegie project",
+      "problem": "None work really well, most lack business model",
+      "sharedBy": "Mike Nelson"
+    },
+    {
+      "name": "Brain Defense",
+      "proposedBy": "Mike Nelson",
+      "description": "Better framing than 'media literacy' - about defending against hateful, ignorant, deceitful memes and bumper stickers"
+    },
+    {
+      "name": "Electronic Graffiti",
+      "context": "Singapore company 20 years ago - failed business model",
+      "description": "App allowing annotations/corrections on any website visible to other app users",
+      "problem": "Never got business model, never worked"
+    }
+  ],
+  "questionsRaised": [
+    "How do we know which information to trust and forward?",
+    "How do trusted communities avoid being spun and losing track?",
+    "What replaces journalism as it dies?",
+    "How do we handle contradictory credible sources?",
+    "Why is there a business model for spreading disinformation but not for fighting it?",
+    "How do we build 'brain defense' at scale?",
+    "What's the degree of information lockdown in Gaza?",
+    "Can we create something like electronic graffiti that works?"
+  ],
+  "resourcesShared": [
+    {
+      "type": "movie",
+      "title": "The Lives of Others",
+      "about": "East Germany STASI surveillance state",
+      "sharedBy": "Jerry Michalski"
+    },
+    {
+      "type": "website",
+      "name": "Quote Investigator",
+      "description": "Tracks down real sources of quotes",
+      "sharedBy": "Mike Nelson, Jerry Michalski"
+    },
+    {
+      "type": "website",
+      "name": "Snopes",
+      "description": "Fact-checking site, trusted by group",
+      "mentionedBy": "Mike Nelson"
+    },
+    {
+      "type": "book",
+      "title": "The Information Animal",
+      "author": "Alicia Wanless",
+      "description": "All-disciplines, all-angles attack on disinformation",
+      "sharedBy": "Mike Nelson"
+    },
+    {
+      "type": "conference",
+      "name": "WITSA (World Innovation Technology and Services Alliance)",
+      "description": "80 national IT associations, Mike speaking in Taipei",
+      "sharedBy": "Mike Nelson"
+    },
+    {
+      "type": "upcoming event",
+      "name": "Living Between Worlds",
+      "date": "Next Wednesday",
+      "topic": "Stuart Hill on 'lying boldly' as social change strategy",
+      "hosts": "Gil Friend, Ken Homer"
+    }
+  ],
+  "checkIns": {
+    "format": "Brief personal updates embedded in topical discussion",
+    "personalUpdates": [
+      {
+        "speaker": "Judith Benham",
+        "update": "Move is done, in new environment"
+      },
+      {
+        "speaker": "Mike Nelson",
+        "update": "Leaving for Taipei tomorrow, then Manila, asking for connections"
+      },
+      {
+        "speaker": "Gil Friend",
+        "update": "Protein drink accident on laptop, working from iPad"
+      }
+    ]
+  },
+  "emotionalTone": "Intellectually engaged, concerned about information environment, some humor, collaborative problem-solving",
+  "participationNotes": {
+    "Jerry Michalski": "Facilitator, framed topic with East Germany trust story",
+    "Mike Nelson": "Major contributor - disinformation expertise, multiple case studies",
+    "Gil Friend": "Gaza information conflicts, active dialogue partner",
+    "Kevin Jones": "In queue but stepped away from camera",
+    "Judith Benham": "Brief participation, just finished move"
+  },
+  "specialNotes": [
+    "Jerry back from Italy (Call 02 was hosted by Klaus)",
+    "Topic: Information trust - timely given Gaza conflict, election season",
+    "Mike Nelson's 'brain defense' framing resonated with group",
+    "Electronic graffiti concept from 20 years ago - group interested in revival",
+    "Business model problem: profitable to spread disinfo, not profitable to fight it",
+    "Gil: 'Lies move fast, truth corrects slowly'",
+    "Group trusts Snopes, Quote Investigator, and Jerry's brain"
+  ],
+  "crossCallThemes": [
+    "Trust (connects to Call 01 German war guilt trust issues)",
+    "Information and truth (new theme)",
+    "Systems and coordination (Mike's digital leadership from Call 02)",
+    "Gaza/Israel conflict (mentioned in Call 01 by Gil)"
+  ]
+}

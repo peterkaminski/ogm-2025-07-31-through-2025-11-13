@@ -1,0 +1,171 @@
+{
+  "lastUpdated": "2025-11-16",
+  "batchesProcessed": ["Batch 1 (Calls 01-03)"],
+  "topics": {
+    "Grief and Trauma": {
+      "calls": ["01", "02"],
+      "contributors": ["Klaus Mager", "Kevin Jones", "Stacey Druss", "Eric Rangell"],
+      "keyPoints": [
+        "Societal vs. individual grief processing",
+        "Intergenerational trauma (German post-WWII, Holocaust)",
+        "Kevin Jones Hurricane Helene ongoing trauma (deteriorating)",
+        "Truth and reconciliation frameworks",
+        "Gender-based violence and institutional complicity"
+      ],
+      "evolution": "Call 01 theoretical discussion, Call 02 Kevin's real-time deterioration shows poor processing",
+      "watchFor": "Kevin's journey in future calls, other trauma stories, processing approaches"
+    },
+    "Information Trust and Disinformation": {
+      "calls": ["01", "03"],
+      "contributors": ["Mike Nelson", "Gil Friend", "Jerry Michalski"],
+      "keyPoints": [
+        "How to know what information to trust",
+        "Contradictory credible sources (Gaza conflict)",
+        "Disinformation mechanics and business models",
+        "11 ways to fight disinformation (none work well)",
+        "Brain defense > media literacy framing",
+        "East Germany trust paradox: deep trust under pressure"
+      ],
+      "evolution": "Call 01 established personal trust themes, Call 03 expanded to information/media trust",
+      "watchFor": "Ongoing information crisis discussions, trust in community, disinformation examples"
+    },
+    "Climate Disasters and Community Resilience": {
+      "calls": ["01", "02"],
+      "contributors": ["Kevin Jones", "Klaus Mager"],
+      "keyPoints": [
+        "Hurricane Helene Swannanoa devastation",
+        "Leadership exhaustion and community collapse",
+        "FEMA failure and lack of federal support",
+        "Mutual aid groups collapsed",
+        "Long-term trauma worse than immediate impact",
+        "Preference shift: rural farm → walkable urban"
+      ],
+      "evolution": "Call 01 initial disaster impact, Call 02 shows deterioration over time - getting worse not better",
+      "storyArc": "Kevin Jones: fled to Europe → moving to Asheville → giving up on Swannanoa (Calls 01-02)",
+      "watchFor": "Kevin's continued updates, other climate disaster discussions, resilience strategies"
+    },
+    "Systems, Coordination, and Leadership": {
+      "calls": ["02", "03"],
+      "contributors": ["Mike Nelson", "Klaus Mager", "Jessie Upp"],
+      "keyPoints": [
+        "Fragmented community initiatives lacking coordination",
+        "Need for digital political vision",
+        "DayBalancer project: matching people and sustaining momentum",
+        "Clinton Administration 1990s digital leadership example",
+        "Information system failures (disinformation business models)"
+      ],
+      "evolution": "Call 02 identified coordination problems, Call 03 showed information coordination failures",
+      "watchFor": "DayBalancer updates, other coordination attempts, leadership examples"
+    },
+    "Intergenerational Patterns": {
+      "calls": ["01", "03"],
+      "contributors": ["Klaus Mager", "Gil Friend", "Jerry Michalski"],
+      "keyPoints": [
+        "German post-WWII guilt and defensiveness",
+        "Holocaust survivor trauma transmission",
+        "Palestinian/Israeli generational wounds",
+        "Gaza information lockdown and journalist blocking"
+      ],
+      "evolution": "Call 01 historical trauma focus, Call 03 connection to current Gaza conflict",
+      "watchFor": "Other generational themes, historical parallels to current events"
+    },
+    "Urban vs. Rural Living": {
+      "calls": ["02"],
+      "contributors": ["Kevin Jones", "Ken Homer"],
+      "keyPoints": [
+        "Walkable urban life preference",
+        "Kevin: trauma-driven shift from farm to city",
+        "Ken: aspirational move to Valencia, Spain",
+        "Both emphasize walking to cafes, groceries, community spaces"
+      ],
+      "evolution": "Emerged in Call 02 check-ins",
+      "watchFor": "Ken's Spain move updates, Kevin's Asheville experience, other urbanization discussions"
+    },
+    "Community Building and Connection": {
+      "calls": ["02"],
+      "contributors": ["Jessie Upp", "Klaus Mager"],
+      "keyPoints": [
+        "DayBalancer: talent/community matching platform",
+        "Maintaining momentum between events",
+        "Scarcity vs. abundance mindset",
+        "Ikigai framework for matching"
+      ],
+      "evolution": "Introduced in Call 02",
+      "watchFor": "DayBalancer progress, other community-building initiatives"
+    },
+    "Gender, Violence, and Power": {
+      "calls": ["01"],
+      "contributors": ["Stacey Druss"],
+      "keyPoints": [
+        "80%+ violent crimes perpetrated by men",
+        "Child trafficking and abuse networks",
+        "Institutional protection of perpetrators",
+        "Cultural silence and complicity",
+        "Need for men to speak out in their circles"
+      ],
+      "evolution": "Powerful contribution in Call 01 (Stacey only woman on call)",
+      "watchFor": "Does this theme recur? Stacey's continued participation and contributions"
+    },
+    "Gaza/Israel/Palestine Conflict": {
+      "calls": ["01", "03"],
+      "contributors": ["Gil Friend"],
+      "keyPoints": [
+        "Contradictory credible sources",
+        "Israel blocking foreign journalists",
+        "Israeli public limited news access",
+        "Rising anti-war sentiment in Israel",
+        "Information warfare dimension"
+      ],
+      "evolution": "Gil mentioned in Call 01 briefly, developed in Call 03 as information trust example",
+      "watchFor": "Ongoing touchpoint for information trust and conflict discussions"
+    }
+  },
+  "emergingPatterns": [
+    "Core group can hold both heavy trauma processing and lighter topical discussions",
+    "Personal stories (Kevin) illustrate theoretical discussions (Call 01 grief)",
+    "Systems-level thinking across multiple domains (Mike Nelson pattern)",
+    "Trust is central: personal trust (Call 01), information trust (Call 03)",
+    "Historical trauma connects to current conflicts (WWII → Gaza)"
+  ],
+  "questionsToTrack": [
+    "How do societies process grief well vs. poorly?",
+    "What replaces journalism as it dies?",
+    "How do we coordinate fragmented community initiatives?",
+    "Why is there a business model for spreading disinformation but not for fighting it?",
+    "How do institutions protect perpetrators?",
+    "What happens to communities when federal disaster support fails?"
+  ],
+  "resourcesIntroduced": {
+    "movies": ["Forgiving Dr. Mengele", "The Zone of Interest", "Worth", "The Lives of Others"],
+    "books": ["Nunca Mas (Never Again)", "The Information Animal"],
+    "websites": ["Quote Investigator", "Snopes"],
+    "frameworks": ["Truth and Reconciliation", "Jewish grief tradition", "3 C's (Choose/Connect/Communicate)", "Ikigai", "Brain Defense", "11 Ways to Fight Disinformation"],
+    "organizations": ["Marshall High Studios", "McMenamins", "DayBalancer", "WITSA"]
+  },
+  "storyArcs": {
+    "Kevin Jones Hurricane Helene Journey": {
+      "calls": ["01", "02"],
+      "status": "Deteriorating",
+      "progression": "Fled to Europe → Moving to Asheville → Giving up on Swannanoa → 'Throat level sadness'",
+      "watchFor": "Does Kevin find stability? Process trauma? Continue participating?"
+    },
+    "Ken Homer Spain Move": {
+      "calls": ["02"],
+      "status": "Planning",
+      "progression": "Got visa appointment → Planning Dec/Jan move to Valencia",
+      "watchFor": "Does he go? Updates from Spain?"
+    },
+    "DayBalancer Project": {
+      "calls": ["02"],
+      "status": "Pivoting",
+      "progression": "400 users → Pivoting to events industry for monetization",
+      "watchFor": "Progress updates, business model development"
+    }
+  },
+  "nextBatchFocus": [
+    "Batch 2 (Calls 04-06) will include second check-in call (06)",
+    "Watch for Kevin Jones updates",
+    "Watch for Ken Homer Spain move progress",
+    "Look for topic development or new themes emerging"
+  ]
+}
