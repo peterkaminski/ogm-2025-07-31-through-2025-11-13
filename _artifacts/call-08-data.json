@@ -1,0 +1,193 @@
+{
+  "callNumber": "08",
+  "date": "2025-09-26",
+  "title": "Abundance",
+  "duration": "~97 minutes",
+  "type": "Topical discussion with speed round",
+  "participants": [
+    "Jerry Michalski",
+    "Stacey Druss",
+    "Gil Friend",
+    "jessie (Jessie Upp)",
+    "Alex Kladitis",
+    "Pete Kaminski",
+    "Klaus Mager",
+    "Doug Breitbart",
+    "John Warinner",
+    "Rick Botelho",
+    "Ken Homer"
+  ],
+  "facilitator": "Jerry Michalski",
+  "format": "Speed round exercise proposed by Stacey Druss",
+  "mainTopics": [
+    "Defining abundance - what it is (not how/why/when/where)",
+    "Contentment vs wanting more",
+    "Scarcity mindset vs abundance mindset",
+    "Having vs being",
+    "Individual definitions"
+  ],
+  "speedRoundDefinitions": {
+    "format": "Quick title/phrase/headline/bumper sticker - what abundance IS only",
+    "proposedBy": "Stacey Druss",
+    "definitions": [
+      {
+        "speaker": "Stacey Druss",
+        "definition": "Having what you need when you need it"
+      },
+      {
+        "speaker": "Gil Friend",
+        "definition": "Content with their lot",
+        "source": "Pirkei Avot (Jewish wisdom): 'Who is rich? The person who is content with their lot'"
+      },
+      {
+        "speaker": "jessie (Jessie Upp)",
+        "definition": "Ikigai",
+        "expansion": "Overlap of what you love, what you're good at, what the world needs, and what you can get paid for"
+      },
+      {
+        "speaker": "Alex Kladitis",
+        "response": "Pass"
+      },
+      {
+        "speaker": "Pete Kaminski",
+        "definition": "Love is all you need",
+        "note": "Oblique contribution (Beatles reference)"
+      },
+      {
+        "speaker": "Klaus Mager",
+        "definition": "To be at peace with the gifts you have been given"
+      },
+      {
+        "speaker": "Doug Breitbart",
+        "definition": "Infinite possibility"
+      },
+      {
+        "speaker": "Jerry Michalski",
+        "definition": "More than enough",
+        "note": "Self-described as 'slightly controversial'"
+      },
+      {
+        "speaker": "John Warinner",
+        "definition": "More than enough",
+        "note": "Agreed with Jerry's framing"
+      },
+      {
+        "speaker": "Rick Botelho",
+        "definition": "Co-intelligence"
+      }
+    ]
+  },
+  "thematicClusters": {
+    "sufficiency": {
+      "definitions": ["Having what you need when you need it", "More than enough", "Content with their lot"],
+      "theme": "Enough-ness as abundance - not excess but adequacy or slightly more",
+      "tension": "Jerry's 'more than enough' described as controversial - implies abundance requires surplus?"
+    },
+    "innerState": {
+      "definitions": ["Content with their lot", "At peace with gifts given", "Love is all you need"],
+      "theme": "Abundance as internal state of being, not external having",
+      "wisdom": "Jewish tradition, spiritual peace, Beatles wisdom"
+    },
+    "alignment": {
+      "definitions": ["Ikigai", "Co-intelligence"],
+      "theme": "Abundance as being in right relationship - with self, world, others"
+    },
+    "expansiveness": {
+      "definitions": ["Infinite possibility"],
+      "theme": "Abundance as unlimited potential"
+    }
+  },
+  "frameworks": [
+    {
+      "name": "Ikigai",
+      "source": "Japanese concept",
+      "sharedBy": "jessie (Jessie Upp)",
+      "elements": [
+        "What you love",
+        "What you're good at",
+        "What the world needs",
+        "What you can get paid for"
+      ],
+      "abundance": "Living at intersection of all four"
+    },
+    {
+      "name": "Pirkei Avot",
+      "source": "Jewish wisdom - Ethics of the Fathers",
+      "sharedBy": "Gil Friend",
+      "question": "Who is rich?",
+      "answer": "The person who is content with their lot",
+      "implication": "Abundance is contentment, not accumulation"
+    },
+    {
+      "name": "Speed Round Exercise",
+      "proposedBy": "Stacey Druss",
+      "structure": [
+        "Quick phrase/title/headline/bumper sticker only",
+        "What it IS (not how/where/when/why)",
+        "Can say 'pass'",
+        "Refrain from explaining initially"
+      ],
+      "purpose": "Get diverse definitions on table before discussion"
+    }
+  ],
+  "contextualNotes": {
+    "staceyEmail": {
+      "proposal": "Speed round before usual conversation rounds",
+      "closing": "'Thank you for attention to this matter' with wink",
+      "parallel": "Mocking Trump Truth Social posts ending with same phrase"
+    },
+    "gilWithdrawal": {
+      "context": "Before call started, Gil discussing Zoom assistant addiction and Facebook withdrawal",
+      "jerryReference": "French Connection 2 - Popeye Doyle heroin addiction and cold turkey withdrawal",
+      "theme": "Digital addiction as modern abundance problem?"
+    },
+    "alexPowerCuts": {
+      "context": "Alex warned about UK power cuts, new substation improvements not working",
+      "commentary": "'They spent money, economy worked, people got shares, system kicks on, moves on'",
+      "tone": "Cynical about infrastructure spending"
+    }
+  },
+  "participationNotes": {
+    "Stacey Druss": "Proposed exercise format, went first with definition",
+    "Gil Friend": "Jewish wisdom contribution, recovering from Facebook withdrawal",
+    "jessie (Jessie Upp)": "Ikigai framework - recall from Call 02 DayBalancer project",
+    "Jerry Michalski": "'More than enough' described as controversial - suggests abundance requires surplus",
+    "Klaus Mager": "Spiritual/peace framing",
+    "Doug Breitbart": "Expansive view - infinite possibility",
+    "Rick Botelho": "Co-intelligence - social/collective dimension",
+    "Alex Kladitis": "Passed on exercise",
+    "Pete Kaminski": "Beatles wisdom, oblique contribution",
+    "John Warinner": "Joined late, agreed with Jerry"
+  },
+  "emotionalTone": "Lighthearted opening (withdrawal jokes, power cuts), focused speed round, efficient and pithy",
+  "specialNotes": [
+    "Stacey's speed round format worked well - people were 'pithy and right on mission'",
+    "Jerry surprised how early in call everyone was so focused",
+    "Ikigai returns from Call 02 (Jessie Upp's framework)",
+    "Gil's Jewish wisdom perfectly aligned with abundance theme",
+    "Jerry's 'more than enough' as controversial suggests group tension about what abundance means",
+    "Alex passed - consistent with Call 05 solution-orientation, may not engage with definitional exercises",
+    "Multiple spiritual/wisdom traditions invoked (Jewish, Japanese, Beatles)",
+    "Trump Truth Social reference shows political context bleeding into calls"
+  ],
+  "crossCallThemes": [
+    "Definition debates (Calls 05, 07, 08)",
+    "Ikigai framework (Call 02 Jessie Upp, Call 08)",
+    "Individual vs collective (sufficiency vs infinite possibility)",
+    "Inner state vs external conditions",
+    "Scarcity vs abundance mindset (connects to Call 02 Jessie's theme)"
+  ],
+  "connectionsToOtherCalls": {
+    "call02": "Jessie Upp's Ikigai from DayBalancer project returns as abundance definition",
+    "call05": "Alex passing on exercise consistent with solution-orientation (lost in process)",
+    "call06": "Klaus's peace/gifts theme connects to his regenerative food pivot",
+    "call07": "Definition exercise after Call 07 collaboration definition debate - format learning?"
+  },
+  "metaObservations": {
+    "formatInnovation": "Stacey's speed round prevented extended definition debate (unlike Calls 05 and 07)",
+    "diversity": "Wide range from material ('what you need'), spiritual ('peace'), relational ('co-intelligence'), to unlimited ('infinite possibility')",
+    "jerrysControversy": "His 'more than enough' suggests abundance requires surplus - others focused on sufficiency or contentment",
+    "staceyWisdom": "Format worked - got diverse views quickly without debate",
+    "alexPattern": "Passing on exercise consistent with his Call 05 feedback about process-oriented discussions"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "callNumber": "07",
+  "date": "2025-09-11",
+  "title": "On Collaboration (9/11 Anniversary)",
+  "duration": "~97 minutes",
+  "type": "Topical discussion",
+  "participants": [
+    "Jerry Michalski",
+    "Scott Moehring",
+    "Gil Friend",
+    "Kevin Jones",
+    "Mike Nelson",
+    "Alex Kladitis",
+    "Klaus Mager",
+    "Ken Homer",
+    "Stacey Druss",
+    "John Warinner"
+  ],
+  "facilitator": "Jerry Michalski",
+  "provocateur": "Scott Moehring",
+  "mainTopics": [
+    "Collaboration vs teamwork distinction",
+    "Definition debates and word meanings",
+    "Shared vision vs one person's vision",
+    "Unique individuals vs plug-and-play roles",
+    "Successful collaboration examples",
+    "Skepticism about collaboration claims"
+  ],
+  "keyThemes": {
+    "collaborationVsTeamwork": {
+      "description": "Scott's core distinction",
+      "provocateur": "Scott Moehring",
+      "scottDefinition": {
+        "collaboration": [
+          "Unique individuals pairing/grouping up",
+          "Creating something they couldn't create separately",
+          "Not because of manpower but because of unique interaction",
+          "Change one person = fundamentally different result",
+          "Shared vision both can articulate the same way",
+          "Result named after the individuals/organizations involved"
+        ],
+        "teamwork": [
+          "Plug-and-play roles, bucket brigade",
+          "Someone in charge, someone sets vision",
+          "Everyone fulfills their role",
+          "Can swap people in same role without fundamental change",
+          "Executing recipes already created"
+        ]
+      },
+      "scottSkepticism": "Rarely sees true collaboration - mostly teamwork or one person's vision with others getting on board",
+      "scottTest": "If collaborators can't say what they're doing in the same way, maybe they're not actually collaborating"
+    },
+    "examples": {
+      "restaurant": {
+        "collaboration": "Head chef + restaurateur developing restaurant, menu, experience",
+        "teamwork": "Kitchen executing recipes day-to-day",
+        "source": "Scott Moehring"
+      },
+      "filmmaking": {
+        "teamwork": "Hollywood roles - gaffer, best boy, grip - assigned roles, plug-and-play",
+        "collaboration": "Mike Lee director inventing script with actors together",
+        "alsoCollaboration": "Robert Icky & Andrew Scott choosing Hamlet then inventing the play together",
+        "source": "Jerry & Gil"
+      },
+      "uglyOranges": {
+        "case": "Management 101 negotiation - two teams need to buy last shipment of ugly oranges",
+        "twist": "One needs pith of peel (cancer serum), one needs juice",
+        "solution": "Pay $1 for shipment, split oranges, spend rest on research",
+        "lesson": "Investigate what each party actually needs - may be complementary not competitive",
+        "source": "Jerry Michalski"
+      }
+    },
+    "skepticism": {
+      "mikeNelson": [
+        "Often 1 person does 80% of work, 4 people take all credit",
+        "Some of those 4 actually getting in the way, making silly suggestions, delaying",
+        "Skeptical of 'melding of minds' creating new organism",
+        "Need champion with deadline and motivation",
+        "Collaborations can wander and wander without deadline",
+        "Collaboration for collaboration's sake is problematic"
+      ],
+      "kevinJones": [
+        "Scott's definition: groups with own goals finding bridge between them",
+        "Kevin: 'I've never... I've done that a lot, and you get... you know, Barney, I like you, you like me, but nobody changes from their own goals'",
+        "Like ships passing, lower drawbridge briefly, but nobody diverts from their goal",
+        "Doesn't happen the way Scott's talking about it"
+      ],
+      "pattern": "Practical skepticism - people who've attempted cross-organizational collaboration see limited success"
+    },
+    "wordDebate": {
+      "gilConcern": "Very problematic conversation - debating words we're using in different ways about meanings we aren't clear about",
+      "overlappingThings": [
+        "Nature of human interaction for common purpose",
+        "Word labels we give to different types of interaction"
+      ],
+      "termsInPlay": "Collaboration, cooperation, coordination, compromise",
+      "gilExperience": "Seems very different than Scott's - sees collaboration as far more common",
+      "callback": "Echoes Call 05 sense-making definition debate"
+    }
+  },
+  "frameworks": [
+    {
+      "name": "Collaboration vs Teamwork Distinction",
+      "proposedBy": "Scott Moehring",
+      "collaboration": "Unique interaction of specific individuals creating novel result",
+      "teamwork": "Defined roles executing pre-existing plan",
+      "test": "Can you swap one person without fundamentally changing the result?"
+    },
+    {
+      "name": "Ugly Oranges Negotiation Case",
+      "source": "Management 101",
+      "sharedBy": "Jerry Michalski",
+      "setup": "$1M budget, must buy last shipment of unique oranges, competing team",
+      "solution": "Discover complementary needs (pith vs juice), split oranges for $1, spend rest on research",
+      "lesson": "Investigate actual needs - apparent competition may be complementary goals"
+    },
+    {
+      "name": "Princess Bride Reference",
+      "quote": "You keep using that word. I don't think that means what you think that means",
+      "character": "Inigo Montoya",
+      "usage": "Scott's meme for organization culture buzzwords",
+      "application": "Collaboration used synonymously with 'let's get together and work'"
+    },
+    {
+      "name": "Etymology",
+      "word": "Collaboration",
+      "origin": "Latin: two words meaning 'work together'",
+      "scottCritique": "Ostensibly means anytime 2+ people doing something, but we're using it more narrowly"
+    }
+  ],
+  "questionsRaised": [
+    "What is collaboration really?",
+    "How is collaboration different from teamwork?",
+    "How common is true collaboration (Scott's definition)?",
+    "When people ask for collaboration, do they really want it or just teamwork?",
+    "If collaborators can't articulate the same vision, are they collaborating?",
+    "Why do we use 'collaboration' for what's really teamwork?",
+    "Can cross-organizational groups with different goals truly collaborate?",
+    "How do we have productive conversations when we're using words differently?"
+  ],
+  "participationNotes": {
+    "Scott Moehring": "Provocateur, arrived late, presented collaboration vs teamwork distinction, restaurant kitchen example, skeptical of collaboration claims",
+    "Jerry Michalski": "Facilitator, Ugly Oranges case, Mike Lee film example, exploring Scott's distinction",
+    "Gil Friend": "Challenged word debate, experience differs from Scott's, theater collaboration examples (Robert Icky/Andrew Scott Hamlet)",
+    "Kevin Jones": "Explained Scott's definition re: cross-organizational goals, skeptical it works ('ships passing, lowering drawbridge')",
+    "Mike Nelson": "Skeptical - 1 person does 80%, 4 take credit; need champion and deadline",
+    "Alex Kladitis": "Present, noted others covered his points",
+    "Others": "Present but not prominent in opening discussion"
+  },
+  "emotionalTone": "Intellectual, definitional, some frustration with word debates (Gil), practical skepticism (Mike, Kevin), exploratory",
+  "specialNotes": [
+    "Call on 9/11 anniversary - noted by Jerry",
+    "Jerry forgot to turn on recorder initially",
+    "Scott working during call (common pattern for him)",
+    "Princess Bride meme used to frame discussion",
+    "Gil's frustration with word debates echoes Call 05 sense-making discussion",
+    "Scott's distinction clear and specific - collaboration requires unique individuals, teamwork doesn't",
+    "Practical skepticism from people who've tried cross-organizational work (Kevin, Mike)",
+    "Gil sees collaboration as much more common than Scott does - different life experiences"
+  ],
+  "crossCallThemes": [
+    "Definition debates (connects to Call 05 sense-making)",
+    "Word meanings and shared understanding (ongoing)",
+    "Different life experiences leading to different views (echoes all calls)",
+    "Process vs outcomes (Call 05 tension continues)",
+    "Skepticism about idealized concepts"
+  ],
+  "connectionsToOtherCalls": {
+    "call05": "Gil's concern about debating words used differently directly echoes his 'what do we mean by sense?' challenge",
+    "call06": "Kevin working on Swannanoa coordination - practical experience informs his skepticism about cross-organizational collaboration"
+  },
+  "metaObservations": {
+    "definitionalClarity": "Scott provided clearest definition debate so far - specific, testable distinction",
+    "experienceDivide": "Scott/Kevin/Mike (skeptical from experience) vs Gil (sees it everywhere) - suggests context matters",
+    "practicalVsTheoretical": "Skeptics have tried to do cross-organizational work, Gil may be seeing different type of collaboration",
+    "recursion": "Discussion about collaboration demonstrated challenges of collaboration - different definitions, experiences, expectations"
+  }
+}

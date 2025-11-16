@@ -1,0 +1,385 @@
+{
+  "callNumber": "09",
+  "date": "2025-10-02",
+  "title": "OGM Meta: Growth, Platforms, and Identity",
+  "duration": "~90 minutes (estimate)",
+  "type": "Meta-discussion / Salon",
+  "participants": [
+    "Jerry Michalski",
+    "John Warinner",
+    "Pete Kaminski",
+    "Rick Botelho",
+    "Alex Kladitis",
+    "Stacey Druss",
+    "Klaus Mager",
+    "Gil Friend"
+  ],
+  "facilitator": "Jerry Michalski",
+  "mainTopics": [
+    "Platform deprecation (Mattermost, Discourse)",
+    "Onboarding and signposting challenges",
+    "Do we want to grow? In what ways?",
+    "Salon vs bodies of work",
+    "Archival and indexing",
+    "Community tool choices",
+    "Mycelial spin-off groups",
+    "Diversity of perspectives"
+  ],
+  "keyThemes": {
+    "platformDeprecation": {
+      "description": "OGM simplifying from multiple platforms and standing calls down to just Thursday calls",
+      "contributors": ["John Warinner", "Pete Kaminski", "Jerry Michalski"],
+      "changes": [
+        "Mattermost being deprecated (Pete shutting down)",
+        "Discourse being shut down (someone else's decision)",
+        "Used to have 3-4 standing calls per week, now down to just Thursday",
+        "Multiple spin-off groups (collaboration, abundance, etc.) deprecated",
+        "Files now going to Google Drive (Jerry created, but nobody knows it exists)",
+        "OGM Wiki exists but not being used for archival"
+      ],
+      "johnConfusion": "New member John Warinner confused by mentions of Plex, Mattermost, various calls - difficult to navigate what's active vs deprecated"
+    },
+    "growthQuestion": {
+      "description": "Central question: Does OGM want to grow, or stay as intimate salon?",
+      "contributor": "Rick Botelho",
+      "rickFraming": [
+        "Critical question: do you want to grow or not? If not, that's fine.",
+        "Groups go through biorhythms - expansive then contracting",
+        "OGM has contracted (fewer calls, fewer platforms)",
+        "If want to grow, need deliberate onboarding (buddy system, etc.)",
+        "Inside-outside dynamic exists even in welcoming groups",
+        "Mycelial nature - spin-off affinity groups model",
+        "EXO AI group example: had fallout, morphed, got new leadership, now expanding"
+      ],
+      "jerryResponse": [
+        "Question is for the group, not for Jerry alone",
+        "Not focused on growth, growth, growth",
+        "Prefers calls not larger than one Zoom screen (max ~64 people)",
+        "Likes seeing everybody's faces, expressions, being convivial",
+        "Early OGM had onboarding/outreach working groups - efforts petered out",
+        "'We have lovely salons, but we don't get a lot of things done'",
+        "Other communities create bodies of work (wikis, pattern languages, code)"
+      ],
+      "johnAddition": "Companion question: In what ways? What dimensions? What directions? Growth without intention is ridiculous."
+    },
+    "onboardingChallenge": {
+      "description": "New members struggle to understand OGM structure and how to navigate",
+      "contributor": "John Warinner",
+      "johnExperience": [
+        "Mentions of Plex, Mattermost, various calls - what's active?",
+        "Hard to know where to go for what",
+        "Signposting needed",
+        "Appreciates people helping him navigate"
+      ],
+      "rickInsight": "Inside-outside dynamic exists even if people on inside don't see it",
+      "peteHeuristic": "Publish what you know and see who complains or adds - discovery by doing",
+      "peteSuggestion": "Ask people you find interesting: where are you hanging out? What are you working on?"
+    },
+    "salonVsBodiesOfWork": {
+      "description": "OGM as conversational salon vs creating tangible outputs",
+      "contributor": "Jerry Michalski",
+      "jerryObservation": [
+        "'Characteristic of OGM: lovely salons, but we don't get a lot of things done'",
+        "Other communities create wikis, pattern languages, code",
+        "OGM has 'a hardy crew' that shows up regularly",
+        "Maybe this is a salon for us, maybe we want to keep it that way",
+        "Open to all suggestions, not attached to specific outcome"
+      ],
+      "contextualHistory": [
+        "Early OGM (2020-2021): onboarding and outreach working groups started, then petered out",
+        "Multiple standing calls (3-4/week) deprecated down to just Thursday",
+        "Spin-off affinity groups existed (exactly what Rick suggested) but Jerry stepped out of them"
+      ]
+    },
+    "archivalAndIndexing": {
+      "description": "How to make OGM calls and content discoverable and useful",
+      "contributors": ["Stacey Druss", "Pete Kaminski", "Jerry Michalski"],
+      "staceyValue": [
+        "Pete's archive was most valuable thing for her in OGM",
+        "Found something she wrote, brought it to different community",
+        "Everyone is one degree of separation from anyone they need to know",
+        "Looks at everyone as a page in her own book",
+        "Wants calls archived so can add pieces to 'pages'",
+        "Members are important - they go to different places, make up different groups",
+        "Prefers OGM mailing list (knows rough audience) over Plex (no idea who reads)"
+      ],
+      "jerryProcess": [
+        "Downloads video from Zoom, uploads to YouTube, links in Brain",
+        "Posts link to Mattermost with chat, transcript, AI summary attached",
+        "Has been doing this rhythmically since Mattermost server launched",
+        "Mattermost is terrible for this - not a database, hard to fetch files",
+        "Now putting files in Google Drive, but nobody knows it exists",
+        "Never thought to create call list in OGM Wiki (in Obsidian)",
+        "Wiki may not be right structure for database/lookup/analysis"
+      ],
+      "peteReflection": [
+        "Plex goal: who's doing what where? Help people find out more.",
+        "Felt marginally successful, mostly failed",
+        "Devilishly difficult to get that information from people",
+        "Not because closed-lipped, but because context-dependent ('where do I hang out? today with Jesse, is that what you mean?')",
+        "Vincent Arena example: doing amazing stuff, no time to sit around and share",
+        "Missing global 'matchmaking function' - what would friends-of-friends find interesting?",
+        "Didn't track Plex readership, didn't want to categorize people",
+        "Wanted to give people agency, not assume collective categorization",
+        "Pete no longer publishing Plex, Kevin is (with different conception)",
+        "Likes and comments would need critical mass (like Amazon, Facebook) - small group doesn't have enough throughput for statistical meaning"
+      ],
+      "klausReminder": "Used to have calendar where groups advertised themselves (open or closed), made it easy to see what's happening - like Meetup app"
+    },
+    "diversityValue": {
+      "description": "Value of encountering views you disagree with",
+      "contributor": "Alex Kladitis",
+      "alexTestimony": [
+        "Feels very different from everyone: 'I don't believe I'm on the same political affiliation as you guys'",
+        "'I listen to you guys, and I think, I don't agree with that'",
+        "'But that's what I value. Because otherwise, I'm not gonna listen to anybody doesn't agree with me.'",
+        "Haven't found group who totally agrees with him - if they did, wouldn't exist",
+        "Values the diversity - most all-encompassing divergent views group",
+        "Frustrated sometimes (want to expand on topics), but can form subgroups",
+        "There's a limit how many groups you can join in one week",
+        "'I'm not right at everything' - fighting against own echo chamber"
+      ],
+      "jerryResponse": "Maybe you need to start your own movement - you're unique in your cluster of perspectives",
+      "alexPushback": "Then that'd be my people, my ideas, my thinking - that's what I'm fighting against"
+    },
+    "toolChoicesFrustration": {
+      "description": "No good answer to 'what tool should we use for community?'",
+      "contributor": "Jerry Michalski",
+      "jerryCritique": [
+        "'Ironically, when somebody says, I've got a new community, what tool should I use? There's no good answer.'",
+        "Pete and Jerry with lots of experience: 'oh god, not this question again'",
+        "Could try Discord, Google group, this, that - all have pluses and minuses",
+        "Facebook has eaten the space, business model is addicting you - not cool",
+        "LinkedIn very business-y, private LinkedIn groups don't have much life",
+        "'I'm a little angry at the software world for not having fixed this and solved it at this point'",
+        "'We know enough about all these things to figure out what to do... but we haven't'"
+      ],
+      "platformOptions": ["Discord", "Google Groups", "Signal", "Matrix", "Slack", "Mattermost", "Facebook", "LinkedIn"],
+      "peopleMentioned": [
+        "Vincent Arena (left to build his project entrepreneurially)",
+        "Brad DeGraff (has a community)",
+        "Ben Roberts (community with Kumu map of overlapping communities)"
+      ]
+    },
+    "wikisVsNewsletters": {
+      "description": "Different topographies of online community spaces",
+      "contributor": "Jerry Michalski",
+      "jerryHistory": [
+        "Pete co-founded SocialText (wiki company)",
+        "Pete and Jerry thought years ago we'd all collaborate through wikis",
+        "Semi-structured wikis (Wagon and variants) came and went",
+        "Vision: rhizomal mycelial network of connected text nodes",
+        "MassiveWiki isn't quite a wiki yet - can't click to edit page you're looking at",
+        "That's important feature for wikis",
+        "Don't have wiki-like conversation yet in (ironically) OGM Wiki"
+      ],
+      "topographyComparison": {
+        "newsletter": [
+          "Broadcast to subscribers",
+          "Owner might see subscriber list, but not public",
+          "Can't tell if people forwarded to friends (second-order reach)"
+        ],
+        "mailingList": [
+          "OGM list: can see all members in Google Groups",
+          "Can see who email went to (first-order reach visible)",
+          "Easy to understand audience"
+        ],
+        "wiki": [
+          "Can see who made changes",
+          "Usually can't see who read page (unless large like Wikipedia)",
+          "Community of co-editors",
+          "Very different feeling around shared asset",
+          "Culturally different and interesting"
+        ]
+      }
+    }
+  },
+  "storiesShared": [
+    {
+      "teller": "Rick Botelho",
+      "topic": "EXO AI group fallout and rebirth",
+      "summary": "EXO community had affiliated AI subgroup. Leadership had fallout between main group and AI subgroup. AI group went independent, then morphed with new leadership. Now expanding again. Spin-off group from AI group focused on human flourishing (Rick pushed for 'human and planetary flourishing').",
+      "impact": "Example of mycelial spin-off groups - inhibitory and pro-growth strategies"
+    },
+    {
+      "teller": "Rick Botelho",
+      "topic": "Metal men's group structure",
+      "summary": "Group Rick used to belong to but left (apolitical, which was ironic because it wasn't really). Had ~50 different subgroups (clustering, infinities, crypto, etc.). Incredible to see breadth of affinity groups.",
+      "impact": "Model for self-organizing, self-generating, self-governing spin-off groups"
+    },
+    {
+      "teller": "Jerry Michalski",
+      "topic": "Malcolm Gladwell's 'The Cellular Church'",
+      "summary": "Saddleback Church where Rick Warren was pastor. Got giant through cell structure: Colton Group, downhill bikers, etc. - little cells with common interests. Once a year all gathered in local football stadium because couldn't fit in church.",
+      "impact": "Model for scaled community with intimate affinity cells"
+    },
+    {
+      "teller": "Jerry Michalski",
+      "topic": "Vincent Arena's 'who's doing what with whom' project",
+      "summary": "Early OGM question: who's doing what with whom? Vincent came straight out of college (had done this for his college). Started project to map groups and members. Went entrepreneurial, built it up, went off. Still doing it. Hasn't been in OGM for quite a while.",
+      "impact": "Example of someone taking OGM-spawned idea and building it independently"
+    },
+    {
+      "teller": "Jerry Michalski",
+      "topic": "View from the mast / Flotilla project",
+      "summary": "Pete gave metaphor: lots of overlapping raindrop-y organizations swimming in flotilla. Side project called 'Flotilla.' If you go to top of OGM mast and look out, some orgs closer, some on horizon. Some have overlapping members who are regulars here.",
+      "impact": "Conceptual model for understanding community adjacency"
+    },
+    {
+      "teller": "Jerry Michalski",
+      "topic": "Multi-plane camera view",
+      "summary": "Disney invented multi-plane camera for cartoons: layers of cells (background landscape, trees, Donald Duck) moving at different speeds to create depth illusion. Jerry wanted this for OGM: one layer = view from mast (orgs), another = people, another = projects. Could see connections between layers (Stacey in OGM and Neobooks project), turn around, pull out layers to see in 2D or see relationships. More code than anyone wanted to create.",
+      "impact": "Aspirational model for visualizing multi-dimensional community relationships"
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "Cellular Church Model",
+      "source": "Malcolm Gladwell article / Saddleback Church",
+      "description": "Large community built from many small affinity cells that gather once a year"
+    },
+    {
+      "name": "Mycelial/Rhizomal Spin-Off Groups",
+      "source": "Rick Botelho, Jerry Michalski",
+      "description": "Community spawns affinity subgroups organically, groups can split and recombine"
+    },
+    {
+      "name": "View from the Mast",
+      "source": "Pete Kaminski / Flotilla project",
+      "description": "Perspective from top of one organization's mast to see neighboring orgs at different distances"
+    },
+    {
+      "name": "Multi-Plane Camera View",
+      "source": "Jerry Michalski (from Disney animation technique)",
+      "description": "Layered visualization showing orgs, people, projects as separate planes with visible connections"
+    },
+    {
+      "name": "Publish and See Who Complains/Adds",
+      "source": "Pete Kaminski",
+      "description": "Heuristic for discovery: make what you know public, learn from responses"
+    },
+    {
+      "name": "Inside-Outside Dynamic",
+      "source": "Rick Botelho",
+      "description": "Even welcoming groups have insider perspective that's invisible to insiders but clear to newcomers"
+    }
+  ],
+  "questionsRaised": [
+    "Do we want to grow or not?",
+    "If we want to grow, in what ways, dimensions, directions?",
+    "How do we do deliberate onboarding (buddy system, etc.)?",
+    "How do we make OGM content discoverable and useful?",
+    "Where should call files and transcripts be stored and indexed?",
+    "Is OGM Wiki the right place for call archives?",
+    "How do we balance salon conversation with creating bodies of work?",
+    "What tools should new communities use? (Why hasn't software world solved this?)",
+    "How do we enable 'who's doing what with whom' discovery without violating privacy?",
+    "How do we create matchmaking function for friends-of-friends interests?",
+    "Should we reinstate calendar for groups to advertise themselves?",
+    "Should we re-nurture mycelial spin-off groups?",
+    "How do we value diversity of views while also having depth?",
+    "Who reads the Plex? (Stacey: do we know? are you measuring?)",
+    "Can we have likes/comments features at small scale? (Pete: not enough throughput for statistical meaning)"
+  ],
+  "resourcesShared": [
+    {
+      "type": "article",
+      "title": "The Cellular Church",
+      "author": "Malcolm Gladwell",
+      "sharedBy": "Jerry Michalski",
+      "about": "Saddleback Church's cell-based structure for scaling community"
+    },
+    {
+      "type": "project",
+      "name": "Vincent Arena's groups/members mapping",
+      "description": "Early OGM project to map who's doing what with whom, taken entrepreneurial",
+      "status": "Ongoing, Vincent not in OGM currently"
+    },
+    {
+      "type": "project",
+      "name": "Flotilla",
+      "creator": "Pete Kaminski",
+      "description": "View from the mast - mapping overlapping communities at different distances",
+      "status": "Past OGM side project"
+    },
+    {
+      "type": "project",
+      "name": "Ben Roberts community Kumu map",
+      "description": "Map of people in overlapping communities",
+      "sharedBy": "Jerry Michalski (mentioned, will share link)"
+    },
+    {
+      "type": "community",
+      "name": "Brad DeGraff's community",
+      "sharedBy": "Jerry Michalski (mentioned)"
+    },
+    {
+      "type": "company",
+      "name": "SocialText",
+      "founder": "Pete Kaminski (co-founder)",
+      "description": "Wiki company, years ago"
+    },
+    {
+      "type": "app",
+      "name": "Meetup",
+      "context": "Klaus uses to discover local groups in Bend, Oregon - sees climate, AI, meditation, all topics",
+      "sharedBy": "Klaus Mager"
+    },
+    {
+      "type": "platform",
+      "name": "Massive Wiki",
+      "creator": "Pete Kaminski",
+      "status": "Jerry writing in it (Obsidian), but not quite a full wiki yet (can't edit page you're viewing)"
+    }
+  ],
+  "emotionalTone": "Reflective, meta, some confusion (John), some frustration (with software tools), appreciation for diversity (Alex), practical problem-solving",
+  "participationNotes": {
+    "Jerry Michalski": "Facilitator, extensive OGM history, reflects on salon vs bodies of work, frustrated with software world",
+    "John Warinner": "New member voice - confused by deprecated platforms/calls, needs signposting",
+    "Pete Kaminski": "Deep reflection on Plex, matchmaking challenges, privacy vs discovery tension, SocialText history",
+    "Rick Botelho": "Framed central growth question, mycelial groups model, EXO and Metal examples, onboarding insight",
+    "Alex Kladitis": "Powerful testimony on value of disagreement, fighting echo chamber, diverse views",
+    "Stacey Druss": "Archive value, pages-in-books metaphor, one-degree-of-separation, audience visibility question",
+    "Klaus Mager": "Reminded group of calendar (used to exist), Meetup app example from Bend",
+    "Gil Friend": "Minimal participation noted in excerpt"
+  },
+  "specialNotes": [
+    "This is THE meta-call - OGM discussing OGM structure, identity, future",
+    "John Warinner as new member barometer: reveals onboarding gaps",
+    "Platform deprecation: Mattermost, Discourse, multiple standing calls → just Thursday + mailing list",
+    "Jerry's files workflow: Zoom → YouTube → Brain → Mattermost (now Google Drive) - but no good system",
+    "Central tension: growth and structure vs intimacy and salon",
+    "Alex's testimony: 'I don't agree with you guys, but that's why I value being here' - powerful",
+    "Jerry: 'We have lovely salons, but we don't get a lot of things done' - key self-assessment",
+    "Pete's privacy paradox: want matchmaking but don't want to categorize people without consent",
+    "Klaus's calendar reminder: simple solution that existed before, could reinstate",
+    "Call doesn't resolve questions - true to salon nature"
+  ],
+  "crossCallThemes": [
+    "Meta-discussion about OGM itself (new focus)",
+    "Platform and tools (new focus)",
+    "Community size and intimacy (new focus)",
+    "Archival and sense-making (connects to Call 05)",
+    "Diversity of perspectives (new focus)"
+  ],
+  "connectionsToOtherCalls": {
+    "call05": "Sense-making meta-discussion (Call 05) → OGM structure meta-discussion (Call 09) - group comfortable with meta-conversations",
+    "call07": "Collaboration definitions (Call 07) → actual collaboration challenges in OGM practice (Call 09)",
+    "call02": "Check-in call - Jerry away in Italy, Klaus hosted → Call 09 Jerry reflecting on OGM's salon nature vs getting things done"
+  },
+  "platformsMentioned": {
+    "deprecated": ["Mattermost (Pete shutting down)", "Discourse (someone else shutting down)", "Multiple standing calls (3-4/week → 1/week)"],
+    "current": ["Thursday calls", "OGM mailing list (Google Groups)", "OGM Wiki (Massive Wiki)", "Google Drive (Jerry's new file location)"],
+    "discussed": ["Discord", "Signal", "Matrix", "Slack", "Facebook", "LinkedIn", "Meetup", "Kumu", "Substack", "Medium", "Twitter/X"],
+    "historical": ["SocialText (Pete's company)", "Wagon (structured wiki)"]
+  },
+  "ogmHistory": [
+    "June 2020: First OGM call",
+    "2020-2021: Onboarding and outreach working groups (petered out)",
+    "Early period: Vincent Arena 'who's doing what with whom' project",
+    "Early period: Flotilla project (Pete's view from the mast)",
+    "Peak: 3-4 standing calls per week + spin-off affinity groups",
+    "Present: Down to Thursday calls + mailing list, platforms being deprecated",
+    "Characteristic: 'Lovely salons, but we don't get a lot of things done'"
+  ]
+}

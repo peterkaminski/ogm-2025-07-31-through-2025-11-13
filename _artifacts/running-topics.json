@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2025-11-16",
-  "batchesProcessed": ["Batch 1 (Calls 01-03)"],
+  "batchesProcessed": ["Batch 1 (Calls 01-03)", "Batch 2 (Calls 04-06)", "Batch 3 (Calls 07-09)"],
   "topics": {
     "Grief and Trauma": {
       "calls": ["01", "02"],
@@ -118,14 +118,224 @@
       ],
       "evolution": "Gil mentioned in Call 01 briefly, developed in Call 03 as information trust example",
       "watchFor": "Ongoing touchpoint for information trust and conflict discussions"
+    },
+    "Reality Melting and Trust in AI Age": {
+      "calls": ["04"],
+      "contributors": ["Jerry Michalski", "Gil Friend", "Alex Kladitis"],
+      "keyPoints": [
+        "AI-generated content indistinguishable from human (music, images, video)",
+        "Photographic evidence no longer documentary (Stuart Brand mid-70s prediction)",
+        "No shared narrative like 3 TV networks provided",
+        "Won't agree on facts because can't be sure what actually happened",
+        "Cultural commitment to veracity is gone or going",
+        "Reality is 'a collective hunch' (Lily Tomlin)"
+      ],
+      "evolution": "Introduced in Call 04 via Ted Joya article",
+      "watchFor": "Continued examples of reality manipulation, trust erosion"
+    },
+    "Political Corruption Normalization": {
+      "calls": ["04"],
+      "contributors": ["Klaus Mager", "Alex Kladitis", "Jerry Michalski"],
+      "keyPoints": [
+        "Texas redistricting brutal 'what are you gonna do about it'",
+        "Gerrymandering tolerated across democracies (US, UK)",
+        "Trump evaded 91 indictments, weaponizing DOJ",
+        "System's inability to stop corruption astonishing",
+        "Press doesn't challenge, mainstream media complicit",
+        "Capacity to excuse is 'dramatically deep'"
+      ],
+      "evolution": "Call 04 established pattern of in-your-face corruption",
+      "watchFor": "Other examples of normalized corruption, system failures"
+    },
+    "Food Sovereignty and Community Kitchens": {
+      "calls": ["04"],
+      "contributors": ["Kaliya Identity Woman", "Klaus Mager", "Jerry Michalski"],
+      "keyPoints": [
+        "Ultra-processed food killing us - RFK/MAHA right about this",
+        "Community kitchens could serve everyone, not just school kids",
+        "Food preparation in community is fundamental human activity",
+        "Sikhs know how to feed at scale",
+        "Jose Andres Gaza model: hot meals from distributed kitchens",
+        "SNAP benefits can't buy hot meals - arbitrary rule",
+        "Corporate power blocked all RFK Jr. reforms in Farm Bill"
+      ],
+      "evolution": "Call 04 vision for community food systems",
+      "watchFor": "Community kitchen implementations, food system reforms"
+    },
+    "Sense-Making Frustrations and Definitions": {
+      "calls": ["05"],
+      "contributors": ["Gil Friend", "Mike Nelson", "Marc-Antoine Parent", "Jerry Michalski"],
+      "keyPoints": [
+        "What do we mean by 'sense'? (Gil's fundamental challenge)",
+        "Pervasive disinformation prevents sense-making",
+        "Need for complete consensus allows hostage-taking",
+        "OGM hasn't done much sense-making, just salon conversations",
+        "IETF model: rough consensus and running code",
+        "Divergence before convergence necessary",
+        "Illusion of consensus is terrible",
+        "Process vs outcomes tension"
+      ],
+      "evolution": "Call 05 meta-discussion about sense-making itself",
+      "watchFor": "Continued definitional explorations, meta-conversations"
+    },
+    "Federal Government Failure and Blue State Resistance": {
+      "calls": ["06"],
+      "contributors": ["Kevin Jones", "Rob O'Keefe", "Klaus Mager", "Gil Friend"],
+      "keyPoints": [
+        "Kevin: Nobody relies on federal government anymore",
+        "Rob: DC workers under attack, shutdown looming",
+        "Klaus: Federal lobbying complete waste of time ($500K corporate checks)",
+        "Community investment alternatives emerging",
+        "Blue states (WA, OR, CA, IL) mounting resistance",
+        "State's rights shifting to blue states"
+      ],
+      "evolution": "Call 06 multiple perspectives on federal failure",
+      "watchFor": "State-level innovations, federal dysfunction examples"
+    },
+    "Eleanor Ostrom Third Places Insight": {
+      "calls": ["06"],
+      "contributors": ["Kevin Jones"],
+      "keyPoints": [
+        "Watersheds managed 47% better when ranchers have regular meeting place",
+        "Third places enable community coordination through informal conversations",
+        "Low-status neighborhoods stay low-status after disasters (New Orleans 20 years later)",
+        "Creating 'third place' for Swannanoa - informal gathering space"
+      ],
+      "evolution": "Call 06 Kevin finding constructive role through third place concept",
+      "watchFor": "Third place implementations, community coordination examples"
+    },
+    "Body Limits and Screen Addiction": {
+      "calls": ["06"],
+      "contributors": ["Gil Friend"],
+      "keyPoints": [
+        "Gil's concussion forced rest from screens",
+        "Default relaxation is scrolling - very hard to break",
+        "Modern life challenge: hard to stay unplugged even when medically necessary",
+        "Humbling and grounding - back in touch with body rhythms"
+      ],
+      "evolution": "Call 06 Gil's forced disconnection revealing dependence",
+      "watchFor": "Other screen dependence examples, digital detox stories"
+    },
+    "Regenerative Food Systems with AI": {
+      "calls": ["06"],
+      "contributors": ["Klaus Mager"],
+      "keyPoints": [
+        "Klaus gave up on federal food policy - complete waste of time",
+        "Building AI-assisted regenerative food system intelligence",
+        "6 years training with Gene Bellinger on systems thinking",
+        "Configured 6 agents: farm to market progression",
+        "Regenerative movement splintered, not scalable, doesn't share learnings",
+        "AI solution: keywords on websites, finds actors within bioregion - no massive database needed"
+      ],
+      "evolution": "Call 06 Klaus major pivot from federal advocacy to distributed AI systems",
+      "watchFor": "Klaus's AI regenerative food project progress"
+    },
+    "Definition Debates and Methods": {
+      "calls": ["05", "07", "08", "09"],
+      "contributors": ["Gil Friend", "Scott Moehring", "Jerry Michalski", "Ken Homer"],
+      "keyPoints": [
+        "Call 05: What is sense-making? Extended frustrating debate",
+        "Call 07: Collaboration vs teamwork - Scott's precise framework, productive deep dialogue",
+        "Call 08: Abundance - deliberate speed round to avoid extended debate",
+        "Call 09: What is OGM? Meta-definition of the group itself",
+        "Three approaches: extended dialogue (Call 07), speed round (Call 08), meta-discussion (Call 09)",
+        "Ken Homer: expansive shared meaning vs reductive definition"
+      ],
+      "evolution": "Group repeatedly returns to definitional questions, experiments with different methods",
+      "watchFor": "Future definition debates, which methods work for which contexts"
+    },
+    "Collaboration Theory and Practice": {
+      "calls": ["07", "09"],
+      "contributors": ["Scott Moehring", "Pete Kaminski", "Jerry Michalski"],
+      "keyPoints": [
+        "Call 07: Scott's framework - unique individuals, shared vision identically articulated, psychological safety",
+        "Collaboration vs teamwork: design vs execution, architecture vs coding, restaurant kitchen example",
+        "Call 09: OGM struggles with collaborative infrastructure (archive, matchmaking, platforms)",
+        "Historical collaborative attempts petered out (onboarding groups, Vincent Arena project, Flotilla)",
+        "Irony: discussed collaboration deeply but struggles to practice it"
+      ],
+      "evolution": "Theory (Call 07) meets practice challenges (Call 09)",
+      "watchFor": "OGM collaborative infrastructure attempts, other collaboration examples"
+    },
+    "Abundance Spectrum": {
+      "calls": ["08"],
+      "contributors": ["Stacey Druss", "Gil Friend", "Jerry Michalski", "Scott Moehring", "John Kelly", "and many others"],
+      "keyPoints": [
+        "15+ rapid-fire definitions collected via speed round",
+        "Sufficiency cluster: 'having what you need when you need it'",
+        "Generosity cluster: 'more than enough', 'overflow'",
+        "Systems/regenerative cluster: 'self-renewing', 'flourishing'",
+        "Psychological/spiritual cluster: 'state of mind', 'lack of fear'",
+        "Relational cluster: 'being valued by others'",
+        "Tension: objective condition vs subjective experience vs systemic quality"
+      ],
+      "evolution": "Call 08 deliberately collected diversity without forcing convergence",
+      "watchFor": "Which abundance definitions show up in practice? Applied how?"
+    },
+    "OGM Identity and Meta-Discussion": {
+      "calls": ["05", "09"],
+      "contributors": ["Jerry Michalski", "Rick Botelho", "Alex Kladitis", "John Warinner", "Pete Kaminski"],
+      "keyPoints": [
+        "Call 05: 'Has OGM done sense-making or just salon conversations?'",
+        "Call 09: 'We have lovely salons, but we don't get a lot of things done'",
+        "Growth question: Do we want to grow? In what ways?",
+        "Jerry prefers intimacy: one Zoom screen max (~64 people)",
+        "Rick: groups go through biorhythms - OGM has contracted",
+        "John Warinner: onboarding confusion, signposting needed",
+        "Alex: values diversity and disagreement - fighting echo chamber",
+        "Platform deprecation: Mattermost, Discourse, multiple calls → Thursday + mailing list",
+        "Historical bodies of work attempts all petered out",
+        "Salon culture may be the point, not a bug"
+      ],
+      "evolution": "Call 05 questioned effectiveness, Call 09 examined identity and future",
+      "watchFor": "Does OGM change based on these discussions? Or continue as salon?"
+    },
+    "Platform and Tool Frustration": {
+      "calls": ["09"],
+      "contributors": ["Jerry Michalski", "Pete Kaminski", "Stacey Druss", "Klaus Mager"],
+      "keyPoints": [
+        "Jerry: 'I'm angry at the software world for not having fixed this'",
+        "No good answer to 'what tool should we use for community?'",
+        "Pete's paradoxes: want matchmaking but don't want to categorize without consent",
+        "Small groups don't have throughput for likes/comments to have statistical meaning",
+        "Wikis vs newsletters vs mailing lists - different topographies and cultures",
+        "OGM files: Zoom → YouTube → Brain → Mattermost → now Google Drive (nobody knows it exists)",
+        "Klaus: used to have calendar for groups to advertise themselves - disappeared",
+        "Stacey: Pete's archive most valuable thing, wants calls archived for discoverability"
+      ],
+      "evolution": "Call 09 extensive reflection on platform challenges",
+      "watchFor": "Platform solutions attempted, archival innovations, tool choices"
+    },
+    "Diversity as Core Value": {
+      "calls": ["09"],
+      "contributors": ["Alex Kladitis"],
+      "keyPoints": [
+        "Alex: 'I don't agree with you guys, but that's what I value'",
+        "'I'm not right at everything - that's what I'm fighting against'",
+        "Values OGM because he disagrees, fights his own echo chamber tendency",
+        "Most all-encompassing divergent views group",
+        "If found group that totally agreed, 'wouldn't exist'",
+        "Jerry: maybe you should start your own movement?",
+        "Alex: then that'd be my people, my ideas - that's what I'm fighting against"
+      ],
+      "evolution": "Call 09 explicit articulation of cognitive diversity value",
+      "watchFor": "How diversity plays out in practice, other testimonies"
     }
   },
   "emergingPatterns": [
     "Core group can hold both heavy trauma processing and lighter topical discussions",
     "Personal stories (Kevin) illustrate theoretical discussions (Call 01 grief)",
-    "Systems-level thinking across multiple domains (Mike Nelson pattern)",
-    "Trust is central: personal trust (Call 01), information trust (Call 03)",
-    "Historical trauma connects to current conflicts (WWII → Gaza)"
+    "Systems-level thinking across multiple domains (Mike Nelson, Klaus Mager pattern)",
+    "Trust is central: personal trust (Call 01), information trust (Call 03), reality trust (Call 04)",
+    "Historical trauma connects to current conflicts (WWII → Gaza)",
+    "Definition obsession: group returns repeatedly to definitional questions (sense-making, collaboration, abundance, OGM itself)",
+    "Meta-comfortable: group comfortable turning lens on itself (Calls 05, 09)",
+    "Process over outcomes: tension continues but increasing acceptance of salon culture",
+    "Cognitive diversity as asset: explicitly valued over consensus (Alex in Call 09)",
+    "Theory vs practice gap: discuss collaboration (Call 07) but struggle to implement infrastructure (Call 09)",
+    "Intimacy preference: small group, deep connections over scale (Jerry: one Zoom screen max)",
+    "Platform frustration recurring: no good answers for community tools (Call 09)",
+    "Federal government failure theme growing: Kevin, Rob, Klaus all frustrated with federal institutions (Calls 04, 06)"
   ],
   "questionsToTrack": [
     "How do societies process grief well vs. poorly?",
@@ -133,7 +343,24 @@
     "How do we coordinate fragmented community initiatives?",
     "Why is there a business model for spreading disinformation but not for fighting it?",
     "How do institutions protect perpetrators?",
-    "What happens to communities when federal disaster support fails?"
+    "What happens to communities when federal disaster support fails?",
+    "How do we know what's real when AI generates convincing fakes? (Call 04)",
+    "Can we have shared facts without shared narratives? (Call 04)",
+    "How do democracies tolerate obvious corruption? (Call 04)",
+    "What do we mean by 'sense' and 'sense-making'? (Call 05)",
+    "Should sense-making have a goal or is exploration the point? (Call 05)",
+    "How do we balance goals/deadlines with open exploration? (Call 05)",
+    "What are 'third places' and how do they enable community coordination? (Call 06)",
+    "How long does it take low-status neighborhoods to recover from disasters? (Call 06: New Orleans 20 years)",
+    "Can AI help coordinate splintered movements without massive databases? (Call 06: Klaus's vision)",
+    "Can you have collaboration without identical shared vision? (Call 07)",
+    "When is extended definitional dialogue valuable vs frustrating? (Calls 05, 07, 08)",
+    "Is abundance objective condition, subjective experience, or systemic quality? (Call 08)",
+    "Do we want to grow? If so, in what ways? (Call 09: central OGM question)",
+    "Is OGM a salon or should it create bodies of work? (Call 09)",
+    "How do we enable 'who's doing what with whom' discovery without violating privacy? (Call 09: Pete's paradox)",
+    "What tool should new communities use? Why hasn't software solved this? (Call 09: Jerry's frustration)",
+    "Can likes/comments work at small scale without statistical throughput? (Call 09)"
   ],
   "resourcesIntroduced": {
     "movies": ["Forgiving Dr. Mengele", "The Zone of Interest", "Worth", "The Lives of Others"],
@@ -144,10 +371,11 @@
   },
   "storyArcs": {
     "Kevin Jones Hurricane Helene Journey": {
-      "calls": ["01", "02"],
-      "status": "Deteriorating",
-      "progression": "Fled to Europe → Moving to Asheville → Giving up on Swannanoa → 'Throat level sadness'",
-      "watchFor": "Does Kevin find stability? Process trauma? Continue participating?"
+      "calls": ["01", "02", "06"],
+      "absences": ["07", "08", "09"],
+      "status": "Uncertain - absent Batch 3",
+      "progression": "Call 01: Fled to Europe → Call 02: Moving to Asheville, giving up, 'throat level sadness' → Call 06: Finding role helping Swannanoa without being in sadness → Calls 07-09: ABSENT",
+      "watchFor": "CRITICAL: Has Kevin stabilized outside OGM? Stopped participating? Will he return in Batch 4?"
     },
     "Ken Homer Spain Move": {
       "calls": ["02"],
@@ -163,9 +391,14 @@
     }
   },
   "nextBatchFocus": [
-    "Batch 2 (Calls 04-06) will include second check-in call (06)",
-    "Watch for Kevin Jones updates",
-    "Watch for Ken Homer Spain move progress",
-    "Look for topic development or new themes emerging"
+    "Batch 4 (Calls 10-12): October 9, 16, 23",
+    "CRITICAL: Does Kevin Jones return after being absent Batch 3?",
+    "Does Call 09 meta-discussion lead to any OGM changes?",
+    "Watch for continued definition debates and methods",
+    "Watch for platform/archival solutions or continued frustration",
+    "Look for new check-in call format (third check-in call expected)",
+    "Track if salon culture continues or shifts toward bodies of work",
+    "Ken Homer Spain move: any updates?",
+    "Klaus AI regenerative food project: any progress reports?"
   ]
 }
