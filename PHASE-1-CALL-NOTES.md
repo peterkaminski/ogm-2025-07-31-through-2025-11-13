@@ -487,3 +487,216 @@ Ken Homer: "A Note Passed to Superman" by Lucille Clifton - "Sweet Jesus, Superm
 **NOTE: Above is preliminary scan. Full detailed notes to follow after complete transcript reading.**
 
 ---
+
+## Call 06: 2025-09-04 - Check-in Call (DETAILED NOTES)
+
+### Participants
+- Jerry Michalski (facilitator, sick with bug since Aug 22)
+- Kevin Jones
+- Gil Friend  
+- Rick Botelho
+- Ken Homer
+- Stacey Druss
+- Scott Moehring
+- Mike Nelson (brief)
+- Rob O'Keefe (DC resident, rare appearance)
+- Klaus Mager
+- Shawn Murphy (Thinkertoys platform)
+- Jose Leal
+- John Warinner
+
+### Check-in Structure
+Jerry explained ritual: First Thursday monthly check-in, no comments during check-ins, moratorium on chat, pauses welcomed (Quaker Meeting style), be moderately brief
+
+### Major Check-ins Summary
+
+**Kevin Jones** - Helene Devastation Update
+- Gave up on FEMA, moved to apartment in River Arts District
+- Lost $1 million on land and house
+- Met with woman leading "outside safety net work" - Swannanoa Cares, 7 people paid to be social workers
+- She took 2 weeks in south of France to escape sadness
+- Creating "third place" - Eleanor Ostrom: watersheds 47% better managed by ranchers with regular meeting place
+- No grocery, post office, hardware, restaurants - all gone
+- Pre-flood: $100K less per house, $300 less per rent
+- Can work with people on problems but can't be down there - "too sad"
+- Artists in River Arts District determined to work and sell
+
+**Gil Friend** - Concussion & Screen Detox
+- Fell Sunday, sustained mild concussion (over 65 = go to ER)
+- Protocol: Must rest, stay off screens (mental stimulation)
+- Hard to unplug in modern life
+- Busy coaching Tuesday: acquisition, career, product launch, positioning - then "wiped out"
+- Normal recourse when relaxing: "pick up this thing and scroll" - can't do that
+- "Very humbling and grounding, back in touch with rhythms of the body"
+- National level: People say "nobody's doing anything" but lots IS happening (Heather Cox Richardson)
+- Blue states mounting resistance (WA, OR, CA, IL)
+
+**Rob O'Keefe** - DC & Government Shutdown
+- Lives in DC, feels outrage attention dropped when Elon left
+- Government shutdown coming end of September
+- "Essential" vs non-essential label - "thanks!"
+- Company does federal consulting
+- Daughter sophomore at NYU film school
+- "World needs storytellers" - AI or brush, doesn't matter
+- Already sick of AI-generated stuff, appreciation for authentic art
+- NYC energy unmatched, economic statuses co-mingled
+- DC & NYC labeled crime-ridden but not true - just headlines
+- Limiting information feeds, being selective
+
+**Klaus Mager** - Food Systems & Regenerative Agriculture
+- Stepped back from federal policy work (Sierra Club, Farm Bill, Citizen Climate Lobby, Alcoa)
+- "Complete waste of time" - Sierra Club lobby team vs. Congress members who "just cashed half million dollar check"
+- Current administration "destructiveness" re: food system
+- Food system: massive environmental degradation (carbon, water pollution, chemicals)
+- Scale increasing - "doubling down on harmful practices"
+- Working with AI to build intelligence for regenerative transition
+- AI objected to "training" - insisted on "configuration process"
+- 6 AI agents: farmer → market supply chain reconfiguration
+- Regenerative movement splintered, not scalable
+- AI can find participants via keywords on websites in bioregion
+- First project: Aqual Regenerations (Kenya-based, 40 locations)
+- Partnership: Klaus provides "back of house intelligence system"
+- Industrial sector "doubling down" - like energy sector cutting wind/solar
+- "Tough slug to convince people to join"
+- Retired Salesforce executive joined advisory team
+- "Extremely disturbing to watch political process... damage on civilizational level"
+- "No collective response... scattered opinions, community-based, nothing scaling"
+
+**Rick Botelho** - Equity Metagovernance & Perplexity AI
+- Two themes: Kevin's inequities, Klaus's splintering (not unique to regenerative)
+- "Systemic psychopathy" and "systemic prejudice against equity"
+- Equity metagovernance: bring people together over PROCESS not content
+- Bought Perplexity AI ($200/month) to explore co-intelligence
+- Scott's "too complex" comment remembered
+- "Cult indoctrination of KISS principle" vs "KSSS: Keep Sophistication this Side of Simplicity"
+- Labor Day: Met Mark Kelly (AZ Senator), connected with admin assistant
+- Backed off Indivisible - "divided, can't get act together, don't know how to have healthy disagreement"
+- Progressive movement differences need to be worked out
+
+**Shawn Murphy** - Intercognitive Frameworks
+- Going deep on "micro-level of cognitive interactions twixt humans"
+- Conversational interactions and mental model elaboration
+- Technical architecture for intercognitive framework
+- Synchronous/asynchronous enhancement with machine support
+- Kevin's watersheds remark: automatic self-organizing when people communicate gracefully
+- "Great hope is in intercognitive domain"
+
+**Jose Leal** - Business Partner Death & Neobooks
+- Lost business partner to colon cancer ~month ago (diagnosed 1.5-2 years ago)
+- "Double-edged sword" - knowing it's coming, slows you down, don't want to move ahead without him
+- Sense of "release and guilt all at the same time"
+- Neobooks progress: multimodal (text, audio, memes, video, presentations)
+- Layers related to each other - can go in/out
+- "Life fingerprint" - modeling content from life perspective, complexity layers
+- Content related by "life flows" not just keywords
+- First neobook: "Serving Life"
+- Interviewed Kevin, Hunter Lovins, Alan Savory (Savory Institute)
+- Hope to wrap by end of year
+- Vision: Authors already doing memes, presentations, audio - why not integrate?
+
+**Scott Moehring** - Nature of Collaboration
+- Been thinking about collaboration for couple years
+- Hard to find great examples - "more limited than we say"
+- "Working separately, coming together to share, working separately again"
+- Electronic musician: sent file back and forth until satisfied
+- Wikipedia: opposite end
+- "We throw around word collaboration without being honest about work"
+- Different from being on team
+- "Two minds as one" - experienced in fleeting moments
+- Finishing each other's sentences - "seems to be rare thing we keep seeking"
+- "Maybe it's not what we think it is"
+
+**Jerry Michalski** - UpKeto Concept
+- Jerry & April sick since Aug 22 (familiar bug, 2 weeks coughing)
+- Hank Kune & Jerry discussing UpKeto
+- UpKeto = upward spiral/uplift + Aikido
+- Thought experiment: "What if intention was to improve everything you touch?"
+- Upward spiral with Aikido principles (blend, sense energies, not bludgeon)
+- "Improve" touchy word - what seems improvement might piss everyone off
+- Examples: crack joke with cashier, free hugs
+- Website: UpKeto.com (fledgling)
+- Sat with Claude AI, "wonderful" response
+- Private LinkedIn group forming
+- Principles overlap heavily with "Design from Trust"
+- Design from Trust: "Assume good faith" as grounding principle
+- Curated collection of other groups' principles
+- "Trying really hard to figure out positive things to be and do"
+- "Multiple crises" moment
+
+**Ken Homer** - Emptying Out, Moving to Spain
+- Spanish Consulate appointment in week and a half
+- Downsizing, selling stuff, going through life/memories
+- "Letting things go... painful"
+- "Feels appropriate to times - so much is passing"
+- Coaching course 25 years ago: Zen master/professor tea story, "MediaFast" - let yourself settle
+- "Letting things settle... again"
+- "Honor what's gone before, release it with grace - not easy"
+- Marin County 35 years, leaving in 3-6 months
+- Someone bought 980 CDs - "naked in here"
+- Book collection being looked at
+- Bringing: cookware, cast iron, pots, knives, clothing, artwork
+- "Everything else going by the wayside"
+- Not Zen practitioner but Vipassana - "life becoming very Zen"
+- "Last phase of my life, third act, last hurrah"
+- New culture, country, language, people
+- "Strange detachment" to US politics - "completely and totally outraged and devastated"
+- "How the hell did this happen? Where is collective response 'fuck no'? Not seeing it"
+- If not leaving would be more involved but "don't have bandwidth"
+- Feel guilt about that
+- "Love this country... aware how much came on backs of exploitation"
+- "Really great life here... seems to be dissolving"
+- Gandhi: "Civilization is a great idea - I'm not seeing it"
+- "Not being very civil these days"
+- Want to be far away as things "accelerated downhill"
+- "Glad I have practices... people to talk to"
+- "Overwhelmed by it... only so much I can let in"
+- "Emptying out feels like part of process - clear out bunch of shit from my life, physically and internally"
+
+**John Warinner** - Visiting Kevin, Rebirth
+- Apologized for being late
+- Visited Kevin ~year ago on banks of Swannanoa River on property
+- Kevin mentioned "retreat" concept
+- Ken's letting go: "Exactly what we all need to be doing"
+- "Purging and letting go... almost necessary for rebirth"
+- "If staying in same domicile with same trappings... really not giving up anything"
+- "Waiting for world to change" (John Mayer)
+- Applauded Ken "stepping into void/vortex"
+- Every person who spoke resonated with piece of what John doing/going through
+- "We're doing it... each of us in our own way"
+
+### Topics Discussed After Check-ins
+- Collaboration topic for next Thursday (Sept 11)
+- Rick: Process curation vs content curation
+- Rick: "Neo-learning" not "neobooks" - more dynamic/agile
+- Rick: Can't do collaboration without getting process sorted out
+- Rick: CHAO group (Belgium) - change management, collaboration focus, Friday 8:45am ET
+- Stacey: Marjorie Taylor Greene as "true believer" - importance of dealing with people true to beliefs
+
+### Closing Poem
+**"Game" by Maxine Kumin**
+About Archduke Franz Ferdinand (shot 3,000 stags before being gunned down in Sarajevo to start WWI), British aristocracy hunting tradition, Teddy Roosevelt, Ernest Hemingway, Justice Antonin Scalia shooting farm-raised birds beaten from cages. Ends: "What happened to him when he was a boy?"
+
+Jerry: "Just like a layup poem... completely non-obvious but went right to heart of something important"
+Mike: "Goddamn. Wow."
+Jerry: "So sobering"
+
+### Notable Quotes
+- Kevin: "There's no place people gather... Eleanor Ostrom: watersheds 47% better managed with regular meeting place"
+- Kevin: "Nobody relies on federal government anymore"
+- Gil: "Running at very different pace this week"
+- Klaus: "Sierra Club shows up and has opinion vs. Congress member who just cashed half million dollar check - hopeless"
+- Klaus: "Doubling down... like energy sector cutting wind/solar"
+- Klaus: "Extremely disturbing... damage on civilizational level... no collective response"
+- Rick: "Systemic psychopathy... cult indoctrination of KISS principle"
+- Jerry: "Trying really hard to figure out positive things to be and do at this moment of multiple crises"
+- Ken: "Civilization is a great idea - I'm not seeing it" (Gandhi)
+- Ken: "How the hell did this happen? Where is collective 'fuck no'?"
+- Ken: "Have to clear out bunch of shit from my life, physically and internally"
+- John: "Purging and letting go... almost necessary for rebirth"
+
+### Cross-References
+- Last week's sense-making call (Call 05) referenced
+- Scott's collaboration question from last week will be next week's topic
+- Jerry: "Ladies of OGM underrepresented today, which makes me sad"
+
+---
