@@ -428,3 +428,62 @@ Ken Homer: "A Note Passed to Superman" by Lucille Clifton - "Sweet Jesus, Superm
 - Alex's honest feedback about being lost valued by Jerry as good closure
 
 ---
+
+## Calls 06-16: Quick Reference from Agent Scan
+
+### Call 06: 2025-09-04 - Check-in Call
+- Participants: Jerry, Kevin, Gil, Rick, Ken, Stacey, Scott, Mike, Sean
+- Closing Poem: "Game" by Maxine Kumin
+- Kevin moved to River Arts District apartment after Helene (lost $1M on land/house)
+- Gil sustained concussion
+
+### Call 07: 2025-09-11 - On Collaboration
+- Participants: Jerry, Gil, Kevin, Mike, Scott, Stacey, Ken
+- Closing Poem: "Conspiracy of Silence" by Ken Homer (ORIGINAL POEM!)
+- Referenced "last week" collaboration question
+
+### Call 08: 2025-09-26 - Abundance
+- Participants: Jerry, Gil, Alex, Stacey, Jessie, Klaus, John Warinner, Doug
+- Closing Poem: "Love" by Czesław Miłosz (Jerry read - Ken absent)
+
+### Call 09: 2025-10-02 - OGM Platform Migration & Community
+- Participants: Jerry, Alex, Stacey, John Warinner, Klaus, Pete Kaminski, Doug
+- Closing Poem: "Keeping Quiet" by Pablo Neruda
+- **KEN ANNOUNCES DEPARTURE** - stepping away, moving to Spain
+
+### Call 10: 2025-10-09 - Social Platforms, AI & Knowledge
+- Participants: Jerry, Stacey, Gil, Jose, Kevin, John Warinner, Shawn Murphy, Alex, Doug, Klaus
+- NO POEM (Ken absent)
+
+### Call 11: 2025-10-16 - Dealing with Uncomfortable News
+- Participants: Jerry, Gil, Mike, Dave Gray, Stacey, Kaliya, Doug, Scott, Klaus, Pete
+- NO POEM (Ken absent)
+- Jerry podcast on masculinity with Mo Carrick
+
+### Call 12: 2025-10-23 - Progress & Technological Innovation
+- Participants: Jerry, Alex, Gil, Rick, Mike, Victoria (Spain), Scott, Pete, Doug, Stacey
+- NO POEM (Ken absent)
+- Victoria from Spain joining regularly
+
+### Call 13: 2025-10-30 - Crony Capitalism
+- Participants: Jerry, Mike, Gil, John Kelly, Alex, Erik Willekens, Stacey, Pete
+- NO POEM (Ken absent)
+
+### Call 14: 2025-11-06 - Check-in Call
+- Participants: Jerry, Alex, Gil, Pete, Victoria, Kevin, Klaus, Stacey, Doug, Mike
+- NO POEM (Ken absent)
+
+### Call 15: 2025-11-13 Part 1 - Curiosity & Education
+- Participants: Jerry, Victoria, Kevin, Gil, Scott, Klaus, Judith, Eve Blossom, Louise
+- NO POEM (Ken absent)
+- Victoria created Excalidraw board
+
+### Call 16: 2025-11-13 Part 2 - Curiosity & Education (continued)
+- Participants: Jerry, Kevin, Gil, Alex, Klaus, Victoria, Stacey, Gabriele G
+- NO POEM (Ken absent)
+- Victoria proposed Question Formulation Technique (QFT)
+- Gabriele G joins group
+
+**NOTE: Above is preliminary scan. Full detailed notes to follow after complete transcript reading.**
+
+---
