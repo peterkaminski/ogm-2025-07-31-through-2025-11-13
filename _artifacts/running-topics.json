@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2025-11-16",
-  "batchesProcessed": ["Batch 1 (Calls 01-03)", "Batch 2 (Calls 04-06)", "Batch 3 (Calls 07-09)"],
+  "batchesProcessed": ["Batch 1 (Calls 01-03)", "Batch 2 (Calls 04-06)", "Batch 3 (Calls 07-09)", "Batch 4 (Calls 10-12)"],
   "topics": {
     "Grief and Trauma": {
       "calls": ["01", "02"],
@@ -320,6 +320,71 @@
       ],
       "evolution": "Call 09 explicit articulation of cognitive diversity value",
       "watchFor": "How diversity plays out in practice, other testimonies"
+    },
+    "AI as Conversation Participant": {
+      "calls": ["10"],
+      "contributors": ["John Warinner", "Jerry Michalski", "Stacey Druss", "Doug Breitbart", "Shawn Murphy"],
+      "keyPoints": [
+        "John's epiphany: 'Why one-on-ones with ChatGPT instead of AI as group participant?'",
+        "Everyone bombarding each other with 2,000-4,000 word AI transcripts - bandwidth problem",
+        "ChatGPT says AI group participation ~2 years away, in the pipeline",
+        "Practical tools already working: Stacey's podcast converter, Jerry's anonymized focus groups, Shawn's Thinkertoys",
+        "Gene Bellinger wisdom: 'the mapping, not the map' - value is in conversation, not product",
+        "Jerry's focus groups: AI as 'excellent listeners and summarizers'",
+        "Doug: common understanding for better decision-making in complex systems",
+        "Shawn building Thinkertoys: real-time collaborative knowledge tool with AI, graph visualizations"
+      ],
+      "evolution": "Call 10 introduces fundamental reframe - from sharing AI outputs to AI as participant",
+      "watchFor": "AI participant implementations, Thinkertoys trials, other collaborative AI tools"
+    },
+    "Enshittification and Monetization": {
+      "calls": ["10", "12"],
+      "contributors": ["Gil Friend", "Mike Nelson", "Jerry Michalski", "Stacey Druss"],
+      "keyPoints": [
+        "Call 10 Gil's question: Is enshittification tightly correlated with monetization?",
+        "Can platforms sustain economically without volunteer labor or enshittification?",
+        "Is viable sustainable software possible without enshittification?",
+        "Call 12 Mike: Customer service degradation DESPITE AI tools",
+        "Call centers using AI to divert away from end goal, not toward it",
+        "Cory Doctorow book 'Enshittification': Why can't we have good things?",
+        "Why aren't tech breakthroughs leading to quality of life improvements?",
+        "Confusopoly (Dilbert): companies confuse products and pricing to prevent comparison"
+      ],
+      "evolution": "Call 10 raised fundamental question, Call 12 provided concrete examples of worsening despite tech",
+      "watchFor": "More examples of tech making things worse, platform sustainability models, Doctorow's work"
+    },
+    "Worldview Challenges and Narratives": {
+      "calls": ["11"],
+      "contributors": ["Jerry Michalski", "Gil Friend", "Mike Nelson"],
+      "keyPoints": [
+        "How do we handle news that doesn't fit our worldview?",
+        "Trump Gaza ceasefire and Venezuela progress challenging left-leaning group",
+        "Al Chang insight: Same facts, different movie scripts - left and right can't read each other's narratives",
+        "Gil models worldview permeability: 'cautiously impressed... challenges my picture of bumbling baby guy'",
+        "Mike's 'cosplay diplomacy' critique: temporary deals without substance, will fail like Afghanistan",
+        "Mike's personal shock: Carnegie colleague with 1000+ classified docs - 'completely disconnect from everything I know'",
+        "Jerry using Claude/ChatGPT to steel-man Trump's claims",
+        "Do we allow worldviews to be permeable to contradictory information?"
+      ],
+      "evolution": "Call 11 explicitly wrestles with cognitive dissonance and worldview flexibility",
+      "watchFor": "Other worldview challenges, AI used for perspective-taking, examples of worldview updates or resistance"
+    },
+    "Progress and Vested Interests": {
+      "calls": ["12"],
+      "contributors": ["Alex Kladitis", "Gil Friend", "Mike Nelson", "Jerry Michalski"],
+      "keyPoints": [
+        "Meta-question: Has progress stopped?",
+        "Immediate fragmentation on definition - Mike: 'we'll talk past each other'",
+        "Alex: Big interests now work AGAINST progress (exception: computing/IT)",
+        "Hegemonic interests suppressing disruptive innovation (super battery example)",
+        "Jerry: Great American Streetcar Conspiracy - GM/Firestone killed public transit",
+        "Gil: Progress highly localized (US vs Europe) - renewable energy, personal medical advances, home tech",
+        "Mike's 5+ progress dimensions: scientific, technological, economic barriers, societal",
+        "Progress as transformation of daily life (electrification, hygiene) vs behind-the-curtain improvements",
+        "Jerry skeptical of flying cars: 'maybe real progress is NOT pushing addictive technology on us'"
+      ],
+      "evolution": "Call 12 raises fundamental question, immediately encounters definition problem",
+      "watchFor": "Examples of vested interests suppressing innovation, progress metrics debates, European vs US comparisons"
     }
   },
   "emergingPatterns": [
@@ -328,14 +393,18 @@
     "Systems-level thinking across multiple domains (Mike Nelson, Klaus Mager pattern)",
     "Trust is central: personal trust (Call 01), information trust (Call 03), reality trust (Call 04)",
     "Historical trauma connects to current conflicts (WWII → Gaza)",
-    "Definition obsession: group returns repeatedly to definitional questions (sense-making, collaboration, abundance, OGM itself)",
-    "Meta-comfortable: group comfortable turning lens on itself (Calls 05, 09)",
+    "Definition obsession: group returns repeatedly to definitional questions (sense-making, collaboration, abundance, OGM itself, progress)",
+    "Meta-comfortable: group comfortable turning lens on itself (Calls 05, 09, 10)",
     "Process over outcomes: tension continues but increasing acceptance of salon culture",
     "Cognitive diversity as asset: explicitly valued over consensus (Alex in Call 09)",
     "Theory vs practice gap: discuss collaboration (Call 07) but struggle to implement infrastructure (Call 09)",
     "Intimacy preference: small group, deep connections over scale (Jerry: one Zoom screen max)",
     "Platform frustration recurring: no good answers for community tools (Call 09)",
-    "Federal government failure theme growing: Kevin, Rob, Klaus all frustrated with federal institutions (Calls 04, 06)"
+    "Federal government failure theme growing: Kevin, Rob, Klaus all frustrated with federal institutions (Calls 04, 06)",
+    "Technology interrogation escalates: Call 10 practical AI tools → Call 11 AI for perspective-taking → Call 12 AI making things worse",
+    "Jerry's frustrated vision persists: 'build a global mind... We haven't done much of that at all' (Calls 09, 10)",
+    "Worldview permeability question: Can we update our narratives with contradictory information? (Call 11)",
+    "Parallel realities pattern: Different groups see same facts through incompatible narrative scripts (Call 11)"
   ],
   "questionsToTrack": [
     "How do societies process grief well vs. poorly?",
@@ -360,22 +429,50 @@
     "Is OGM a salon or should it create bodies of work? (Call 09)",
     "How do we enable 'who's doing what with whom' discovery without violating privacy? (Call 09: Pete's paradox)",
     "What tool should new communities use? Why hasn't software solved this? (Call 09: Jerry's frustration)",
-    "Can likes/comments work at small scale without statistical throughput? (Call 09)"
+    "Can likes/comments work at small scale without statistical throughput? (Call 09)",
+    "Why are we having one-on-ones with ChatGPT instead of AI as group participant? (Call 10: John's central question)",
+    "Is enshittification tightly correlated with monetization? (Call 10: Gil's deep question)",
+    "Can platforms sustain economically without volunteer labor or enshittification? (Call 10)",
+    "How do we get to common understanding at semantic level without requiring agreement? (Call 10: Doug)",
+    "Why is Jerry's 'global mind' vision not happening? (Calls 09, 10)",
+    "How do we handle news that doesn't fit our worldview? (Call 11)",
+    "Do we allow our worldviews to be permeable? (Call 11)",
+    "How do we steel-man opposing narratives? (Call 11: Jerry's method)",
+    "Is Trump's diplomacy real or cosplay? (Call 11: Mike's question)",
+    "How do we see each other's narratives across left-right divide? (Call 11)",
+    "When does surprising abundance become a coordination challenge? (Call 11: Kevin's Mennonites)",
+    "Has progress stopped? (Call 12: the meta-question)",
+    "What IS progress? (Call 12: immediate fragmentation)",
+    "Are there more barriers to technological development than in the past? (Call 12: Mike's narrowing)",
+    "Why do vested interests suppress disruptive progress? (Call 12: Alex's framework)",
+    "Is progress transformation of daily life, or deeper systemic change? (Call 12)",
+    "Why aren't technological breakthroughs leading to quality of life improvements? (Call 12: Enshittification)",
+    "Is progress localized (Europe vs US) rather than global? (Call 12: Gil's observation)"
   ],
   "resourcesIntroduced": {
     "movies": ["Forgiving Dr. Mengele", "The Zone of Interest", "Worth", "The Lives of Others"],
-    "books": ["Nunca Mas (Never Again)", "The Information Animal"],
+    "books": ["Nunca Mas (Never Again)", "The Information Animal", "Enshittification (Cory Doctorow)", "Breakneck"],
     "websites": ["Quote Investigator", "Snopes"],
-    "frameworks": ["Truth and Reconciliation", "Jewish grief tradition", "3 C's (Choose/Connect/Communicate)", "Ikigai", "Brain Defense", "11 Ways to Fight Disinformation"],
-    "organizations": ["Marshall High Studios", "McMenamins", "DayBalancer", "WITSA"]
+    "frameworks": ["Truth and Reconciliation", "Jewish grief tradition", "3 C's (Choose/Connect/Communicate)", "Ikigai", "Brain Defense", "11 Ways to Fight Disinformation", "The Mapping Not the Map (Gene Bellinger)", "Post Outside In", "Confusopoly"],
+    "organizations": ["Marshall High Studios", "McMenamins", "DayBalancer", "WITSA"],
+    "tools": ["Pi.ai", "Fathom (AI note-taker)", "Thinkertoys (Shawn Murphy)", "The Well (historical)", "LLM podcast converter", "Anonymized focus group app (Jerry, name forgotten)"]
   },
   "storyArcs": {
     "Kevin Jones Hurricane Helene Journey": {
-      "calls": ["01", "02", "06"],
+      "calls": ["01", "02", "06", "10", "11"],
       "absences": ["07", "08", "09"],
-      "status": "Uncertain - absent Batch 3",
-      "progression": "Call 01: Fled to Europe → Call 02: Moving to Asheville, giving up, 'throat level sadness' → Call 06: Finding role helping Swannanoa without being in sadness → Calls 07-09: ABSENT",
-      "watchFor": "CRITICAL: Has Kevin stabilized outside OGM? Stopped participating? Will he return in Batch 4?"
+      "status": "MIRACLE - Transformed from victim to recovery leader",
+      "progression": "Call 01: Fled to Europe → Call 02: Moving to Asheville, giving up, 'throat level sadness' → Call 06: Finding role helping Swannanoa without being in sadness → Calls 07-09: ABSENT → Call 10: Minimal return → Call 11: MENNONITE MIRACLE - 25 carpenters building 20 houses FREE, rehab Kevin's house, massive breakthrough",
+      "call11miracle": {
+        "impact": "25 old-order Mennonite carpenters coming to Swannanoa",
+        "scope": "Build ~20 houses for FREE (Nov-May), possibly repeat next year",
+        "personal": "Will rehab Kevin's house for free, living on his farm",
+        "context": "1 in 6 houses in low-status neighborhood destroyed (~400 houses)",
+        "significance": "Labor on 20 houses no longer in fundraising math - massive cost savings",
+        "kevinTone": "Amazingly, surprisingly good. 'Sometimes there are days like that.'"
+      },
+      "trajectory": "Crisis → Despair → Finding purpose → Absence (processing?) → MIRACLE → Community recovery leader with unexpected abundance",
+      "watchFor": "Mennonite project implementation, coordination challenges, Kevin's leadership role development, Call 12+ updates"
     },
     "Ken Homer Spain Move": {
       "calls": ["02"],
@@ -391,14 +488,16 @@
     }
   },
   "nextBatchFocus": [
-    "Batch 4 (Calls 10-12): October 9, 16, 23",
-    "CRITICAL: Does Kevin Jones return after being absent Batch 3?",
-    "Does Call 09 meta-discussion lead to any OGM changes?",
-    "Watch for continued definition debates and methods",
-    "Watch for platform/archival solutions or continued frustration",
-    "Look for new check-in call format (third check-in call expected)",
-    "Track if salon culture continues or shifts toward bodies of work",
-    "Ken Homer Spain move: any updates?",
+    "Batch 5 (Calls 13-15): October 30, November 6, November 13 Part 1",
+    "Call 13 already extracted: 'How to Render Crony Capitalism Obsolete' - connects to Call 12 vested interests",
+    "Watch for Kevin's Mennonite project updates - implementation should be starting Nov-May",
+    "Does worldview permeability discussion (Call 11) continue?",
+    "Enshittification theme: more examples or deeper analysis?",
+    "AI tools: Thinkertoys trial? Other collaborative AI implementations?",
+    "Progress debate follow-up: does group find common ground or stay fragmented?",
+    "Jerry's global mind frustration: any movement toward bodies of work?",
+    "Mike Nelson's Carnegie colleague situation: any resolution?",
+    "Ken Homer Spain move: did he go in Dec/Jan?",
     "Klaus AI regenerative food project: any progress reports?"
   ]
 }
