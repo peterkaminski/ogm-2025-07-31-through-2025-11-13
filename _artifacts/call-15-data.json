@@ -1,0 +1,120 @@
+{
+  "callNumber": "15",
+  "date": "2025-11-13",
+  "title": "What Happened to Curiosity? (Part 1)",
+  "duration": "~47 minutes (Part 1 of 2-part call)",
+  "type": "Hybrid (Topical + Collaborative)",
+  "participants": ["Jerry Michalski", "Victoria (Spain)", "Kevin Jones", "Scott Moehring", "Gil Friend", "and others"],
+  "facilitator": "Jerry Michalski",
+  "mainTopics": ["Curiosity", "Education", "Openness personality dimension", "Access to knowledge", "Generational differences"],
+  "collaborativeTools": ["Excalidraw board (multi-user, hand-drawn aesthetic)"],
+  "keyThemes": {
+    "victoriaExcalidrawCuration": {
+      "contributor": "Victoria (Spain)",
+      "setup": "Created multi-user Excalidraw board with hand-drawn aesthetic",
+      "snapshot": "Took copy of board state so 'if everything is messed, it doesn't matter'",
+      "caution": "In email thread, given many solutions closing the problem very early - not what we should strive for",
+      "approach": "Instead of 'Education closes curiosity', state as question: 'Does education close curiosity?' - opens more things to work with",
+      "jerryClarification": "Positing multiple theories instead of choosing one to close it down",
+      "victoriaGoal": "Gather all opinions but show we are not closing, but opening",
+      "ongoingTheme": "Like when I first talked to Jerry and he said trust and consumerism were his things, I understood curiosity has been always a concern for me",
+      "linking": "Issue of access links to books as 'fossil knowledge' (trapped), silos, academia paid subscriptions - a lot of things going on",
+      "proposal": "Gather everything and start thinking how this relates to different OGM projects, or different things that can start from here"
+    },
+    "kevinDisagreement": {
+      "contributor": "Kevin Jones",
+      "premise": "Is the premise that we are losing, or curiosity is being diminished?",
+      "position": "If that's it, I completely disagree",
+      "tone": "So I'm curious" (ironic)"
+    },
+    "selectionBias": {
+      "contributor": "Jerry Michalski",
+      "originalQuestion": "Hey, kids in school seem incurious",
+      "generalAgreement": "In general, the room will agree with Kevin: no, no, no",
+      "bias": "We have a selection bias problem - everybody in this room is really, really curious, and probably hangs out with really curious people"
+    },
+    "bigFiveOpenness": {
+      "contributor": "Scott Moehring",
+      "model": "Big Five personality model - statistically verified",
+      "fiveDimensions": "Openness is one of the five",
+      "openness": "People who tend to be creative, interested in intellectual pursuits, open to new things and new ways, curious",
+      "spectrum": "Exists on a spectrum - there are people who are low in openness",
+      "evolutionaryNeutrality": "Neither end of the spectrum is evolutionarily better, which is why we have the spectrum",
+      "lowOpennessValue": "Sometimes you need to be less open and more literal, practical, tradition, history, ritual",
+      "highOpennessValue": "Sometimes you need to be more open, accepting, combining, far-reaching",
+      "ogmBias": "This group tends to be high in openness - room attracts those kinds of people",
+      "observation": "If looking for evidence of less curious, we're going to continue to notice instances where people are less curious (those less on the open side)",
+      "scottsView": "Haven't seen a sea change in that - believe it exists on a range"
+    },
+    "gilOneWayConversations": {
+      "contributor": "Gil Friend",
+      "initialAssessment": "People much younger than me were not curious",
+      "evidence": "Conversations where I would ask them questions, and they would not ask me questions - perplexing",
+      "networkingSituations": "Meeting somebody at conference - really struck at how one-way those conversations have been",
+      "newStrategy": "Taken recently to start talking about things - what I'm up to, doing, want to talk about, would have wanted to be asked about",
+      "result": "Then conversation proceeds normally, interested, back and forth - but initiation, asking questions about somebody else, noticing it in its absence",
+      "personalExample": {
+        "person": "Woman they've known since she was 12, now ~55",
+        "occasion": "Dinner few months ago, spent 3 hours together, lovely buffet, backyard",
+        "observation": "Didn't ask a single question of us - not 'How are you doing? How's your life? How's your health?'",
+        "context": "Knows Jane has been going through major health issues for many years",
+        "gilReaction": "Became increasingly uncomfortable, really baffled, didn't figure out what was weird until afterwards, never been in situation like that",
+        "significance": "Challenges my assumption that it's a phenomenon of younger people - she's not young"
+      },
+      "oldDataPoint": "Early on in Natural Logic, doing site assessments of companies looking at efficiency..." (cuts off in excerpt)"
+    }
+  },
+  "excalidrawThemes": {
+    "description": "Victoria created collaborative board exploring curiosity",
+    "approach": "Hand-drawn aesthetic, multi-user, questions rather than answers",
+    "themes": "Education, access to knowledge, silos, fossil knowledge (books), academia paywalls",
+    "method": "Open questions to generate possibilities, not close down with solutions"
+  },
+  "emergingQuestions": [
+    "What happened to curiosity?",
+    "Are we losing curiosity or is it being diminished?",
+    "Does education close curiosity?",
+    "Why do some people not ask questions in conversations?",
+    "Is lack of curiosity a generational phenomenon or personality trait?",
+    "How does the Big Five Openness dimension relate to curiosity?",
+    "What is the relationship between access to knowledge and curiosity?",
+    "How do silos and paywalls affect curiosity?",
+    "What is 'fossil knowledge' and how does it trap information?"
+  ],
+  "participationNotes": {
+    "Victoria (Spain)": "Created Excalidraw board, framing as questions not solutions, linking curiosity to access/silos themes, ongoing concern",
+    "Kevin Jones": "Completely disagrees with premise curiosity being diminished",
+    "Jerry Michalski": "Facilitator, noted selection bias (OGM is all curious people), original question about kids in school",
+    "Scott Moehring": "Big Five Openness dimension explanation, spectrum, evolutionary neutrality, OGM high in openness",
+    "Gil Friend": "One-way conversations observation, younger people not asking questions, 55-year-old friend example, new strategy of volunteering information"
+  },
+  "specialNotes": [
+    "Part 1 of 2-part call (Nov 13 split into Part 1 and Part 2)",
+    "Collaborative Excalidraw board - multi-user, hand-drawn aesthetic, snapshot taken for safety",
+    "Victoria's framing: questions to open possibilities, not solutions that close down",
+    "Selection bias acknowledged: OGM members are all highly curious people",
+    "Gil's discomfort: 3 hours with friend who asked zero questions",
+    "Scott's Big Five model: neither end of Openness spectrum is better evolutionarily",
+    "Kevin's flat disagreement with premise sets up debate",
+    "Victoria linking curiosity to multiple OGM themes: access, silos, fossil knowledge",
+    "~1878 lines for Part 1 (shorter than typical 2600-3100 line full calls)"
+  ],
+  "crossCallThemes": [
+    "Definition and sense-making (Calls 05, 07, 08, 09, 12 - now Call 15 on curiosity)",
+    "Education and learning (new explicit focus in Call 15)",
+    "Access and silos (Victoria linking to ongoing themes)",
+    "OGM identity and purpose (Call 15 Victoria exploring how curiosity connects OGM projects)",
+    "Generational differences (Call 11 worldview challenges → Call 15 age and curiosity)"
+  ],
+  "emotionalTone": "Exploratory, disagreement acknowledged, discomfort (Gil's one-way conversations), curious about curiosity itself, collaborative (Excalidraw)",
+  "toolsIntroduced": [
+    {
+      "name": "Excalidraw",
+      "type": "Collaborative whiteboard",
+      "curator": "Victoria (Spain)",
+      "features": "Multi-user, hand-drawn aesthetic, snapshot capability, questions-focused",
+      "purpose": "Gather all opinions and ideas about curiosity, link to OGM projects"
+    }
+  ],
+  "note": "This is Part 1 of a 2-part call. Part 2 (Call 16) continues the conversation. Excerpt captured beginning showing topic setup, selection bias discussion, Big Five Openness model, and Gil's one-way conversation observations. Full call likely explores more dimensions of curiosity question."
+}
