@@ -1,0 +1,310 @@
+{
+  "callNumber": "05",
+  "date": "2025-08-28",
+  "title": "Sense-Making: Frustrations and Definitions",
+  "duration": "~96 minutes",
+  "type": "Meta-discussion / Salon",
+  "participants": [
+    "Jerry Michalski",
+    "Gil Friend",
+    "Mike Nelson",
+    "John Kelly",
+    "Marc-Antoine Parent",
+    "Doug Breitbart",
+    "Alex Kladitis",
+    "Ken Homer",
+    "Rick Botelho",
+    "Kevin Jones"
+  ],
+  "facilitator": "Jerry Michalski",
+  "mainTopics": [
+    "Frustrations with sense-making",
+    "Defining 'sense' and 'sense-making'",
+    "Individual vs collective intelligence",
+    "IETF 'rough consensus and running code' model",
+    "Goals, deadlines, and convergence",
+    "OGM as salon vs sense-making space",
+    "Shared meaning vs precise definitions",
+    "Process vs outcomes"
+  ],
+  "keyThemes": {
+    "frustrations": {
+      "description": "Jerry asked participants to share frustrations with sense-making",
+      "examples": [
+        "Lack of shared context due to filter bubbles (Eric in chat)",
+        "Pervasive disinformation - people actively preventing sense-making (Mike)",
+        "Need for complete consensus allows one person to hold all hostage (Mike)",
+        "Starting at Chapter 3 or 4, not fundamentals (Doug)",
+        "'Collective' as problematic aggregation that doesn't exist (Doug)",
+        "OGM hasn't done much sense-making, just salon conversations (Jerry)",
+        "Not clear what we mean by 'sense' (Gil)",
+        "No thread or objective, solution-oriented people get lost (Alex)"
+      ]
+    },
+    "definingS ense": {
+      "description": "Gil's fundamental challenge: What do we mean by 'sense'?",
+      "gilQuestions": [
+        "Does sense mean interpretation of reality satisfying to me?",
+        "Does it mean shared interpretation?",
+        "Does it mean shared commitment to action, consent, decisions, coordination?",
+        "Most conversation seems about goals/decision-making - is that a subset?",
+        "Premature attention to goals implies tacit sense-making already happened"
+      ],
+      "marcAntoineResponse": "We're negotiating shared meaning right now - that's the process",
+      "kenHomerResponse": "Expansive, exponentially synthetic definitions vs reductive final definitions"
+    },
+    "ietfModel": {
+      "description": "Mike Nelson's ideal: Internet Engineering Task Force process",
+      "contributor": "Mike Nelson",
+      "elements": [
+        "Rough consensus and running code (not complete consensus)",
+        "Humming instead of voting - anonymous technical judgment",
+        "People hum for best technical solution even if it doesn't help their company",
+        "Need goal AND deadline or higher power pushing toward consensus",
+        "Test: does it work? (running code)"
+      ],
+      "context": "Mike's experience negotiating at US Congress and UN (World Summit on Information Society, Internet Governance Forum)"
+    },
+    "collectiveIntelligence": {
+      "description": "Frameworks for collective vs individual sense-making",
+      "contributors": ["John Kelly", "Marc-Antoine Parent", "Doug Breitbart"],
+      "johnKellyContinuum": {
+        "positive": "Discover something novel none of you saw - collaboration breakthrough",
+        "negative": "95% agree but only come up with tiny 5% motherhood statement",
+        "aiPossibility": "AI can identify themes you're not seeing that connect you"
+      },
+      "marcAntoineFramework": [
+        "Collective sensing",
+        "Collective sense-making",
+        "Collective ideation",
+        "Collective decision",
+        "Collective action",
+        "Then loop"
+      ],
+      "marcAntoineInsights": [
+        "World more complex than any one person - need diversity of perspectives",
+        "Divergence before convergence - exploration necessary",
+        "Must empathize and understand other standpoints",
+        "Distinguish collective intelligence (iteration) from crowdsourcing (aggregation)",
+        "Must go from map-making to decision-making",
+        "Only possible with a goal",
+        "Sense-making happens in practice, in action together"
+      ],
+      "dougCritique": "Anything modified by 'collective' posits aggregate that doesn't exist, sets up for failure"
+    },
+    "goalsAndProcess": {
+      "description": "Tension between having goals/deadlines vs open exploration",
+      "mikeNelson": "Desperately need deadline or higher power pushing toward consensus",
+      "gilFriend": "Premature attention to goals can get in the way of sense-making",
+      "marcAntoine": "Sometimes you don't have common goal to start with, negotiating goal may be part of process",
+      "alexKladitis": "Solution-oriented, couldn't find thread without objective",
+      "pattern": "Process-oriented people (Marc-Antoine, Ken, Jerry) vs outcome-oriented (Alex, Mike)"
+    },
+    "sharedMeaningVsDefinitions": {
+      "description": "How to approach defining terms",
+      "kenHomerExample": {
+        "context": "Yosemite National Park workshop on conflict, 35 people",
+        "method": "400+ words/phrases about 'conflict' on post-its, arranged by bothersomeness",
+        "insight": "'Organ failure' = conflict so bad might have heart attack",
+        "result": "Expansive shared meaning vs reductive definition",
+        "principle": "Let everyone say what they think, don't nail down to fine definition"
+      },
+      "marcAntoine": [
+        "We're always arguing about words because we're arguing with words",
+        "Negotiating shared meaning so we can have connection, communication, community",
+        "Praxis of thinking with others - learning to listen, see other perspectives",
+        "Don't expect formal definition to emerge or be agreed on",
+        "Illusion of consensus is terrible - we think we mean same thing, we don't"
+      ],
+      "rickBotelho": "Need Weick's definition of sense-making as grounding, then critique where you differ",
+      "alexKladitis": "Not academic, more practical - you say this, you mean that",
+      "jerryMichalski": "Should have started with a couple definitions, might have helped"
+    },
+    "ogmReflection": {
+      "description": "What has OGM accomplished?",
+      "jerryConcern": "Very nice salon conversations, occasionally connect people, occasionally new ideas, but haven't done much sense-making",
+      "mikeResponse": "Several of us have used wisdom of this crowd to write very good stuff - look at broader ecosystem you've engendered",
+      "gilResponse": "I don't come to OGM for sense-making (so carry on)"
+    }
+  },
+  "storiesShared": [
+    {
+      "teller": "Mike Nelson",
+      "topic": "World Summit on Information Society - UN sense-making failure",
+      "summary": "20+ years ago in Geneva/Tunis. No common goal: US wanted human rights in cyberspace, China wanted to water down UN Human Rights Declaration, Tehran/Syria guys just wanted expense-paid weeks in Geneva. Supposed to have 3 meetings, stretched to 5 by constant objections. Complete consensus requirement allowed 1-2 people to hold all hostage.",
+      "impact": "Example of sense-making failure when goals misaligned and bad process"
+    },
+    {
+      "teller": "Mike Nelson",
+      "topic": "52 monastery beers quest",
+      "summary": "Belgium has ~52 Trappist and abbey beers brewed by monks. Mike's lifetime goal to narrow to top 4. Some only available at monastery, some no longer made. 'Ecumenical - will drink anything that's good.'",
+      "impact": "Lighthearted opening, passion and lifetime goals"
+    },
+    {
+      "teller": "Ken Homer",
+      "topic": "Yosemite conflict workshop - organ failure",
+      "summary": "35 people, 400+ words for conflict, arranged by bothersomeness. 'Organ failure' = so bad might have heart attack. After seeing it, everyone included it in their understanding of conflict.",
+      "impact": "Example of expansive shared meaning vs reductive definition"
+    },
+    {
+      "teller": "Alex Kladitis",
+      "topic": "Last week's poem (Afraid So) - wife's reaction",
+      "summary": "Alex loved poem, sent to wife and kids. Kids said 'great poem.' Wife said 'that's not a poem.'",
+      "impact": "Perfect illustration of different interpretations/definitions (Gil: 'Then it did its job')"
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "IETF Rough Consensus and Running Code",
+      "source": "Internet Engineering Task Force",
+      "sharedBy": "Mike Nelson",
+      "elements": [
+        "Humming instead of voting for anonymity",
+        "Overwhelming loud hum vs minor dissenting hum = rough consensus",
+        "Test: does it work? (running code)",
+        "Engineers hum for best technical solution even against company interest"
+      ]
+    },
+    {
+      "name": "Collective Intelligence Cycle",
+      "source": "Simon Buckingham Shum",
+      "sharedBy": "Marc-Antoine Parent",
+      "stages": [
+        "Collective sensing",
+        "Collective sense-making",
+        "Collective ideation",
+        "Collective decision",
+        "Collective action",
+        "Loop back"
+      ]
+    },
+    {
+      "name": "Divergence Before Convergence",
+      "sharedBy": "Marc-Antoine Parent",
+      "description": "Cannot converge if haven't explored, negotiated, empathized with other standpoints first"
+    },
+    {
+      "name": "Expansive vs Reductive Definitions",
+      "source": "Ken Homer's practice",
+      "description": "Let everyone contribute to shared meaning, don't reduce to single definition - exponentially synthetic"
+    },
+    {
+      "name": "Weick's Sense-Making",
+      "mentionedBy": "Rick Botelho",
+      "description": "Need grounding definition to critique against, understand where differences lie"
+    },
+    {
+      "name": "Jazz Improv as Sense-Making",
+      "mentionedBy": "Marc-Antoine Parent, Gil Friend",
+      "description": "Communication and perhaps sense-making without words"
+    }
+  ],
+  "questionsRaised": [
+    "What do we mean by 'sense'?",
+    "What do we mean by 'sense-making'?",
+    "What is evidence that sense-making has happened?",
+    "What are remainders/artifacts of sense-making?",
+    "Has OGM done sense-making or just salon conversations?",
+    "Should sense-making have a hyphen?",
+    "Can we have a call without words?",
+    "How do we balance goals/deadlines with open exploration?",
+    "How do we avoid illusion of consensus while still coordinating?",
+    "What's the difference between collective intelligence and crowdsourcing?",
+    "How do solution-oriented people participate in process-oriented discussions?",
+    "Can we define 'poem'? 'Good poem'?"
+  ],
+  "resourcesShared": [
+    {
+      "type": "app",
+      "name": "Untapped",
+      "description": "Beer rating app, never drink substandard beer anywhere",
+      "sharedBy": "Mike Nelson"
+    },
+    {
+      "type": "app",
+      "name": "Vivino",
+      "description": "Wine app - take picture of label, auto-identifies vineyard and year",
+      "sharedBy": "Mike Nelson"
+    },
+    {
+      "type": "organization",
+      "name": "Internet Engineering Task Force (IETF)",
+      "description": "Standards body using 'rough consensus and running code'",
+      "sharedBy": "Mike Nelson"
+    },
+    {
+      "type": "conference",
+      "name": "World Summit on the Information Society (WSIS)",
+      "when": "20+ years ago",
+      "locations": "Geneva, Tunis",
+      "sharedBy": "Mike Nelson",
+      "about": "UN attempt to scope role in digital future - failed sense-making"
+    },
+    {
+      "type": "conference",
+      "name": "Internet Governance Forum (IGF)",
+      "sharedBy": "Mike Nelson",
+      "about": "UN system - worked better because deadline and concrete deliverables"
+    },
+    {
+      "type": "conference",
+      "name": "COP (Conference of the Parties)",
+      "upcoming": "Belem, Brazil",
+      "sharedBy": "Gil Friend",
+      "stats": "600 decision-making delegates, 100,000 other people",
+      "concern": "Many there on expense accounts, not for purpose"
+    }
+  ],
+  "poems": [
+    {
+      "title": "A Note Passed to Superman",
+      "author": "Lucille Clifton",
+      "sharedBy": "Ken Homer",
+      "opening": "Sweet Jesus, Superman! If I'd seen you, dressed in your blue suit, I would have known you.",
+      "closing": "You can trust me. There is no planet stranger than the one I'm from.",
+      "groupReaction": "Jerry: 'Beautiful. And that made perfect sense to everyone in the same way. Right?'"
+    }
+  ],
+  "emotionalTone": "Philosophical, meta, some frustration (Gil, Alex), appreciation for process (Marc-Antoine, Ken), humor throughout",
+  "participationNotes": {
+    "Jerry Michalski": "Facilitator, tried to keep on frustrations before solutions, acknowledged OGM hasn't done much sense-making",
+    "Gil Friend": "Challenged fundamental definitions - 'what do we mean by sense?', frustrated with conversation, doesn't come to OGM for sense-making",
+    "Mike Nelson": "IETF model expertise, UN negotiation war stories, monastery beers quest",
+    "John Kelly": "Collective intelligence continuum - breakthrough vs motherhood statements",
+    "Marc-Antoine Parent": "Collective intelligence frameworks, negotiating meaning as the work, defended process orientation",
+    "Doug Breitbart": "'Collective' posits aggregate that doesn't exist, starts at Chapter 3 or 4 problem",
+    "Alex Kladitis": "Solution-oriented, couldn't find thread, felt lost without objective, appreciated but didn't identify with discussion",
+    "Ken Homer": "Expansive definitions story (Yosemite conflict workshop), closed with poem",
+    "Rick Botelho": "Minimal, mentioned Weick's sense-making definition",
+    "Kevin Jones": "Minimal participation"
+  ],
+  "specialNotes": [
+    "Very meta call - sense-making about sense-making",
+    "Gil's challenge 'what do we mean by sense?' became central thread",
+    "Process vs outcomes tension: Marc-Antoine/Ken vs Alex/Mike",
+    "Alex: solution-oriented people can feel lost in process-oriented discussions",
+    "Jerry didn't even get to planned questions about evidence of sense-making",
+    "Humor: Should sense-making have a hyphen? Can we define 'good poem'?",
+    "Ken's Yosemite story exemplifies the call's own dynamic - expansive shared meaning",
+    "Call itself demonstrated the challenge it discussed"
+  ],
+  "crossCallThemes": [
+    "Information trust and verification (Calls 03, 04)",
+    "Definitions and language (ongoing)",
+    "Individual vs collective (new focus)",
+    "Process vs outcomes (new tension)",
+    "OGM's purpose and effectiveness (meta)"
+  ],
+  "connectionsToOtherCalls": {
+    "call03": "Disinformation as frustration for sense-making - can't make sense when people actively preventing it",
+    "call04": "Reality melting theme - if we can't agree on facts (Call 04), how do we make sense together (Call 05)?",
+    "call02": "Check-in format vs topical - this call questioned OGM's value, similar to Kevin's trauma making participation hard"
+  },
+  "metaObservations": {
+    "callDemonstratedItsOwnTheme": "Discussion about sense-making illustrated exact problems: different definitions, process vs outcome orientation, frustration with lack of clarity",
+    "alexAsBarometer": "Alex's feedback ('I was lost, looking for objective') represents audience who needs concrete outcomes vs process enjoyment",
+    "gilAsSkeptic": "Gil's 'what do we mean by sense?' fundamental challenge - doesn't come to OGM for sense-making",
+    "marcAntoineAsDefender": "Process itself is valuable - negotiating meaning, learning to think with others",
+    "unresolved": "Call ended without resolving what sense-making is or whether OGM does it - perfect meta-illustration"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "callNumber": "06",
+  "date": "2025-09-04",
+  "title": "Check-in Call (First Thursday of Month)",
+  "duration": "~87 minutes",
+  "type": "Check-in (structured format)",
+  "participants": [
+    "Jerry Michalski",
+    "Kevin Jones",
+    "Gil Friend",
+    "Rob O'Keefe",
+    "Klaus Mager",
+    "Rick Botelho",
+    "Shawn Murphy",
+    "Ken Homer",
+    "Scott Moehring",
+    "John Warinner",
+    "Jose Leal",
+    "Mike Nelson",
+    "Stacey Druss"
+  ],
+  "facilitator": "Jerry Michalski",
+  "checkInFormat": {
+    "description": "First Thursdays of every month, structured check-in routine",
+    "rules": [
+      "No traffic cop - volunteers step forward",
+      "Check in only once",
+      "No comments back and forth during check-ins",
+      "Moratorium on chat during check-ins (can save but don't send)",
+      "Pauses are appreciated - like Quaker Meeting",
+      "Be moderately brief - check in on something OGM-y",
+      "Don't empty entire brain of everything banked for the week"
+    ],
+    "philosophy": "Quiet moments are not awkward, they're appreciative"
+  },
+  "checkIns": {
+    "kevinJones": {
+      "update": "Hurricane Helene continued - finding new role helping Swannanoa",
+      "keyPoints": [
+        "Gave up on FEMA, moved to River Arts District apartment",
+        "Lost $1M on land and house",
+        "Met with woman leading 'outside safety net' work - Swannanoa Cares",
+        "7 people working, 3 former Airbnb cleaners now paid social workers",
+        "Leader had to escape to south of France for 2 weeks, came back",
+        "Devastation remains, low-status neighborhood, county doing nothing",
+        "Creating 'third place' - Eleanor Ostrom: watersheds 47% better managed when ranchers have regular meeting place",
+        "No grocery, post office, hardware, restaurants - all gone",
+        "Fighting land rush - was $100K/house and $300/rent cheaper before flood",
+        "Can work with people on problems without being down in sadness",
+        "River Arts District artists determined to work in live-work lofts, not sad",
+        "Some people can be around sad, Kevin couldn't",
+        "Looking at community investment funds, working without federal government",
+        "Gardens covered by sand dunes"
+      ],
+      "tone": "Mixed - still traumatized but finding constructive role, little encouraging",
+      "evolution": "Progressing from pure trauma (Calls 01-02) to finding purpose while avoiding sadness"
+    },
+    "gilFriend": {
+      "update": "Concussion recovery - body-focused week, forced rest",
+      "keyPoints": [
+        "Fell Sunday, sustained mild concussion",
+        "Over 65 on anticoagulants = go to ER even if feel fine",
+        "Concussion symptomatic not clinical diagnosis - must rest or body enforces rest",
+        "Stay off screens and mental stimulation - very hard in modern life",
+        "Tuesday: Full coaching day (acquisition, career, product launch, positioning), wiped out after",
+        "Normal relaxation = pick up phone and scroll - can't do that now",
+        "Very humbling and grounding - back in touch with body rhythms",
+        "Running at very different pace this week"
+      ],
+      "reflection": "National level: 'Nobody's doing anything' meme vs lots actually happening (Heather Cox Richardson)",
+      "blueStates": "Glad to see state's rights shifting to blue states - WA, OR, CA, IL mounting resistance",
+      "tone": "Humbled, grounded, learning body limits"
+    },
+    "robOKeefe": {
+      "update": "DC federal government shutdown concerns, daughter at NYU",
+      "keyPoints": [
+        "Canceled work meeting to join call",
+        "Lives in DC, feels like attention fading since Elon left",
+        "Continued attacks on federal government workers who give lives to service",
+        "Government shutdown coming end of September - most think it will happen",
+        "Partial or complete shutdown - figuring out who's 'essential' (thanks for label!)",
+        "Company does federal consulting, probably won't be impacted",
+        "Daughter sophomore at NYU film school",
+        "Top jobs AI will replace - but world needs storytellers",
+        "Already sick of AI-generated stuff, appreciation for authentic art",
+        "Daughter interested in documentaries, watches few movies, loves Broadway",
+        "New York energy unmatched - all economic statuses co-mingled",
+        "DC and NYC labeled crime-ridden but not true - people buy headlines",
+        "Concentrations of artists, musicians, restaurants, creativity",
+        "Limiting information feeds, being selective, reflecting for clarity beyond headlines"
+      ],
+      "tone": "Concerned about DC, optimistic about daughter's storytelling future"
+    },
+    "klausMager": {
+      "update": "Giving up on federal food policy, building AI-assisted regenerative food system",
+      "keyPoints": [
+        "Sierra Club advisory team, Farm Bill Policy, Citizen Climate Lobby, Alcoa",
+        "Stepped way back - 'complete waste of time'",
+        "Sierra Club sends lobby team to Congress who just cashed $500K check from lobbyist",
+        "Current administration destructiveness in food system",
+        "Food system: massive environmental degradation, pollution, chemicals, horror show",
+        "Scale increasing - doubling down on harmful practices",
+        "Working with AI to build intelligence for transition to regenerative",
+        "6 years training with Gene Bellinger on systems thinking",
+        "Systems perspective: farmer to consumer, entire supply chain",
+        "AI objected to 'training' - it's 'configuration process' not training",
+        "Configured 6 agents: farm to market progression",
+        "Total systems reconfiguration process",
+        "Regenerative movement splintered - groups everywhere doing good work but not scalable",
+        "Not sharing learnings in organized fashion",
+        "AI solution: few keywords on websites, AI finds you within bioregion",
+        "Don't need massive database"
+      ],
+      "tone": "Frustrated with federal system, energized by AI systems approach"
+    }
+  },
+  "mainThemes": {
+    "climateDisasterRecovery": {
+      "contributor": "Kevin Jones",
+      "evolution": "Finding constructive engagement without direct exposure to trauma",
+      "eleanorOstromInsight": "Third places enable 47% better watershed management - informal regular meetings build trust",
+      "lowStatusNeighborhoods": "After emergency, low-status stays low-status (Gil: New Orleans 20 years later)",
+      "fedGovFailure": "Nobody relies on federal government anymore - community investment alternatives"
+    },
+    "bodyAndLimits": {
+      "contributor": "Gil Friend",
+      "theme": "Forced disconnection from screens reveals dependence and need for body rhythms",
+      "screenAddiction": "Default relaxation is scrolling - very hard to break",
+      "modernLifeChallenge": "Hard to stay unplugged, even when medically necessary"
+    },
+    "federalGovernmentUnderAttack": {
+      "contributors": ["Rob O'Keefe", "Klaus Mager"],
+      "robPerspective": "DC workers under attack, shutdown looming, attention fading post-Elon",
+      "klausPerspective": "Federal lobbying waste of time - corporate money ($500K checks) wins",
+      "sharedView": "Federal institutions failing or being dismantled"
+    },
+    "storytellingVsAI": {
+      "contributor": "Rob O'Keefe",
+      "thesis": "World needs storytellers regardless of tools - authentic art vs AI-generated",
+      "earlyBacklash": "Already sick of AI-generated stuff",
+      "daughterGeneration": "Film student watches few movies, loves Broadway - different media consumption"
+    },
+    "regenerativeSystemsBuilding": {
+      "contributor": "Klaus Mager",
+      "problem": "Industrial food system: environmental horror, corporate power blocks reform",
+      "solution": "AI-assisted systems reconfiguration - 6 agents from farm to market",
+      "challenge": "Regenerative movement splintered, not scalable, doesn't share learnings",
+      "innovation": "Keywords on websites let AI find actors within bioregion - no massive database needed",
+      "shift": "From federal policy advocacy to distributed systems building"
+    },
+    "headlinesVsReality": {
+      "contributor": "Rob O'Keefe",
+      "examples": ["DC crime-ridden (not true)", "NYC crime-ridden (not true)", "Nobody doing anything (false - lots happening)"],
+      "gilAddition": "Heather Cox Richardson chronicling what's actually being done",
+      "blueStateResistance": "WA, OR, CA, IL mounting different level of resistance",
+      "response": "Limiting feeds, being selective, reflecting for clarity beyond headlines"
+    }
+  },
+  "questionsRaised": [
+    "How do you help disaster-affected communities without being immersed in sadness?",
+    "What are 'third places' and how do they enable better community coordination?",
+    "How long does it take low-status neighborhoods to recover from disasters? (Answer: New Orleans 20 years, still low-status)",
+    "How do we stay unplugged from screens in modern life?",
+    "How do we value federal workers under attack?",
+    "Will there be appreciation for authentic art vs AI-generated?",
+    "How do we scale regenerative food movement?",
+    "Can AI help coordinate splintered movements without massive databases?",
+    "How do we get clarity on issues beyond headline-driven narratives?"
+  ],
+  "resourcesShared": [
+    {
+      "type": "economist",
+      "name": "Eleanor Ostrom",
+      "insight": "Watersheds managed 47% better by ranchers with regular meeting place for informal conversations",
+      "sharedBy": "Kevin Jones",
+      "relevance": "Third places enable community coordination"
+    },
+    {
+      "type": "person",
+      "name": "Heather Cox Richardson",
+      "description": "Chronicling what's actually being done vs 'nobody doing anything' narrative",
+      "sharedBy": "Gil Friend"
+    },
+    {
+      "type": "mentor",
+      "name": "Gene Bellinger",
+      "connection": "6 years working with Klaus on systems thinking",
+      "sharedBy": "Klaus Mager"
+    },
+    {
+      "type": "organization",
+      "name": "Swannanoa Cares",
+      "description": "Outside safety net work, 7 people including former Airbnb cleaners now social workers",
+      "context": "Kevin Jones's potential engagement"
+    },
+    {
+      "type": "organizations",
+      "names": ["Sierra Club", "Citizen Climate Lobby", "Alcoa"],
+      "context": "Klaus's federal policy advisory roles - now stepping back",
+      "sharedBy": "Klaus Mager"
+    }
+  ],
+  "emotionalTone": "Grounded, reflective, some hope amid continued trauma and systemic failure. Less heavy than Call 01, less scattered than Call 02.",
+  "participationNotes": {
+    "Jerry Michalski": "Facilitator, explained check-in format clearly",
+    "Kevin Jones": "Continuing Hurricane Helene story - finding constructive role, Eleanor Ostrom insight",
+    "Gil Friend": "Concussion recovery, screen addiction reflection, blue state resistance note",
+    "Rob O'Keefe": "Rare participant, DC perspective, daughter storyteller, authentic art theme",
+    "Klaus Mager": "Major shift from federal lobbying to AI regenerative food systems",
+    "Others": "Present but check-ins not captured in excerpt"
+  },
+  "specialNotes": [
+    "First Thursdays check-in format well established - Jerry explained rules",
+    "Kevin's story evolving: Call 01 (fled to Europe) → Call 02 (moving to Asheville, giving up) → Call 06 (finding role helping without being in sadness)",
+    "Gil's concussion illustrates screen dependence theme from Call 04-05",
+    "Klaus making major pivot from federal advocacy to distributed AI systems",
+    "Rob O'Keefe new participant with DC federal government insider perspective",
+    "Multiple participants noting federal government failure/attack",
+    "Eleanor Ostrom third places insight highly relevant to community building theme",
+    "Check-in format prevents conversation - Gil tried to respond to Kevin, Jerry gently redirected"
+  ],
+  "crossCallThemes": [
+    "Climate disaster recovery (Kevin continuing from Calls 01-02)",
+    "Federal government failure/corruption (connects to Call 04 political corruption)",
+    "Information/headlines vs reality (connects to Calls 03-05)",
+    "AI and authenticity (connects to Call 04 reality melting, Call 05 sense-making)",
+    "Body and screens (Gil's forced rest illustrates modern life challenge)",
+    "Systems thinking and regenerative alternatives (Klaus pivot)"
+  ],
+  "connectionsToOtherCalls": {
+    "call01": "Kevin's Helene trauma - now 5+ weeks later, finding constructive role",
+    "call02": "Kevin deteriorating (Call 02) → Kevin finding purpose (Call 06)",
+    "call04": "Klaus political corruption theme → now giving up on federal lobbying entirely",
+    "call05": "Rob's 'limiting feeds, reflecting for clarity' responds to Call 05 sense-making challenges"
+  },
+  "formatObservations": {
+    "checkInStructure": "Well-defined rules, Quaker-meeting philosophy, prevents crosstalk",
+    "effectiveness": "Allows everyone to share without debate, creates appreciative pauses",
+    "jerrysRole": "Light facilitation, gentle redirects when conversation starts",
+    "difference FromSalon": "Check-in = one-way sharing, Salon = back-and-forth dialogue"
+  }
+}
