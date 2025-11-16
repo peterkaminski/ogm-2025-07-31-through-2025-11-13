@@ -270,3 +270,76 @@ Complete all remaining batches (4, 5, 6) - process Calls 10-16
 - Kevin Jones story arc: Deteriorating (Calls 01-02) → Finding role (Call 06) → Absent (Calls 07-09) → Returned with minimal participation (Call 10) → AMAZING NEWS (Call 11 - Mennonites!)
 - Call 10 perfectly illustrates the work I'm doing: extracting value from long conversations
 - On track to complete all 16 calls within token budget
+
+
+---
+
+## Session 4 (Continuation) - 2025-11-16
+
+### Objective
+Continue Phase 1: Process Batch 4 (Calls 10-12) and Batch 5 (Calls 13-15)
+
+### Accomplished
+1. ✅ Completed Batch 4 (Calls 10-12):
+   - Created call-10-data.json (AI as participant - John War inner's epiphany)
+   - Created call-11-data.json (Worldview challenges - Kevin's MENNONITE MIRACLE!)
+   - Fixed call numbering: Call 12 (Has Progress Stopped), Call 13 (Crony Capitalism)
+   - Created batch-04-summary.md (comprehensive synthesis)
+   - Updated running-topics.json with 4 new topics and Kevin's miracle arc
+   - Committed Batch 4 completion
+
+2. ✅ Processed Batch 5 calls (Calls 13-15):
+   - Call 13 already extracted (Crony Capitalism - Oct 30)
+   - Created call-14-data.json (Nov 6 Check-in - Consciousness, Bubbles, Cross-Connections)
+   - Created call-15-data.json (Nov 13 Part 1 - What Happened to Curiosity?)
+   - Committed both calls
+
+### Major Discoveries
+
+**Batch 4 Highlights**:
+- **Call 10**: John Warinner: "Why one-on-ones with AI instead of AI as group participant?"
+- **Call 11**: KEVIN JONES MIRACLE - 25 Mennonite carpenters building 20 houses FREE for Swannanoa recovery
+- **Call 12**: Progress definition debates, vested interests (Alex), Enshittification deepens
+
+**Batch 5 Highlights**:
+- **Call 13**: Crony capitalism solutions - reputational economies, radical transparency, community belonging
+- **Call 14**: JERRY'S FIRST PSILOCYBIN JOURNEY, non-local consciousness, AI bubble consensus, Doug's OGM as gravitational center
+- **Call 15**: Curiosity exploration with Excalidraw, Big Five Openness, Gil's one-way conversations
+
+### Tokens Used
+- Batch 4 completion: ~45K tokens
+- Call 14 extraction: ~12K tokens  
+- Call 15 extraction: ~8K tokens
+- Session total: ~100K of 200K budget (50%)
+
+### Current State
+- **Branch**: claude/token-aware-workflow-01Y9h2r2b2VrDjeczZBW6FNd
+- **Batches completed**: 1, 2, 3, 4
+- **Calls extracted**: 01-15 (Call 16 remaining)
+- **Files created this session**:
+  - batch-04-summary.md
+  - call-14-data.json
+  - call-15-data.json
+  - Updated running-topics.json with Batch 4 themes
+
+### Key Patterns Identified
+1. **Kevin Jones Arc**: Crisis → Despair → Purpose → Absence → MIRACLE (most dramatic personal transformation)
+2. **Technology Interrogation**: Practical (Call 10) → Epistemological (Call 11) → Apocalyptic (Call 14 bubble/obsolescence)
+3. **Jerry's Transformation**: Non-local consciousness convergence + first psilocybin journey
+4. **OGM as Center**: Doug's insight - 12 projects, 60% have OGM in common, Jerry as gravitational center
+
+### Next Steps
+1. Complete Call 16 (Nov 13 Part 2 - Curiosity continuation)
+2. Create batch-05-summary.md (Calls 13-15)
+3. Create batch-06-summary.md (Call 16)
+4. Final work-log update
+5. Push all changes to remote
+
+### Notes
+- Token budget remains healthy - 50% used, plenty for completion
+- Call 15-16 split creates Batch 6 with single call
+- Kevin's Mennonite miracle is breakthrough moment for Swannanoa recovery theme
+- Jerry's psilocybin journey + non-local consciousness theme is new spiritual/consciousness thread
+- AI bubble discussion (Call 14) connects to progress debates (Call 12)
+- Curiosity exploration (Call 15) returns to definitional patterns (Calls 05, 07, 08, 09, 12)
+
