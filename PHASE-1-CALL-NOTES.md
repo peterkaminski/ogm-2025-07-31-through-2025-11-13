@@ -857,3 +857,159 @@ Let us breathe deeply until we can feel the world breathe peace into us."
 - Gil: "Wary of having debate about words where we're using words in different ways about meanings of different things we aren't even clear about"
 
 ---
+
+## Call 08: 2025-09-25/26 - Abundance (DETAILED NOTES)
+
+### Participants
+- Jerry Michalski (facilitator)
+- Gil Friend
+- Stacey Druss (topic instigator)
+- Alex Kladitis
+- Pete Kaminski
+- Klaus Mager
+- Doug Breitbart
+- John Warinner
+- Rick Botelho
+- Jessie Upp
+- Kevin Jones
+- Kaliya Identity Woman
+- Jose Leal
+
+**Note:** Ken Homer absent - Jerry read closing poem instead
+
+### Topic Format
+Stacey proposed speed round: Quick phrase/title/bumper sticker - WHAT abundance is, refrain from how/where/when/why
+
+### Lightning Round: What Is Abundance?
+- **Stacey**: Having what you need when you need it
+- **Gil**: The person who is content with their lot (Pirkei Avot - Jewish wisdom)
+- **Jessie**: Ikigai (what you love + good at + world needs + paid for)
+- **Alex**: Pass
+- **Pete**: Love is all you need
+- **Klaus**: To be at peace with the gifts you have been given
+- **Doug**: Infinite possibility
+- **Jerry**: More than enough (controversial)
+- **John**: More than enough (echoing Jerry)
+- **Rick**: Co-intelligence
+- **Kevin**: Pooled and shared resources with mission-focused local investing
+- **Kaliya**: Abundant enoughness
+- **Jose**: "I don't know what abundance means... seems like a good catchphrase"
+
+### Key Frameworks & Concepts
+
+**Jerry's Formula:**
+**Scarcity = Abundance - Trust**
+- Humans knew how to create abundance, but it took trust
+- When you squish out trust, you get scarcity
+- Capitalism loves scarcity ("scarcity equals value" - business school)
+
+**Three Books on Abundance:**
+1. **Diamandis & Kotler** - Techno-optimist manifesto, nanotech/endless energy overwhelms scarcity
+2. **Ezra Klein & Derek Thompson** - Abundance movement, over-regulation preventing housing/social goods (neoliberal critique)
+3. **Juliet Schor (2010)** - Plenitude: New Economics of True Wealth (abundance is too much)
+
+**John's Etymology:**
+- **Affluence** = Abundant Flow (not hoarding/accrual)
+- Flow vs hoarding is key distinction
+- Perception of abundant flow causes people to relax, not hoard
+
+**Kaliya's "Abundant Enoughness":**
+- People with resources need to get into nervous system: "I have enough"
+- Don't need to accumulate more
+- Those hoarding have good reason - meet their needs without hoarding
+- Where's our community living together? (critique of talk without action)
+
+**Klaus's Position:**
+- Physical goods never evenly distributed - always some have more
+- New Testament, Buddhism: How you position yourself
+- Suffering caused by wanting, wishing to have
+- Very individual concept
+
+**Jessie's Pendulum Theory (book by Williams & Taylor, 2012):**
+- 40-year swings: ME periods (individualism) ↔ WE periods (collective/community)
+- Early 2000s vs early 1960s = opposite ends
+- Reflected in music, art, societal trends
+- Traces back 3,000 years
+- East reflects West 40 years behind
+
+### Major Topics Discussed
+
+**Regulation Debate:**
+- Gil: Too much/too little framing is "off" - we all depend on regulation
+- Buildings fell down, fire traps led to regulation
+- Commons sets boundaries
+- "Intelligent regulation" provides certainty, clarity - not burdensome paperwork
+- Question of how designed, by whom, for what
+- Jerry's friend in Portland commercial real estate: Regaled with difficulty stories
+
+**Trust & Awareness:**
+- John: "Scarcity = Abundance - Awareness" (in addition to trust)
+- Walla Walla watershed presentation: Guy said "I don't believe what you just said" (about streamflow data)
+- Those with mental picture of abundance vs those without
+
+**Water Management:**
+- Swales and land techniques catch/retain water
+- Jumping Frogs Farms (above Petaluma): During rainstorm, industrial neighbors flooding while she read by fireplace - absorbent land created abundance
+
+**Stacey's NYC Political Context:**
+- Received violent message: "You cunt... Arab lover... Get the fuck out of New York. That scumbag will not be mayor"
+- Free speech erosion, intimidation
+- Florida: Tanks drove through Black neighborhoods to intimidate voters
+- Friend: "Am I going to get put on a list?" (half-joking but not really)
+- Cat Stevens tickets $632 - affordability crisis
+- Affluent argument: "Businesses will leave if we elect Mondani"
+
+**Media & Billionaire Erosion of Trust:**
+- Conflicting stories eroding trust
+- Cultural issues around free speech
+
+### Closing Poem
+**"Love" by Czesław Miłosz** (read by Jerry, Ken absent)
+
+"Love means to learn to look at yourself  
+The way one looks at distant things.  
+For you are only one thing among many.  
+And whoever sees that way heals his heart, without knowing it, from various ills.  
+A bird in the tree say to him, Friend.  
+Then he wants to use himself and things.  
+So that they stand in the glow of ripeness.  
+It doesn't matter whether he knows what he serves.  
+Who serves best?  
+Doesn't always understand."
+
+### Notable Quotes
+- Stacey: "Abundance for me is having what you need when you need it"
+- Gil: "Who is rich? The person who is content with their lot" (Pirkei Avot)
+- Jerry: "Scarcity equals abundance minus trust"
+- Jerry: "Capitalism loves scarcity. Business school: scarcity equals value"
+- John: "Affluence = abundant flow. Flow vs hoarding is real key."
+- Jerry: "Perception of abundant flow is what causes people to relax and think maybe they don't need to hoard"
+- Kaliya: "How do people get into their nervous system like they actually have enough?"
+- Jose: "I don't know what abundance means... seems like a good catchphrase we've all picked up"
+- Pete (chat): "Paradox of abundance. Overabundance can cause addiction, affliction, disease, and abundance isn't well distributed"
+- Gil: "Notable that until Pete's ad in chat, none of us was talking about abundance as being lots of stuff"
+- Klaus: "Notion of suffering... do you cause yourself to suffer by wanting?"
+- Jessie (panhandling story): Poor neighborhoods give more than rich neighborhoods
+- John: "Scarcity can also equal abundance minus awareness"
+- Stacey: "Media and billionaires and conflicting stories are eroding that trust"
+
+### Sanskrit/Yoga Concepts Mentioned
+- **Tanha** and **Santuṣṭi** (Klaus in chat) - Buddhist/Sanskrit concepts
+- **Aparigraha** - Non-grasping (one of the yamas/abstinences in Patanjali's yoga)
+
+### Cross-References
+- Jerry: French Connection Part 2 (Popeye Doyle heroin withdrawal scene)
+- Gil: Zoom meeting assistant addiction, Facebook withdrawal
+- Reference to last week's collaboration discussion
+- Jerry & Dave Witzel & Claudia visited Jumping Frogs Farms years ago
+- Klaus: New Testament, Buddhism frameworks
+
+### Meta-Observations
+- Stacey's speed round format worked well - focused, pithy responses
+- Jerry: "Everybody's being so pithy... It's early, how'd that happen?"
+- Notable absence: Ken Homer (first time without closing poem from Ken)
+- Jerry stepped in to read Miłosz poem
+- Discussion ranged from philosophical/spiritual to intensely political
+- Tension between abstract abundance concepts and concrete NYC political reality (Stacey)
+
+---
