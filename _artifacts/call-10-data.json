@@ -1,0 +1,344 @@
+{
+  "callNumber": "10",
+  "date": "2025-10-09",
+  "title": "AI as Conversation Participant: Tools and Understanding",
+  "duration": "~90 minutes (estimate)",
+  "type": "Meta-discussion continuation / Salon",
+  "participants": [
+    "Jerry Michalski",
+    "John Warinner",
+    "Stacey Druss",
+    "Gil Friend",
+    "Alex Kladitis",
+    "Kevin Jones",
+    "Jose Leal",
+    "Shawn Murphy",
+    "Doug Breitbart"
+  ],
+  "facilitator": "Jerry Michalski",
+  "mainTopics": [
+    "AI as participant in group conversations",
+    "Sharing AI conversation transcripts",
+    "Enshittification and monetization",
+    "Why are we here? (purpose question)",
+    "Thinkertoys collaborative knowledge tool",
+    "Getting to common understanding",
+    "Maps and knowledge sharing"
+  ],
+  "keyThemes": {
+    "aiAsParticipant": {
+      "description": "John Warinner's epiphany: Why one-on-ones with ChatGPT when LLMs could participate in group conversations?",
+      "contributor": "John Warinner",
+      "keyPoints": [
+        "Everyone having revealing one-on-one AI explorations",
+        "Want to share, but bombarding each other with loquacious exchanges",
+        "Bandwidth problem: can't digest everyone's 2,000-4,000 word transcripts",
+        "Light bulb: Why aren't LLMs just participants in THIS conversation?",
+        "Asked ChatGPT: how far off? Response: couple years away, in the pipeline",
+        "Would be a different chapter than current one-on-one era",
+        "Might temper frustration of trying to share everything"
+      ],
+      "impact": "Reframes problem from 'how do we share AI conversations?' to 'why aren't AIs here with us?'"
+    },
+    "mappingVsMap": {
+      "description": "Gene Bellinger wisdom applied to AI conversations",
+      "contributors": ["John Warinner", "Jerry Michalski", "Doug Breitbart"],
+      "geneQuote": "The value is the gerund - it's the mapping, not the map",
+      "johnApplication": "Greatest value is in the conversation, not the product of the conversation",
+      "jerryExperience": [
+        "Other people's maps often impenetrable unless unpacked slowly",
+        "Gene Bellinger builds maps piece by piece - takes effort on both sides",
+        "Small percentage can navigate Jerry's Brain solo",
+        "Tier needs guidance from Jerry",
+        "Few deeply understand WHY he curated specific contexts"
+      ],
+      "dougExtension": [
+        "It's not JUST the exercise of mapping",
+        "Gene's maps create models, reflect living systems",
+        "Reveal complex systems, identify leverage points",
+        "Inform next action, where to focus intervention or contribution"
+      ]
+    },
+    "sharingAIConversations": {
+      "description": "Solutions to the 'long AI transcript' problem",
+      "contributors": ["Jerry Michalski", "Stacey Druss", "Alex Kladitis"],
+      "jerryProposal": "Post link to conversation URL instead of pasting full text - those up for long read can go, others skip",
+      "staceySolution": [
+        "Ran long AI chat (about shutdown) through LLM to create podcast",
+        "Created very short podcast as 'great beginning point for a conversation'",
+        "Asks good questions (what Stacey loved most)"
+      ],
+      "alexInsight": [
+        "Email is for snappy, short things to act on",
+        "Long read is different allocation - 'I'm not doing email anymore, I am in deep study mode'",
+        "Need to consciously shift mental modes"
+      ]
+    },
+    "whyAreWeHere": {
+      "description": "Explicit articulation of individual purposes for OGM",
+      "trigger": "Alex Kladitis asked 'What do people want out of this group, or this conversation?'",
+      "alexPurpose": "Hear new perspectives or existing perspectives from different people with different viewpoint. Makes me think.",
+      "jerryPurpose": [
+        "Learn stuff I would never figure out - people share what they're finding/thinking",
+        "'I hadn't put that plus that together in my head' - curation over time gets better, knowledge accumulates",
+        "Love who shows up, social interactions",
+        "Love that we know what we do - 4-5 years of history, not 'what do you do?'",
+        "Bringing people together who then go off and have conversations, do projects - 'if three people met and did something they loved, that's gold'",
+        "Frustrated desire: 'I'd really like to build a global mind... We really haven't done that. We haven't done much of that at all.'"
+      ],
+      "dougPurpose": [
+        "Understanding - not agreement, just common understanding",
+        "Get on same page at most simple, basic, fundamental semantic level",
+        "My meaning and somebody else's meaning is aligned, recognized, understood",
+        "Helping with decision-making",
+        "Better decisions, contribute positively, minimize destruction",
+        "LLMs enable handling complex array of variables in real-time like never before"
+      ]
+    },
+    "enshittificationAndMonetization": {
+      "description": "Can platforms sustain without falling into enshittification?",
+      "contributors": ["Stacey Druss", "Gil Friend", "Jerry Michalski"],
+      "staceyObservation": [
+        "Facebook developed 'for them' (students) initially",
+        "Negatives came when monetization came in",
+        "Don't throw out positive (creating for community) with negative (monetization)",
+        "Parallel to 'the way women create'"
+      ],
+      "jerryCorrection": "Facebook birth story actually Face Smash to rate 'hot babes' on Harvard campus - opposite of the energy you're bringing",
+      "gilQuestions": [
+        "Is enshittification tightly correlated with monetization?",
+        "How do you build something with appropriate reach that can be sustained economically without falling into enshittification machine?",
+        "Does avoiding enshittification depend on volunteer labor?",
+        "Volunteers have sources of income elsewhere - tied into enshittification for most of their lives",
+        "Open source brilliance of last 50 years came from this, but it's not a sustainable strategy"
+      ],
+      "jerryResponse": "Big question: is it possible to have viable, sustainable, ongoing concern software that doesn't need to go down the enshittification rat hole?"
+    },
+    "thinkertoysDemonstration": {
+      "description": "Shawn Murphy building the tool OGM is talking about",
+      "contributor": "Shawn Murphy",
+      "status": "Deploying latest version, configuration issues",
+      "whatItDoes": [
+        "Real-time collaborative knowledge tool",
+        "Group edits LLM prompt together",
+        "Run prompt through LLM",
+        "Outputs in Turtle (graph knowledge representation format)",
+        "Pump into Thinkertoys, immediately graph it",
+        "Multiple visualizations: tabular, graphical, wiggly graph things",
+        "Near real-time collaboration with AI",
+        "AI populates shared knowledge collaboration workspace",
+        "Group springboards off AI output, continues working together"
+      ],
+      "lastWeekendTest": "Worked with different crew Saturday, exploring topic in near real-time",
+      "jerryInvite": "Send invite to OGM list for pop-up call to try the tool"
+    },
+    "aiToolsInPractice": {
+      "description": "Examples of AI tools already working",
+      "contributors": ["Stacey Druss", "Jerry Michalski"],
+      "staceyPodcast": "LLM converts long text to short podcast as conversation starter, asks good questions",
+      "jerryFocusGroup": [
+        "60-70 people, anonymized (Orange Panda, color + animal)",
+        "Topic, questions ahead of time",
+        "Broken into breakouts to discuss questions briefly",
+        "Typing thoughts and answers",
+        "AI summarizing each group, cross-fertilizing insights",
+        "AI: 'I think this is what you said' or 'I think this is what you've agreed on'",
+        "Quite good at summarization",
+        "'AI was being really, really helpful in ways I hadn't experienced before in that kind of setting'",
+        "'I look forward to having AIs participating as excellent listeners and summarizers'"
+      ],
+      "gilFathom": "Note-taker AI (Jerry resents: 'when Gil shows up, he shows up with like 3 different note-takers')"
+    },
+    "postOutsideIn": {
+      "description": "Jerry's old policy proposal for private communities",
+      "contributor": "Jerry Michalski",
+      "problem": "People post brilliant things in private forums - can't retweet, repost, point to them. Stuff trapped in 'bit bucket'.",
+      "solution": "Post outside in - write interesting idea as public post (blog), then share link in private community",
+      "benefit": "Conversation can happen in more public view, good stuff not trapped, communities move but work remains accessible"
+    },
+    "theWellProblem": {
+      "description": "Forums and long threads problem",
+      "contributor": "Jerry Michalski",
+      "firstOnlineExperience": "The Well (Sausalito), bulletin board system PicoSpan",
+      "problem": [
+        "Can't read through long list of posts and remember where the good ones were",
+        "'Really good one here, whole stretch of crap in between, really good one here'",
+        "Knew really good stuff was floating by",
+        "Could never keep myself up-to-date in conversation",
+        "'May be a permanent problem'"
+      ],
+      "relevance": "One of many facets of what we're trying to solve"
+    },
+    "llmsAsTLDR": {
+      "description": "LLMs as excellent summarizers",
+      "contributor": "Jerry Michalski",
+      "insight": [
+        "LLMs might be really nice companions for long, threaded discussions",
+        "Might be excellent summarizers or highlighters of what actually happened",
+        "TLDR agent might be real boon",
+        "Deeper conversations are very important to have"
+      ]
+    },
+    "decisionMaking": {
+      "description": "Ultimate purpose: helping people make better decisions",
+      "contributor": "Doug Breitbart",
+      "framework": [
+        "Getting to common understanding at semantic level",
+        "Not agreement, just mutual understanding",
+        "Gene's maps reveal complex systems, identify leverage points",
+        "Help marshal much more complex, diverse array of variables",
+        "Nonlinear complex system context",
+        "Make better decisions, better choices, better actions",
+        "Better = contribute positively to value and quality of life",
+        "Better = minimize impact, destruction, adverse consequence",
+        "LLMs enable real-time handling of complexity at unprecedented level",
+        "'At the end of the day, it's helping with decision-making'"
+      ],
+      "jerryAlignment": "We're on the same mission - helping people make better decisions, achieve mutual understanding despite stumbling blocks like language and technology"
+    }
+  },
+  "storiesShared": [
+    {
+      "teller": "Jerry Michalski",
+      "topic": "Pi.ai best interview experience",
+      "summary": "Couple years ago, pi.ai said 'what's on your mind?' 90 minutes later, best interview ever. Kept saying 'it sounds like you said this, do you mean this?' Raised the conversation. Not Eliza, not stochastic parrot - deeply understanding. 'Oh my god, oh my god!' Shook him a little bit. Hasn't gone back to that thread. Trying to figure out how to incorporate AI into life more.",
+      "impact": "Example of transformative AI conversation experience"
+    },
+    {
+      "teller": "Jerry Michalski",
+      "topic": "The Well - first online experience",
+      "summary": "Bulletin board system PicoSpan, Sausalito. Good stuff floating by but couldn't keep up-to-date. Can't remember where good posts were in long threads.",
+      "impact": "Longstanding problem of knowledge discovery in forums"
+    },
+    {
+      "teller": "Stacey Druss",
+      "topic": "Shutdown AI chat → podcast",
+      "summary": "Someone shared long AI chat about shutdown. Stacey ran it through LLM to create short podcast. 'Great beginning point for a conversation.' Loved that it asked good questions.",
+      "impact": "Practical TLDR solution in action"
+    }
+  ],
+  "frameworksAndConcepts": [
+    {
+      "name": "The Mapping, Not the Map",
+      "source": "Gene Bellinger to John Warinner",
+      "description": "Value is in the gerund - the mapping process, not the static map artifact",
+      "application": "Same with AI conversations - value in conversation, not product"
+    },
+    {
+      "name": "Post Outside In",
+      "source": "Jerry Michalski (years ago)",
+      "description": "Write interesting ideas as public posts first, then share link in private community",
+      "benefit": "Keeps good stuff accessible, not trapped in bit bucket"
+    },
+    {
+      "name": "Enshittification",
+      "source": "Cory Doctorow (implied)",
+      "gilQuestion": "Is it tightly correlated with monetization?",
+      "challenge": "Can platforms sustain economically without falling into it?"
+    },
+    {
+      "name": "TLDR Agent",
+      "source": "Jerry Michalski concept",
+      "description": "LLMs as excellent summarizers/highlighters for long threaded discussions"
+    },
+    {
+      "name": "Complex Systems Leverage Points",
+      "source": "Gene Bellinger / Doug Breitbart",
+      "description": "Maps reveal complex systems, identify where to intervene or contribute",
+      "purpose": "Better decision-making in nonlinear systems"
+    }
+  ],
+  "questionsRaised": [
+    "Why are we all having one-on-ones with ChatGPT instead of having LLMs as participants in group conversations?",
+    "How do we share AI conversation insights without bombarding each other with long transcripts?",
+    "Is enshittification tightly correlated with monetization?",
+    "Can platforms sustain economically without volunteer labor or enshittification?",
+    "How do we build software with appropriate reach that can be sustained without falling into enshittification?",
+    "What do people want out of this group/conversation?",
+    "How do we get to common understanding at semantic level without requiring agreement?",
+    "How do we handle complex array of variables in nonlinear systems for better decision-making?",
+    "Why is Jerry's 'big fungus' / 'global mind' vision not happening? (Jerry: 'We haven't done much of that at all')",
+    "How do maps become useful to others without slow unpacking?",
+    "Can AI be excellent listeners and summarizers in group conversations?",
+    "What's the name of Jerry's anonymized focus group app? (Jerry couldn't remember)"
+  ],
+  "resourcesShared": [
+    {
+      "type": "AI tool",
+      "name": "Pi.ai",
+      "description": "Conversational AI that gave Jerry 'best interview ever' experience",
+      "sharedBy": "Jerry Michalski"
+    },
+    {
+      "type": "tool",
+      "name": "Fathom",
+      "description": "AI note-taker (Gil uses, Jerry resents)",
+      "sharedBy": "Gil Friend (using it)"
+    },
+    {
+      "type": "tool in development",
+      "name": "Thinkertoys",
+      "creator": "Shawn Murphy",
+      "description": "Collaborative knowledge tool with AI, graph visualizations, real-time group work",
+      "status": "Deploying latest version, will invite OGM for trial"
+    },
+    {
+      "type": "historical platform",
+      "name": "The Well",
+      "location": "Sausalito",
+      "technology": "PicoSpan bulletin board system",
+      "sharedBy": "Jerry Michalski",
+      "about": "His first online community experience"
+    },
+    {
+      "type": "anonymized focus group app",
+      "description": "60-70 people, color + animal names, AI summarizing breakouts, cross-fertilizing",
+      "sharedBy": "Jerry Michalski",
+      "status": "Jerry can't remember name, will rediscover"
+    }
+  ],
+  "emotionalTone": "Excited about AI possibilities, wrestling with practical challenges, reflective on OGM's purpose and limitations, hopeful about tools being built",
+  "participationNotes": {
+    "Jerry Michalski": "Facilitator, wrestling with global mind vision vs salon reality, excited about AI tools, shared pi.ai experience",
+    "John Warinner": "Major epiphany about AI as group participant, Gene Bellinger wisdom about mapping vs map",
+    "Stacey Druss": "Practical AI use (podcast creation), Facebook creation story, defending community-first approach",
+    "Gil Friend": "Probing questions about enshittification and monetization, sustainability of volunteer labor",
+    "Alex Kladitis": "Purpose question ('What do people want out of this?'), email vs deep study mode distinction",
+    "Kevin Jones": "RETURNED after being absent Calls 07-09! Minimal participation, suggested John's questions were good",
+    "Jose Leal": "Wasn't at Call 09, minimal participation Call 10",
+    "Shawn Murphy": "Demonstrated Thinkertoys, inviting group to try it",
+    "Doug Breitbart": "Deep reflection on getting to understanding, decision-making, complex systems"
+  },
+  "specialNotes": [
+    "KEVIN JONES RETURNED after being absent Calls 07-09 (Batch 3)",
+    "Call 10 continues Call 09 meta-discussion - becoming extended conversation about OGM and AI",
+    "John Warinner's epiphany is central: why one-on-ones with AI when AI could be here with us?",
+    "Multiple practical AI tools mentioned: Stacey's podcast, Jerry's focus group app, Shawn's Thinkertoys, Gil's Fathom",
+    "Jerry's frustrated desire: 'I'd really like to build a global mind... We haven't done much of that at all' - salon culture vs bodies of work tension continuing",
+    "Doug's purpose statement is profound: getting to common understanding for better decision-making",
+    "Gene Bellinger mentioned multiple times: mapping vs map, systems thinking mentor to John and Doug",
+    "Jerry's Brain curation for two audiences: himself AND random person coming along",
+    "Enshittification and monetization deep question from Gil",
+    "Shawn Murphy building exactly what group is discussing - will invite OGM to try"
+  ],
+  "crossCallThemes": [
+    "OGM purpose and identity (Calls 05, 09, 10)",
+    "AI tools and collaboration (new focus in Call 10)",
+    "Maps and knowledge sharing (Gene Bellinger influence)",
+    "Salon vs bodies of work (Calls 09, 10)",
+    "Platform challenges (Calls 09, 10)",
+    "Definition and understanding (Call 05 sense-making → Call 10 common understanding)"
+  ],
+  "connectionsToOtherCalls": {
+    "call09": "Direct continuation - Call 09 asked 'Do we want to grow?' and 'What tools?', Call 10 explores 'Why are we here?' and demonstrates tools (Thinkertoys)",
+    "call05": "Sense-making meta-discussion (Call 05) → Getting to common understanding (Call 10 Doug's purpose)",
+    "call07": "Collaboration discussion (Call 07) → Collaborative knowledge tools (Call 10 Shawn's Thinkertoys)"
+  },
+  "kevinJonesReturn": {
+    "lastSeen": "Call 06 (Sept 4) - finding role helping Swannanoa without being in sadness",
+    "absence": "Calls 07, 08, 09 (all of Batch 3)",
+    "return": "Call 10 (Oct 9) - minimal participation, suggested John's questions were good",
+    "status": "Back but quiet - need to watch future calls for more engagement",
+    "critical": "Was this one-time return or resuming participation?"
+  }
+}
