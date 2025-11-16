@@ -1,0 +1,213 @@
+{
+  "callNumber": "01",
+  "date": "2025-07-31",
+  "title": "Grief and Societal Trauma",
+  "duration": "~98 minutes",
+  "type": "Hybrid (check-in elements + topical discussion)",
+  "participants": [
+    "Jerry Michalski",
+    "Klaus Mager",
+    "Gil Friend",
+    "Kevin Jones",
+    "Eric Rangell",
+    "Stacey Druss",
+    "Ken Homer",
+    "Scott Moehring",
+    "Hank Kune"
+  ],
+  "facilitator": "Jerry Michalski",
+  "mainTopics": [
+    "Grief and trauma (societal and personal)",
+    "Intergenerational trauma",
+    "German war guilt and processing",
+    "Israeli-Palestinian conflict",
+    "Climate disasters and community resilience",
+    "9/11 as generational marker",
+    "Truth and reconciliation processes",
+    "Gender-based violence and power dynamics",
+    "Institutional protection of perpetrators"
+  ],
+  "keyThemes": {
+    "societalGrief": {
+      "description": "How societies process collective trauma vs. individual grief",
+      "examples": [
+        "German post-WWII trauma and guilt",
+        "Pinochet's Chile",
+        "Argentina's Dirty War",
+        "Gaza/Israel conflict",
+        "Swannanoa flood (Hurricane Helene)",
+        "9/11 attacks"
+      ]
+    },
+    "intergenerationalTrauma": {
+      "description": "Trauma passed through generations",
+      "contributors": ["Klaus Mager", "Gil Friend", "Jerry Michalski"],
+      "keyInsights": [
+        "Klaus: Watching concentration camp footage as child in Germany",
+        "Generational defensiveness vs. shame",
+        "Holocaust survivors' trauma transmission",
+        "Palestinian/Israeli generational wounds"
+      ]
+    },
+    "climateDisasters": {
+      "description": "Community collapse after natural disasters",
+      "contributors": ["Kevin Jones", "Klaus Mager"],
+      "keyPoints": [
+        "Swannanoa community devastation",
+        "Leadership exhaustion in affected communities",
+        "FEMA inadequacy",
+        "Oregon wildfire recovery comparison"
+      ]
+    },
+    "genderViolence": {
+      "description": "Systemic male violence and institutional complicity",
+      "contributor": "Stacey Druss",
+      "keyPoints": [
+        "80%+ violent crimes perpetrated by men",
+        "Child trafficking and abuse networks",
+        "Institutional protection of perpetrators",
+        "Cultural silence and complicity",
+        "Need for men to speak out in their circles"
+      ]
+    },
+    "griefProcessing": {
+      "description": "How to process grief well vs. poorly",
+      "approaches": [
+        "Telling stories (Jerry: family history lost)",
+        "Truth and reconciliation (Argentina, South Africa)",
+        "Documentary evidence (Matthew Brady's Civil War photos)",
+        "Jewish tradition of acknowledging grief in all life events",
+        "Artistic community building (Marshall High Studios)"
+      ]
+    }
+  },
+  "storiesShared": [
+    {
+      "teller": "Klaus Mager",
+      "topic": "Growing up in post-war Germany",
+      "summary": "Born 1949, exposed to concentration camp footage as young child, witnessed parents' generation's defensiveness and rationalization",
+      "impact": "Shaped understanding of collective guilt and intergenerational trauma"
+    },
+    {
+      "teller": "Kevin Jones",
+      "topic": "Swannanoa Hurricane Helene aftermath",
+      "summary": "Fled to Europe after disaster, community leadership exhaustion, property disputes with children, moving to Asheville",
+      "impact": "Example of long-term community trauma and collapse of social fabric"
+    },
+    {
+      "teller": "Jerry Michalski",
+      "topic": "Buenos Aires robbery and Argentina return",
+      "summary": "Held up at gunpoint age 11-12, returned after MBA to work with Russell Ackoff, received 'Nunca Mas' book",
+      "impact": "Personal connection to Argentina's truth & reconciliation"
+    },
+    {
+      "teller": "Eric Rangell",
+      "topic": "9/11 witness",
+      "summary": "Worked in New York, took PATH trains, saw wreckage",
+      "impact": "Generational marker for Gen X, questioning if grief was 'shelved'"
+    },
+    {
+      "teller": "Stacey Druss",
+      "topic": "Marriage to 'fight to win' husband",
+      "summary": "Ex-husband's win-at-all-costs mentality killed family, Stacey escaped. Also childhood memory of boy suffocating frogs",
+      "impact": "Examples of male violence normalized from childhood, calling for men to speak out"
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "Truth and Reconciliation",
+      "context": "Argentina, South Africa, Canada",
+      "discussedBy": ["Jerry Michalski", "Gil Friend", "Klaus Mager"],
+      "effectiveness": "Mixed - helps acknowledgment but doesn't always solve underlying issues"
+    },
+    {
+      "name": "Jewish grief tradition",
+      "context": "Acknowledging grief throughout life cycle",
+      "introducedBy": "Eric Rangell",
+      "keyPoint": "Always bittersweet, never perfect happiness (oy), Tisha B'Av fast day"
+    },
+    {
+      "name": "3 C's of processing",
+      "elements": ["Choose", "Connect", "Communicate"],
+      "mentionedBy": "Stacey Druss"
+    }
+  ],
+  "questionsRaised": [
+    "How do societies process grief well vs. poorly?",
+    "Did making Nazi symbols illegal suppress or help processing in Germany?",
+    "How do we process large-scale grief when disasters keep coming?",
+    "Where are the boys who become traffickers coming from?",
+    "How do institutions protect perpetrators and what's the cost?",
+    "Can processing grief build resilience for climate disasters?"
+  ],
+  "resourcesShared": [
+    {
+      "type": "movie",
+      "title": "Forgiving Dr. Mengele",
+      "sharedBy": "Eric Rangell",
+      "about": "Holocaust twin survivor who built museum"
+    },
+    {
+      "type": "movie",
+      "title": "The Zone of Interest",
+      "sharedBy": "Eric Rangell",
+      "about": "Nazi complicity - any of us could become Nazis"
+    },
+    {
+      "type": "movie",
+      "title": "Worth",
+      "sharedBy": "Eric Rangell",
+      "about": "9/11 victim compensation - value of human life"
+    },
+    {
+      "type": "organization",
+      "name": "Marshall High Studios",
+      "sharedBy": "Kevin Jones",
+      "about": "Artist collective rebuilding Marshall, NC after Hurricane Helene"
+    },
+    {
+      "type": "business",
+      "name": "McMenamins",
+      "sharedBy": "Jerry Michalski",
+      "about": "Oregon family restoring derelict properties into community venues"
+    },
+    {
+      "type": "book",
+      "title": "Nunca Mas (Never Again)",
+      "context": "Argentina's disappeared persons report",
+      "mentionedBy": "Jerry Michalski"
+    }
+  ],
+  "checkIns": {
+    "format": "Embedded in discussion (no formal check-in round)",
+    "personalUpdates": [
+      {
+        "speaker": "Jerry Michalski",
+        "update": "Going to Bergamo, Italy for 10 days vacation"
+      },
+      {
+        "speaker": "Kevin Jones",
+        "update": "Back in Swannanoa after fleeing to Europe, but planning to rent in Asheville and leave Swannanoa"
+      }
+    ]
+  },
+  "emotionalTone": "Heavy, intense, cathartic. Participants processing deep trauma. Moments of silence and stillness noted.",
+  "participationNotes": {
+    "Jerry Michalski": "Facilitator, shared personal family history loss, Argentina story",
+    "Klaus Mager": "Deep sharing on German post-war trauma, very vulnerable",
+    "Gil Friend": "Connected themes to current events, father's WWII service",
+    "Kevin Jones": "Raw sharing about Swannanoa devastation and leadership exhaustion",
+    "Eric Rangell": "9/11 witness, Jewish grief traditions, movie recommendations",
+    "Stacey Druss": "Powerful testimony on gender violence and institutional complicity",
+    "Ken Homer": "Less vocal this call (noted by Jerry)",
+    "Scott Moehring": "Present but minimal contribution in excerpt read",
+    "Hank Kune": "Appeared at end of excerpt"
+  },
+  "nextCallNotes": "Next week (Call 02) will be a check-in call. Jerry will be away in Italy, looking for volunteer host.",
+  "specialNotes": [
+    "Jerry noted group was 'stiller than usual' - heavy topic impact",
+    "Stacey noted she was only woman on call - made her statement harder",
+    "Call went ~98 minutes - longer than usual, deep processing",
+    "Referenced 'last week's call on grief' (suggests ongoing series)"
+  ]
+}
