@@ -1,0 +1,271 @@
+{
+  "callNumber": "14",
+  "date": "2025-11-06",
+  "title": "OGM Check-in Call: Consciousness, Bubbles, and Cross-Connections",
+  "duration": "~90 minutes",
+  "type": "Check-in",
+  "participants": ["Jerry Michalski", "Scott Moehring", "David Witzel", "Klaus Mager", "Mike Nelson", "Doug Breitbart", "Pete Kaminski", "Gil Friend", "Alex Kladitis", "Rick Botelho", "Victoria"],
+  "facilitator": "Jerry Michalski",
+  "mainTopics": ["Remixability", "Non-local consciousness", "Psilocybin journey", "AI bubble", "OGM cross-connections", "Investment strategy"],
+  "keyThemes": {
+    "remixability": {
+      "contributor": "Scott Moehring",
+      "kevinMcLeod": "Most prolific composer you've never heard of - 2,000 pieces of royalty-free music under Creative Commons",
+      "impact": "One song played 31.6 billion times (TikTok, Facebook Reels)",
+      "conceptShift": "Instead of making meals, make ingredients or recipes - things other people can and want to use to create things that are theirs",
+      "vs": "Spending time creating something perfect and self-contained, never to be taken apart",
+      "implication": "Create work that gives it a life of its own through remixing"
+    },
+    "growthMetaphors": {
+      "contributor": "David Witzel",
+      "problem": "Traditional economics relies on growth, but living systems economics needs different growth framework",
+      "zeroSumVsAbundance": "Tend to get trapped making things a little bit better, rarely positive sum abundance outcomes",
+      "economicsAsIndigenousKnowledge": "Don't throw away traditional economics, think of it as indigenous knowledge - what can we learn from it?",
+      "sourdoughStory": "Woman pioneers kept sourdough starter alive next to their breasts crossing mountains - sourdough growth as metaphor for living growth",
+      "question": "What metaphors from biological systems around growth inform traditional economics in new ways?"
+    },
+    "foodWithThought": {
+      "contributor": "Klaus Mager",
+      "trigger": "Union of Concerned Scientists 'yet another last urgent warning' - passing tipping points, will be ignored",
+      "missingPiece": "Transition to what can you actually do about this?",
+      "agricultureOfTheMiddle": "Small to medium-sized farmers can't get into market",
+      "foodMostDamaging": "Probably the most damaging part of our interaction with natural world - destroying watersheds, soils, biodiversity",
+      "capacityToRegenerate": "Has the capacity to recover, heal, regenerate",
+      "largeCompanies": "Monsanto, Nestle automating, 'climate smart technology', hugely capital intensive, will exclude more farmers",
+      "secondaryCrop": "Environmental benefits as second revenue stream - farmer has food crop + environmental benefit crop linked together",
+      "examples": "Mississippi Delta: reduce nitrogen runoff (easy to measure), incentives sufficient for conservative farmers",
+      "leverage": "By building secondary revenue stream, all other things fall into place - soil health, cover crops, no-till, rotation",
+      "marketResistance": "How easy it would be to make an impact, and how stubbornly resistant the market is to engage in change",
+      "targetMarket": "CSAs + farmers markets = only 3% of total sales. Get these farmers into wholesale market - bundling and aggregating"
+    },
+    "jerryPsilocybinJourney": {
+      "contributor": "Jerry Michalski",
+      "context": "First trip ever - never done drugs before",
+      "timing": "Day before the check-in call",
+      "setup": "Friend in neighborhood, completely trustworthy, safe and lovely, grew shrooms himself, tested on himself",
+      "experience": [
+        "Felt connected to mycelial networks of the world",
+        "Felt like 'I was everything all at once-ish'",
+        "Now understands special effects in movies - copying what happens when you see everything",
+        "Tried to leave 'little dorms or candles or gateways' to step back into experience without doing whole thing again",
+        "'Transformative... don't know how, but it was thrilling'"
+      ],
+      "nonLocalConsciousness": {
+        "danBrownBook": "The Secret of Secrets - plot point is non-local consciousness",
+        "sunilMalhotra": "1.5 years ago: 'What if consciousness isn't materialized from neurons, but is background radiation of universe? We occupy it, tune into it like radio station, when we die we meld back into it'",
+        "jerryRealization": "Already had non-local consciousness in brain from different research - same general idea",
+        "noeticScience": "Getting into woo-woo noetic science territory - beginning to respect a lot more",
+        "GABA": "Gamma-aminobutyric acid - primary inhibitor in neural system, high levels keep us from being overwhelmed",
+        "lowGABA": "Epilepsy - precipitous drop causes brain overwhelm and seizure, coming out: moments of bliss, connection with infinite",
+        "hallucinogens": "Seem to reduce GABA so you can perceive what's always happening around you - not generating hallucination, lowering filters",
+        "timing": "Read about GABA Tuesday night, had psilocybin journey Wednesday afternoon, check-in call Thursday"
+      },
+      "mrRogers": "April visited museum in Pittsburgh - Mr. Rogers told her 'you're okay just the way you are' during difficult childhood with mom, 'Kindness Zone' sign for the wall"
+    },
+    "aiBubble": {
+      "contributor": "Mike Nelson",
+      "wallStreetJournalDrumbeat": "At least one article daily for last 3 weeks: 'Oh my god, it's an AI bubble!'",
+      "AOLparallel": "Reminiscent of Time Warner bought by AOL - OpenAI is the AOL of our day, completely overinflated stock price",
+      "altmanStrategy": "Doing exactly the right thing - using it to buy, do all sorts of deals that won't look good in 1-2 years",
+      "economyNowAI": "Wall Street Journal: 'The U.S. economy is now AI' - all growth for 12+ months because of data center investment, take that out and economy's been flat",
+      "threeBubbles": "Cloud computing, AI chips, cryptocurrency",
+      "questions": [
+        "Will it drag down just AI-related companies?",
+        "Will it drag down entire tech sector?",
+        "Will it drag down entire market?",
+        "Where do you put the money? (Gold up by factor of 3 because people confused)",
+        "How many thinking of pulling profits from tech investments?"
+      ],
+      "mikesPosition": "Cloudflare stock (employee 130 before IPO), IBM stock, tend to invest in what I know",
+      "handsPoll": "Most raised hands: there's a bubble. 3.5 hands: changing investment strategy"
+    },
+    "peteWeirdTerritory": {
+      "contributor": "Pete Kaminski",
+      "bigPicture": "Been in a bubble since about PC era - one big tech bubble inflation thing going up and down, changing world and us",
+      "aiAsEndgame": "Feels like some kind of endgame - either amazing productivity and social justice, or crash hard because we've turned all matter into GPUs",
+      "likelyOutcome": "Some weird thing in the middle",
+      "pastBubbles": "'It's hard to say this out loud to professional people who care, but it feels like we're kind of post cash/gold/Bitcoin questions'",
+      "weirdTerritory": "All of that seems like the wrong questions at this point. We're passed where we've even thought about bubbles. We're in weird territory.",
+      "aiBackstop": "Will AI backstop you? Won't it? Maybe great, but won't be able to eat - need to apply AI to growing things, delivering food, regenerative soil",
+      "sheafMethodology": "Mentioned in check-in - Alex interested in learning more"
+    },
+    "gilFinancialStrategy": {
+      "contributor": "Gil Friend",
+      "notOneBubble": "Not one big bubble, it's a series of bubbles - some stabilized, some not",
+      "2008Parallel": "Government bailed out some banks and not others - whole too-big-to-fail game, in another one now",
+      "benHuntNumbers": "Tech sector ~5% of GDP now pouring more money into economy than consumer sector ~30% of GDP - only thing keeping economy afloat",
+      "maskingTariffs": "Totally swamping effects of tariffs, whatever else might be happening",
+      "microsoftDataCenters": "'Innovation at Microsoft' by Joanne Garvin - Data Center of the Future project, designed net-zero energy and net-zero water data centers",
+      "areBuildingThem": "Doesn't seem to be, theoretical possibility",
+      "financialAdvice": "Find your asset allocation strategy and stay there - rebalance periodically, that's how you move tech profits into other sectors",
+      "gilDifference": "Should be much more offshore than we are now - diversify out of US into international because of instability here"
+    },
+    "dougTabGroupsRevelation": {
+      "contributor": "Doug Breitbart",
+      "problem": "250 tabs open across multiple browser windows, laptop overwhelmed, 'what do I do now' feeling",
+      "discovery": "Browser tab groups feature - never knew what it was called or where to find it",
+      "transformation": "Able to sort and bucket tabs into groups, close groups, close browser windows, freed up machine resources",
+      "lifeChanging": "Poor little laptop could function again, things started to flow, not be in overwhelm - 'This is life-changing for someone like me'",
+      "coreBeliefs": [
+        "Every human being has value to add and contribute",
+        "What do each one of those individuals need in order to be enabled to contribute?",
+        "How do we meet everyone's needs?",
+        "Everything else substantially irrelevant if not germane to those inquiries"
+      ],
+      "capacityUnleashed": "Tab groups unleashed flood tide of capacity - organizing, moving into action, unleashing the hounds",
+      "ogmNexus": "Touching bunch of projects - OGM people or people that have dipped in and out",
+      "crossConnections": "Starting to coalesce - two completely independent projects connect, Doug aware of both, aware of how they complement and fit larger context",
+      "ogmCommon": "List of about 12 projects, 60% have OGM in common",
+      "hatTipJerry": "Being the energetic center of gravity out of which a lot of these things connected with, met, and now coalesceable"
+    },
+    "dougDataCenterInsanity": {
+      "contributor": "Doug Breitbart",
+      "observation": "Rate at which energy technology, battery technology, quantum computing progressing",
+      "obsolescence": "Massive billion-dollar data center investments obsolete in 18 months",
+      "doesntMakeSense": "On intuitive logical level, it doesn't make sense. It's gotta blow up. When it's too good to be true, it defies reality.",
+      "layoffs": "Biggest players canning 30, 40, 50K people to divert resource to constructing data centers",
+      "verdict": "That's the end. Not the beginning of the end. Not a bubble. That's the end of whatever this has been.",
+      "insaneLogicalConclusion": "Reached its insane logical conclusion as a capitalist train run amok",
+      "aftermath": "Don't know what's after that, but I do know what's ending. Thank God. It needed to go away. We need to do us differently and better if we're not gonna go extinct."
+    },
+    "alexInvestingAntiTalent": {
+      "contributor": "Alex Kladitis",
+      "pattern": "Always sold when I should have bought, and bought when I should have sold",
+      "strategy": "Few years back: keep 40% of money in pure cash because obviously market's gonna crash",
+      "stillThere": "It's still there. Haven't yet bought into the market.",
+      "indicator": "As soon as I'm tempted and buy the market, I will let all of you know - that is a time to get out",
+      "cashProblem": "Cash losing its value wherever you are (not in Swiss francs)",
+      "mikeRelatability": "Mike: 'I am in the same category you are' - sold shares that went on to 6x value",
+      "blockchainParallel": "In the throes of blockchain temperature 2015 - NVIDIA skyrocketed for Bitcoin mining cards",
+      "obsolescenceEcho": "Graphics cards became obsolete within 18 months (exactly as Doug said) - created backwash second-hand market for games",
+      "datacenters": "All these data centers becoming obsolete maybe produce cheap alternative computing power for something"
+    }
+  },
+  "emergingConnections": {
+    "ogmAsGravitationalCenter": "Doug: 12 projects, 60% have OGM in common, cross-connecting via individuals and conversations, Jerry as energetic center",
+    "consciousnessExpansion": "Jerry: Non-local consciousness (Sunil + Dan Brown) + psilocybin journey lowering GABA filters = seeing what's always there",
+    "obsolescencePattern": "Doug on data centers + Alex on blockchain NVIDIA cards: 18-month obsolescence cycle, second-hand markets",
+    "beyondBubbles": "Pete: We're past where we've thought about bubbles - weird territory, wrong questions. Doug: It's the end, not a bubble.",
+    "growthReframe": "David: Living systems growth (sourdough) vs traditional economics growth - need new metaphors",
+    "secondaryRevenue": "Klaus: Environmental benefits as second crop for farmers - leverage point that shifts entire system"
+  },
+  "checkInOrder": [
+    {"name": "Scott Moehring", "topic": "Remixability (Kevin McLeod music)"},
+    {"name": "David Witzel", "topic": "Growth metaphors (sourdough starter story)"},
+    {"name": "Klaus Mager", "topic": "Food with Thought, environmental benefits as second crop"},
+    {"name": "Jerry Michalski", "topic": "Mr. Rogers museum, non-local consciousness, first psilocybin journey"},
+    {"name": "Mike Nelson", "topic": "AI bubble, investment strategy (didn't fully check in during check-in round, raised in conversation)"},
+    {"name": "Doug Breitbart", "topic": "Tab groups life-changing, OGM cross-connections"},
+    {"name": "Rick Botelho", "topic": "Passed"}
+  ],
+  "conversationPhase": {
+    "description": "Post-check-in discussion dominated by AI bubble and investment strategy",
+    "mikeQuestion": "Where do you put the money if divesting from tech?",
+    "responses": {
+      "Gil": "Asset allocation strategy and stay there, rebalance periodically, diversify offshore",
+      "Pete": "We're in weird territory past bubble questions, some weird outcome in the middle",
+      "Doug": "Data centers obsolete in 18 months, the end of capitalist train run amok",
+      "Alex": "40% cash, will let everyone know when I buy (that's the signal to sell), blockchain NVIDIA obsolescence parallel",
+      "Jerry": "Too-big-to-fail territory, government put, timing is everything in bubbles"
+    }
+  },
+  "specialNotes": [
+    "Jerry's first psychedelic experience ever - transformative psilocybin journey day before call",
+    "Non-local consciousness theme: Sunil Malhotra 1.5 years ago + Dan Brown's new book + Jerry's psilocybin experience all converging",
+    "Doug's 'OGM as energetic center of gravity' - 12 projects, 60% connected through OGM",
+    "AI bubble consensus - most hands up, but divergent perspectives on what it means",
+    "Pete's 'weird territory' - past where we've thought about bubbles",
+    "Doug's 18-month data center obsolescence paralleled by Alex's blockchain NVIDIA story",
+    "Klaus's 'stubbornly resistant market' vs clear solutions (environmental benefits as second crop)",
+    "Scott's remixability: ingredients/recipes instead of finished meals",
+    "David's sourdough growth metaphor for economics",
+    "Mr. Rogers role in April's childhood - 'you're okay just the way you are' when mom relationship difficult"
+  ],
+  "emotionalTone": "Transformative (Jerry), concerned (Mike on bubble), hopeful (Klaus on regenerative), reflective (Doug on enabling contribution), apocalyptic-but-relieved (Doug on end of capitalist train)",
+  "participationNotes": {
+    "Jerry Michalski": "Facilitator, shared MAJOR personal transformation (first psilocybin journey), non-local consciousness convergence, Mr. Rogers story",
+    "Scott Moehring": "Remixability concept - create ingredients not finished meals, Kevin McLeod 31.6 billion plays",
+    "David Witzel": "Growth metaphors from living systems to economics, sourdough starter story",
+    "Klaus Mager": "Food with Thought progress, environmental benefits as second crop, market resistance",
+    "Mike Nelson": "AI bubble drumbeat, investment strategy questions, Cloudflare position, three bubbles identified",
+    "Doug Breitbart": "Tab groups life-changing, OGM gravitational center, data centers obsolete in 18 months, 'the end' verdict",
+    "Pete Kaminski": "Sheaf methodology, weird territory past bubbles, AI as endgame",
+    "Gil Friend": "Asset allocation strategy, Microsoft net-zero data centers, diversify offshore, Ben Hunt numbers",
+    "Alex Kladitis": "Anti-investment talent, 40% cash, blockchain NVIDIA parallel, will signal when to sell",
+    "Rick Botelho": "Passed on check-in, listening"
+  },
+  "resourcesShared": [
+    {
+      "type": "composer",
+      "name": "Kevin McLeod",
+      "sharedBy": "Scott Moehring",
+      "about": "2,000 pieces royalty-free music, Creative Commons, 31.6 billion plays on one song, most prolific composer you've never heard of"
+    },
+    {
+      "type": "book",
+      "title": "The Secret of Secrets",
+      "author": "Dan Brown",
+      "sharedBy": "Jerry Michalski",
+      "about": "Non-local consciousness as plot point, GABA and hallucinogens, marginalization of divine feminine"
+    },
+    {
+      "type": "book",
+      "title": "The Alphabet vs. the Goddess",
+      "author": "Leonard Schlane",
+      "sharedBy": "Jerry Michalski",
+      "about": "Marginalization of divine feminine thesis from academic perspective"
+    },
+    {
+      "type": "book",
+      "title": "Innovation at Microsoft",
+      "author": "Joanne Garvin",
+      "sharedBy": "Gil Friend",
+      "about": "Data Center of the Future project, net-zero energy and net-zero water data centers"
+    },
+    {
+      "type": "organization",
+      "name": "Union of Concerned Scientists",
+      "sharedBy": "Klaus Mager",
+      "about": "Sending 'yet another last urgent warning' about climate tipping points from Oregon/Portland State hub"
+    },
+    {
+      "type": "concept",
+      "name": "Tab Groups",
+      "sharedBy": "Doug Breitbart",
+      "about": "Browser feature for organizing 250+ tabs - life-changing for people with executive function challenges"
+    },
+    {
+      "type": "methodology",
+      "name": "Sheaf",
+      "sharedBy": "Pete Kaminski",
+      "about": "Alex interested in learning more - not fully described in call"
+    },
+    {
+      "type": "analyst",
+      "name": "Ben Hunt",
+      "sharedBy": "Gil Friend",
+      "about": "Tech sector ~5% GDP pouring more money into economy than consumer sector ~30% GDP"
+    }
+  ],
+  "crossCallThemes": [
+    "AI and tools (Calls 03, 10, now 14 with AI bubble)",
+    "Non-local consciousness new theme (Jerry's journey)",
+    "OGM identity (Call 09 salon vs bodies of work → Call 14 Doug's gravitational center insight)",
+    "Klaus food systems (Call 06 → Call 14 Food with Thought progress)",
+    "Investment and economics (new focus in Call 14)",
+    "Growth questions (Call 09 OGM growth → Call 14 David's growth metaphors for economics)",
+    "Technology skepticism (Call 12 progress stopped → Call 14 AI bubble, Doug's data center end)"
+  ],
+  "questionsRaised": [
+    "What metaphors from biological growth inform economics? (David)",
+    "How do we transition from climate warnings to 'what can you actually do'? (Klaus)",
+    "Is there an AI bubble? (Mike - most hands up yes)",
+    "Will AI bubble drag down just AI, tech sector, or entire market? (Mike)",
+    "Where do you put money if divesting from tech? (Mike)",
+    "How do we meet everyone's needs to enable their contribution? (Doug)",
+    "Are massive data center investments obsolete in 18 months? (Doug - yes)",
+    "What comes after the end of the capitalist train run amok? (Doug)",
+    "Can we apply AI to regenerative agriculture before we can't eat? (Pete)",
+    "Should we diversify offshore because of US instability? (Gil)"
+  ]
+}
