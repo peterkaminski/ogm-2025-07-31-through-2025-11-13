@@ -700,3 +700,160 @@ Jerry: "So sobering"
 - Jerry: "Ladies of OGM underrepresented today, which makes me sad"
 
 ---
+
+## Call 07: 2025-09-11 - On Collaboration (DETAILED NOTES)
+
+### Participants
+- Jerry Michalski (facilitator)
+- Gil Friend
+- Kevin Jones
+- Mike Nelson
+- Scott Moehring (instigator of topic)
+- Stacey Druss
+- Ken Homer
+- Jose Leal
+- Doug Breitbart
+- Alex Kladitis
+
+### Core Question
+Scott's provocation: **Does collaboration actually happen?** Especially collaboration between groups with independent goals. Scott distinguished collaboration from teamwork.
+
+### Key Definitions & Frameworks
+
+**Scott's Collaboration vs Teamwork Distinction:**
+- **Collaboration**: Unique individuals creating something they couldn't create separately, not just because of manpower but because of unique interaction. If you change individuals, you fundamentally change the collaboration. Named by individuals (e.g., chef & restaurateur designing restaurant).
+- **Teamwork**: Roles are plug-and-playable. Take one person out, put another in same role, outcome same (e.g., kitchen executing recipes, bucket brigade).
+- **Test**: If collaborators can't say what they're doing in the same way, maybe they're not actually collaborating.
+- **Observation**: Most time, one person's vision, others getting on board - not true collaboration.
+
+**Kevin's Ronald Coase Transaction Theory:**
+1. **Discovery** - who's doing what?
+2. **Cooperation** - one-off cooperations that work in that instance
+3. **Coordination** - signals automated, roles agreed on and not revisited (e.g., train track width standardized)
+- Partners vs Stakeholders: Partners on team, stakeholders have validation/resources you want to access
+- "Social entrepreneurs express their delusion" about coordination
+
+**Ken's 4 Conversations Framework (20 years of practice):**
+1. **Shared Meaning** - Why are we here? What do you bring? What do you want to get out of it? Ends with everyone having sense of commonality.
+2. **Generate Possibilities** - Improv exercises, explore what's possible (even suspending rules/physics), then choose what has best chance of succeeding with real constraints.
+3. **Coordinate Actions** - What business school teaches: goals, timeline, critical path, resource allocation. (Most people start here and fail!)
+4. **After-Action Review** - Who needs acknowledgment? What can we replicate? What taught us lessons? What did something unexpected (not "failure")? What competencies developed?
+
+**Ken's Additional Insights:**
+- Need conversational competency: "right conversation about right thing at right time with right people"
+- Teams fail because they lack conversational competency, not skill/resources/intentions
+- Humanize work: Know what each person looks like when stressed, how to support through conflict
+- Dan Pink: People want purpose, autonomy, mastery
+
+**Jose's Cooperation vs Collaboration:**
+- **Cooperation** (corporate norm): Teams work independently, linear handoffs ("you do your side, I do my side")
+- **Collaboration** (rare): Work TOGETHER in moment, developing simultaneously, not handoffs
+- Requires dropping ego, letting juices flow, bouncing off each other
+- "I disagree with Gil - it's rare to get true collaboration"
+
+**Doug's Post-Industrial Collaboration:**
+- Can we co-create without industrial age afflictions? (ownership, power over, ego, attachment, fear, scarcity)
+- Not relating to humans as machine parts but as living emotional creatures
+- Nigerian woman's foundation: Conduit/pipeline model, non-proprietary relationship with beneficiaries, networking with other organizations vs closed-system competition
+- Co-create from abundance not scarcity, porous boundaries not hard, curiosity/appreciation not control
+
+### Major Stories & Examples
+
+**Jerry's Ugly Oranges Case (Management 101):**
+- Last shipment of unique oranges, $1M budget, two competing groups
+- One needs pith/peel for cancer serum, other needs juice
+- Could split for $1 and spend $999,999 on research vs contentious negotiation
+- Lesson: Investigate what parties actually need
+
+**Jerry's Aboriginal Australia (The Biggest Estate on Earth by Bill Gammage):**
+- 2/3 of Australia under active human management before First Fleet
+- Mobile tribes managing complementary ways, no fences/ownership
+- Plant spinifex near forest, kangaroos feed there, next tribe catches some (not all)
+- First Fleet diaries: "Like a gentleman's forest - reach up, there's an apple, look down, there's a gourd"
+- Collaboration with land over 30,000 years
+- Sheep from ships "tear up this man-made landscape" - capitalism "quite voracious"
+
+**Ken's Ancient Futures - Learning from Ladakh:**
+- Before road arrived: In complete harmony with environment, balanced population
+- Women had multiple husbands, husbands spent time in monasteries (population control)
+- Everyone had shelter, food, education
+- Irrigation commons: See water draining? Fix it yourself, don't call Public Works
+- "Real collaborative commons architecture"
+- Weak link: Teenage boy wanting to be cool like James Dean, shattered everything
+
+**Ken's Banker Client Story:**
+- "We have to obey stringent rules, no choice"
+- Ken: "What if unlimited budget, suspend laws of physics?" (improv)
+- Found several ways to meet rules AND feel innovative, fulfilling, growing
+
+**Gil's Stuart Hill "Lie Boldly" Technique:**
+- Farmers talking regenerative futures - mood down, boring, constrained, limited steps
+- Asked to tell biggest possible lie about imagined future
+- Room changed: laughter, play, vibrancy
+- One: "Ran nature strip through 20,000 acres, birds returned" - spun whole ecological vision
+- "Wasn't possible until invited to lie boldly"
+- Episode: "Lying Boldly as Tool for Change"
+
+**Alex's Rhodes, Greece Story:**
+- Italians (WWI-WWII) created beautiful hilltop gardens above father's village
+- Allocated 50-meter sections, each gardener responsible for specific piece
+- "Nothing would have happened without collaboration" but direct individual responsibility
+- Greeks let it go to ruin after
+
+**Mike's "China vs America" Book:**
+- China: Engineers in charge who want to construct
+- America: Lawyerly society where goal is to obstruct
+- One lawyer for one client can shut down $10B project for years
+- "Should be concerned about investment portfolio if 80% American stocks/bonds"
+
+### Closing Poem
+**"Conspiracy of Silence" by Ken Homer (ORIGINAL POEM)**
+
+"It's been quite while since I was among people where we were all silent together.  
+I'm feeling a need to join with such people now.  
+I'm feeling a need to be with people who are willing to shut up for a while.  
+To be with people who want to be quiet. People who want to be still for a bit.  
+I'm feeling a need to be with people who want to resist the impulse to make sudden moves.  
+I'm feeling a need to be with people who want to spend more time and effort on understanding than they do on explaining.  
+And to those people, I offer this invitation and invocation.  
+Let us come together in silence and breathe deeply.  
+Let us breathe deeply until we can stand with ease inside each of us.  
+Let us breathe deeply until we can send with ease, connecting each other.  
+Let us breathe deeply until we can look into each other's eyes and not flinch.  
+Let us breathe deeply until we can talk about what we see in each other's eyes.  
+Let us breathe deeply until we can breathe together in peace.  
+Let us breathe deeply until we can breathe peace into the world, and most of all,  
+Let us breathe deeply until we can feel the world breathe peace into us."
+
+### Notable Quotes
+- Scott (Inigo Montoya meme): "You keep using that word. I don't think it means what you think it means."
+- Kevin: "Nobody changes from their own goals. Ships going by, lower drawbridge, get a little bit across, but nobody..."
+- Mike: "5 people collaborate, one does 80% of work, four take all credit and get in the way"
+- Mike: "Skeptical of collaboration for collaboration's sake. Need deadline and someone with real motivation."
+- Jose: "Rare that both parties drop ego... sit down together and let juices flow"
+- Doug: "Can we co-create from abundance not scarcity, porous boundaries not proprietary?"
+- Jerry: "Capitalism is quite voracious"
+- Ken: "Most people start with conversation 3 [coordination], which is why so many things break down"
+- Ken: "I never use word 'failure' - very freighted, not pleasant"
+- Scott: "Is there anything that celebrates the human more than deep, true collaboration? ...how addictive... wall isn't there anymore... I'm actually seeing another person"
+- Scott: "Rare and precious and delightful... oh yeah, more more please"
+- Gil: "Lying boldly as tool for change"
+- Gil: "What's possible is constrained by history, experience, and fear of imagining"
+- Ken: "Entire continent [North America] completely under care... Europeans didn't recognize whole continent shaped as food farm"
+- Scott (to Ken): "If you are practiced in saying that, awesome. If that was just an awesome riff... captured in such compact dense perfect nutshell"
+- Ken: "I've been doing this for 20 years, Scott. I talk about this all the time."
+
+### Cross-References
+- Last week's check-in (Call 06) - Scott's question on collaboration announced
+- Jerry: "Maybe anybody has a thought and wants to run the call, let me know" (for next week)
+- Kevin (at end): "The idea is how to collaborate to oppose" (potential future topic)
+
+### Meta-Observations
+- Jerry forgot to turn on recorder at start ("My apologies")
+- Gil's dual presence (dark screen note-taker) confused Scott
+- Scott described this as addictive, rare, precious experience
+- Deep philosophical exploration of what collaboration actually means
+- Tension between defining words vs experiencing the thing itself
+- Gil: "Wary of having debate about words where we're using words in different ways about meanings of different things we aren't even clear about"
+
+---
