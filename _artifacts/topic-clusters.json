@@ -1,0 +1,79 @@
+{
+  "topics": {
+    "Grief & Trauma": {
+      "description": "Personal and societal grief, intergenerational trauma, processing collective experiences",
+      "calls": ["01"],
+      "keywords": ["grief", "trauma", "loss", "processing", "societal grief", "war guilt"],
+      "preliminary": true,
+      "notes": "Call 01 mentions last week's call on grief, discusses German war guilt and generational processing"
+    },
+    "Collaboration": {
+      "description": "How we work together, collaboration practices and patterns",
+      "calls": ["07"],
+      "keywords": ["collaboration", "working together", "cooperation", "team"],
+      "preliminary": true,
+      "notes": "Explicit topical call on Collaboration (2025-09-11)"
+    },
+    "Abundance": {
+      "description": "Abundance mindset, resource thinking, generosity",
+      "calls": ["08"],
+      "keywords": ["abundance", "scarcity", "generosity", "resources"],
+      "preliminary": true,
+      "notes": "Explicit topical call on Abundance (2025-09-26)"
+    },
+    "Crony Capitalism": {
+      "description": "Economic systems, capitalism critique, corporate power",
+      "calls": ["13"],
+      "keywords": ["crony capitalism", "economics", "systems", "corporate", "power"],
+      "preliminary": true,
+      "notes": "Explicit topical call on Crony Capitalism (2025-10-30)"
+    },
+    "Check-ins & Community": {
+      "description": "Personal check-ins, community building, how we show up",
+      "calls": ["02", "06", "14"],
+      "keywords": ["check-in", "community", "personal", "connection"],
+      "preliminary": true,
+      "notes": "Check-in focused calls - Aug 7, Sep 4, Nov 6"
+    },
+    "General OGM Topics": {
+      "description": "Various topics from hybrid calls - to be refined after transcript analysis",
+      "calls": ["03", "04", "05", "09", "10", "11", "12", "15", "16"],
+      "keywords": ["to be determined"],
+      "preliminary": true,
+      "notes": "These calls need transcript analysis to identify specific themes. May include: trust, systems thinking, innovation, learning, governance, and other topics"
+    }
+  },
+  "meta": {
+    "created": "2025-11-16",
+    "phase": "Phase 0 - Initial clustering",
+    "status": "Preliminary - based on call names and initial observations",
+    "next_steps": [
+      "Refine during Phase 1 as transcripts are read",
+      "Split 'General OGM Topics' into specific themes",
+      "Identify cross-call recurring themes",
+      "Track topic evolution across calls"
+    ],
+    "notes": [
+      "Call 01 discusses grief and trauma (mentioned in transcript opening)",
+      "Calls 07, 08, 13 have explicit topics in directory names",
+      "Calls 02, 06, 14 are marked as check-in calls",
+      "Remaining calls (03-05, 09-12, 15-16) need deep transcript analysis"
+    ]
+  },
+  "call_type_distribution": {
+    "topical": {
+      "count": 3,
+      "calls": ["07", "08", "13"],
+      "topics": ["Collaboration", "Abundance", "Crony Capitalism"]
+    },
+    "check-in": {
+      "count": 3,
+      "calls": ["02", "06", "14"]
+    },
+    "hybrid": {
+      "count": 10,
+      "calls": ["01", "03", "04", "05", "09", "10", "11", "12", "15", "16"],
+      "notes": "Mix of check-ins and topical discussion"
+    }
+  }
+}
