@@ -13,6 +13,115 @@ You will receive artifacts from **multiple calls** (transcripts, chats, visual b
 
 ---
 
+## **Token Management: CRITICAL FOR SUCCESS**
+
+### **Why Token Management Matters**
+
+Processing 15 calls with 50+ participants and 100+ topics can easily exceed 2 million tokens if done naively. This leads to:
+- Context overflow and lost information
+- Inability to complete the work in one session
+- Wasted processing re-reading the same content
+- High costs and slow performance
+
+### **Core Token Management Principles**
+
+See **"Proposal for Token-Aware Workflow Design.md"** for complete details. Key principles:
+
+1. **Create Artifacts Early and Often**
+   - Extract structured data (JSON/CSV) from every processing pass
+   - Create markdown summaries at each level
+   - Commit artifacts immediately for resumability
+
+2. **Batch Processing with Context Clearing**
+   - Process 3-5 calls per batch, not all 15 at once
+   - Create batch summary after each batch
+   - Start fresh for next batch (read only the previous summary)
+
+3. **Use Structured Data Over Narrative**
+   - CSV/JSON for facts (participants, dates, attendance)
+   - Markdown summaries for synthesis
+   - Scripts for validation (zero tokens)
+
+4. **Targeted Reads Over Full Context**
+   - Use artifacts to know where to look
+   - Read only relevant sections when synthesizing
+   - Never re-read entire transcripts
+
+5. **Intermediate Summaries as Stepping Stones**
+   - Each level summarizes the level below
+   - Batch summaries prevent re-reading batches
+   - Running artifacts track cumulative state
+
+6. **Commit for Resumability**
+   - Any AI can pick up where you left off
+   - Artifacts contain extracted knowledge
+   - No re-processing if interrupted
+
+### **Artifact Directory Structure**
+
+All phases should create and use artifacts:
+
+```
+_artifacts/
+├── call-inventory.csv          # Phase 0: Call metadata
+├── participant-attendance.csv   # Phase 0: Who attended what
+├── topic-clusters.json         # Phase 0: Initial topic map
+├── call-01-data.json           # Phase 1: Structured call data
+├── call-02-data.json           # Phase 1: Per-call extraction
+├── ...
+├── batch-01-summary.md         # Phase 1: Batch rollup
+├── batch-02-summary.md         # Phase 1: Progressive summaries
+├── ...
+├── running-topics.json         # Phase 1: Updated incrementally
+├── running-participants.json   # Phase 1: Running attendance
+├── synthesis-notes.md          # Phase 4: Working notes
+└── verification-log.md         # Phase 6: QA results
+```
+
+### **Token Budget Comparison**
+
+| Phase | Without Artifacts | With Artifacts | Savings |
+|-------|------------------|----------------|---------|
+| Phase 0: Mapping | 80K | 4K | 76K (95%) |
+| Phase 1: All calls | 500K+ | 250K | 250K+ (50%) |
+| Phase 2-3: Hubs | 200K | 30K | 170K (85%) |
+| Phase 4: Synthesis | 1000K+ | 100K | 900K+ (90%) |
+| Phase 6: Quality | 200K | 10K | 190K (95%) |
+| **TOTAL** | **~2000K** | **~400K** | **~1600K (80%)** |
+
+### **Implementation Checklist for Token Management**
+
+Before starting each phase:
+- [ ] Check what artifacts already exist
+- [ ] Plan what new artifacts to create
+- [ ] Identify which artifacts to read (not transcripts!)
+
+During each phase:
+- [ ] Create artifacts BEFORE final pages
+- [ ] Commit artifacts immediately
+- [ ] Use batch processing (3-5 calls max per batch)
+- [ ] Create summaries after each batch
+
+Between sessions:
+- [ ] Update work-log.md with progress
+- [ ] Update detailed-todo-list.md with next steps
+- [ ] Commit all work for resumability
+
+When resuming work:
+- [ ] Read work-log.md first
+- [ ] Read latest batch-summary.md
+- [ ] Check _artifacts/ directory
+- [ ] Read detailed-todo-list.md
+- [ ] Continue from next task (NO re-processing)
+
+### **Key Insight**
+
+**We don't need all the data in context, we need the right data in context at the right time.**
+
+Artifacts enable this by providing structured, queryable representations of processed information.
+
+---
+
 ## **Phase 0: Multi-Call Mapping (CRITICAL FIRST STEP)**
 
 Before reading any transcripts deeply, create a comprehensive map of the landscape.
@@ -92,15 +201,36 @@ For calls with check-ins, note:
 
 ## **Phase 1: Per-Call Analysis**
 
-### 1.1 Read Each Call Completely
+**⚠️ TOKEN MANAGEMENT**: Process calls in batches of 3-5, not all at once. Create artifacts after each batch and commit before starting the next batch. See "Token Management" section above.
 
-For each of the 15 calls:
+### 1.1 Read Each Call Completely (Within Batches)
+
+**Batch Processing Pattern:**
+```
+Batch 1 (Calls 01-03):
+  1. Read call 01 completely (transcript, chat, artifacts)
+  2. Create Call 01 page + call-01-data.json
+  3. Read call 02 completely
+  4. Create Call 02 page + call-02-data.json
+  5. Read call 03 completely
+  6. Create Call 03 page + call-03-data.json
+  7. Create batch-01-summary.md
+  8. Update running-topics.json and running-participants.json
+  9. COMMIT all artifacts and pages
+  10. Start fresh for Batch 2 (read only batch-01-summary.md)
+```
+
+For each call within a batch:
 - Read entire transcript
 - Read all chat
 - Review any visual artifacts
 - **Separately track:**
   - Check-in content (personal updates, reflections)
   - Topical discussion content
+- **Extract to artifacts:**
+  - Create call-XX-data.json with structured data
+  - Update running-topics.json
+  - Update running-participants.json
 
 ### 1.2 Per-Call Documentation
 
@@ -1150,40 +1280,72 @@ Start Here.md
 
 ---
 
-## **Workflow Summary for 15-Call Wiki**
+## **Workflow Summary for 15-Call Wiki (Token-Aware)**
 
-### Week 1: Mapping (Phase 0)
-- Inventory all 15 calls
-- Map participants across calls
-- Identify topic clusters
-- Analyze check-in patterns
+### Week 1: Mapping + First Batch
+- **Day 1-2**: Phase 0 (create inventories, CSV files, JSON artifacts)
+  - Create call-inventory.csv
+  - Create participant-attendance.csv
+  - Create topic-clusters.json
+  - **Tokens**: ~4K | **Commits**: 1
+- **Day 3-5**: Batch 1 (process calls 01-03)
+  - Create 3 call pages + 3 call-data.json files
+  - Create batch-01-summary.md
+  - Update running artifacts
+  - **Tokens**: ~50K | **Commits**: 1
 
-### Week 2-3: Per-Call Processing (Phases 1-2)
-- Read all 15 transcripts and chats
-- Create 15 call summary pages
-- Build initial participant profiles
-- Extract all topics
+### Week 2: Batches 2-3
+- **Day 1-2**: Batch 2 (process calls 04-06)
+  - Read batch-01-summary.md (not full transcripts!)
+  - Create 3 call pages + 3 call-data.json files
+  - Create batch-02-summary.md
+  - **Tokens**: ~50K | **Commits**: 1
+- **Day 3-5**: Batch 3 (process calls 07-09)
+  - Read batch-02-summary.md
+  - Create 3 call pages + artifacts
+  - Create batch-03-summary.md
+  - **Tokens**: ~50K | **Commits**: 1
 
-### Week 4: Synthesis (Pass 3-4)
-- Create cross-call topic pages
-- Enrich participant profiles with evolution
-- Build check-ins hub and collections
-- Identify patterns and relationships
+### Week 3: Batches 4-5 + Structure
+- **Day 1-2**: Batch 4 (process calls 10-12)
+  - **Tokens**: ~50K | **Commits**: 1
+- **Day 3**: Batch 5 (process calls 13-15)
+  - **Tokens**: ~50K | **Commits**: 1
+- **Day 4-5**: Wiki structure and initial hub pages
+  - Use artifacts (NOT re-reading transcripts)
+  - Create Calls Hub, Participants Hub outline
+  - **Tokens**: ~15K | **Commits**: 1
 
-### Week 5: Navigation (Pass 5-6)
-- Create all hub pages
-- Build indexes (by date, topic, participant)
-- Create synthesis pages
-- Add cross-links throughout
+### Week 4: Synthesis (Artifact-Driven)
+- **Day 1-2**: Participant synthesis
+  - Use call-data.json files + participant-attendance.csv
+  - Create participant profile pages
+  - **Tokens**: ~15K per participant (targeted)
+- **Day 3-4**: Topic synthesis
+  - Use running-topics.json + relevant call-data.json
+  - Create cross-call topic pages
+  - **Tokens**: ~10K per topic (targeted)
+- **Day 5**: Pattern recognition
+  - Use batch summaries + running artifacts
+  - **Tokens**: ~20K
 
-### Week 6: Quality & Documentation (Phase 6)
-- Verify attributions across calls
-- Check completeness
-- Verify cross-call consistency
-- Write process documentation
-- Update work log
+### Week 5: Polish + Quality
+- **Day 1-2**: Cross-linking and navigation
+  - Complete all hub pages
+  - Create index pages
+  - **Tokens**: ~15K
+- **Day 3-4**: Meta-synthesis pages
+  - Evolution of Ideas, Major Themes, etc.
+  - Use batch summaries + topic pages
+  - **Tokens**: ~20K
+- **Day 5**: Quality verification
+  - Run scripts (0 tokens)
+  - Targeted verification only where needed
+  - **Tokens**: ~10K
 
-**Total estimated time: 40-60 hours for 15 calls with 50 participants and 100+ topics**
+**Total estimated time**: 40-60 hours for 15 calls
+**Total tokens**: ~400K (vs ~2000K without token management)
+**Total commits**: 12-15 (enabling resumability at any point)
 
 ---
 
