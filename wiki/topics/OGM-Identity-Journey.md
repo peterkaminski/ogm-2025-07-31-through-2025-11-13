@@ -310,8 +310,8 @@ Doug's revelation: **12 projects, 60% share OGM in common**
 
 ## Related Pages
 
-- [Calls Hub](../Calls%20Hub.md) - All OGM calls
-- [Topics Hub](../Topics%20Hub.md) - OGM Identity theme
+- [Calls Hub](../Calls Hub.md) - All OGM calls
+- [Topics Hub](../Topics Hub.md) - OGM Identity theme
 - [Call 05](../calls/Call-05.md) - Sense-making frustrations
 - [Call 09](../calls/Call-09.md) - Growth and platforms meta-discussion
 - [Call 14](../calls/Call-14.md) - Doug's gravitational center insight

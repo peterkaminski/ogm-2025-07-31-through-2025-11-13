@@ -637,8 +637,8 @@ The OGM group returns compulsively to definitional questions across Calls 05, 07
 
 ## Related Pages
 
-- [Calls Hub](../Calls%20Hub.md) - All calls with definitional debates
-- [Topics Hub](../Topics%20Hub.md) - Definitions theme
+- [Calls Hub](../Calls Hub.md) - All calls with definitional debates
+- [Topics Hub](../Topics Hub.md) - Definitions theme
 - [Call 05](../calls/Call-05.md) - Sense-making frustrations
 - [Call 07](../calls/Call-07.md) - Collaboration vs teamwork
 - [Call 08](../calls/Call-08.md) - Abundance speed round

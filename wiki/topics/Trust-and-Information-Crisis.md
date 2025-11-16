@@ -665,8 +665,8 @@ Series of anxious questions, each answered "Afraid so":
 
 ## Related Pages
 
-- [Calls Hub](../Calls%20Hub.md) - All calls exploring trust
-- [Topics Hub](../Topics%20Hub.md) - Trust and Information theme
+- [Calls Hub](../Calls Hub.md) - All calls exploring trust
+- [Topics Hub](../Topics Hub.md) - Trust and Information theme
 - [Call 01](../calls/Call-01.md) - East Germany trust paradox
 - [Call 03](../calls/Call-03.md) - Information trust crisis
 - [Call 04](../calls/Call-04.md) - Reality melting
